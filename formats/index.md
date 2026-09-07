@@ -1,0 +1,67 @@
+---
+created: 2026-08-27
+updated: 2026-08-30
+owner: team (shared)
+purpose: Table of contents for the shared Visual Formats library. One row per promoted format folder. Each folder holds real, live-in-market example creatives plus a classification guide and an execution SOP.
+triggers: Read when naming an ad and resolving its Visual Format taxonomy token, or when ideating/scripting/briefing a creative and choosing which visual format to execute.
+---
+
+# Visual formats — index (shared)
+
+Each format folder carries **two distinct documents**, use the right one for the job:
+- **`classify.md`** — for naming an ad or auditing an existing one: how to tell whether an ad should be tagged as this format.
+- **`execute.md`** — for ideating, scripting, or briefing: how to build/write one correctly.
+
+Rows below are alphabetized by format token.
+
+| Format | What it is | Classification | Execution |
+|---|---|---|---|
+| [ad-in-the-wild](ad-in-the-wild/) | The brand's creative staged as a physical out-of-home placement (billboard, wall, transit) composited into a real-world scene, often with a passerby or vehicle for scale. (Renamed from `outdoor-ad`.) | [classify.md](ad-in-the-wild/classify.md) | [execute.md](ad-in-the-wild/execute.md) |
+| [ai-animation](ai-animation/) | A fully AI-generated animated video that tells a narrative with animated characters (often a mascot), instead of live-action footage. | [classify.md](ai-animation/classify.md) | [execute.md](ai-animation/execute.md) |
+| [ai-generated-static](ai-generated-static/) | An obviously AI-generated image with the message baked into the render; the embraced AI look is the format. | [classify.md](ai-generated-static/classify.md) | [execute.md](ai-generated-static/execute.md) |
+| [asmr](asmr/) | A video built around amplified, satisfying tactile product sounds (clicks, ratchets, peels, pours); sound-led, with little or no voiceover. | [classify.md](asmr/classify.md) | [execute.md](asmr/execute.md) |
+| [before-and-after](before-and-after/) | A single before→after transformation of the same subject (scalp, skin, hair) as the hero proof, usually with a supporting stat/review/study. Not a multi-result case-study; not a same-subject comparison against a competitor. | [classify.md](before-and-after/classify.md) | [execute.md](before-and-after/execute.md) |
+| [behind-the-scenes](behind-the-scenes/) | A video showing how the product is made/developed (lab, line, formulation, R&D) with founder/chemist voiceover, selling credibility through the making-of. | [classify.md](behind-the-scenes/classify.md) | [execute.md](behind-the-scenes/execute.md) |
+| [case-study](case-study/) | A static framed as clinical/study proof: a "clinically proven" headline plus multiple image-backed result stats and a study-method footnote. | [classify.md](case-study/classify.md) | [execute.md](case-study/execute.md) |
+| [comment-response](comment-response/) | An Instagram or TikTok comment-response (question) sticker answered by a real-seeming person, as free-placed text overlay or as the video's on-camera response. | [classify.md](comment-response/classify.md) | [execute.md](comment-response/execute.md) |
+| [comment-screenshot](comment-screenshot/) | A screenshotted comment left on a social post used as the hero of a static, standing alone or with a reply captured in the screenshot. | [classify.md](comment-screenshot/classify.md) | [execute.md](comment-screenshot/execute.md) |
+| [egc](egc/) | Employee-generated content: someone who works at the brand (not the founder, not an outside creator) speaking on behalf of it, more high-level and less in the weeds than a founder ad. | [classify.md](egc/classify.md) | [execute.md](egc/execute.md) |
+| [face-peeking-into-bottom-of-frame](face-peeking-into-bottom-of-frame/) | Text-led static where the creator's oversized, cut-off face pokes up from the bottom edge of the frame. | [classify.md](face-peeking-into-bottom-of-frame/classify.md) | [execute.md](face-peeking-into-bottom-of-frame/execute.md) |
+| [feature-benefit-pointout](feature-benefit-pointout/) | A hero product with 3-6 call-out lines/arrows pointing at specific features, each translated into a benefit. | [classify.md](feature-benefit-pointout/classify.md) | [execute.md](feature-benefit-pointout/execute.md) |
+| [flatlay](flatlay/) | An overhead, styled flat arrangement of the product(s) on a clean surface, often showing the full color/variant range; the arrangement is the creative. | [classify.md](flatlay/classify.md) | [execute.md](flatlay/execute.md) |
+| [flowchart](flowchart/) | Decision-tree static: an entry question with branching yes/no forks and arrows that route the viewer to a personalized product recommendation. | [classify.md](flowchart/classify.md) | [execute.md](flowchart/execute.md) |
+| [flyer](flyer/) | A single printed sheet shown taped or stapled into a real everyday space (hydro pole, community board, elevator, storefront window); low-fi and handmade-feeling, borrowing grassroots authenticity rather than paid-media scale. Not a large paid OOH surface (that's ad-in-the-wild). | [classify.md](flyer/classify.md) | [execute.md](flyer/execute.md) |
+| [founder](founder/) | The person who built the product, on camera, telling the origin/problem story only they can credibly tell. | [classify.md](founder/classify.md) | [execute.md](founder/execute.md) |
+| [graphic-anchor](graphic-anchor/) | A video where a creator talks to camera and holds the frame while graphics (screenshots, UI cards, icons, product shots, metaphor props, b-roll) pop up around them, layered over the same shot, to clarify/emphasize/visualize/extend each line beat by beat. Usually the anchor format; can pair with a secondary like listicle. | [classify.md](graphic-anchor/classify.md) | [execute.md](graphic-anchor/execute.md) |
+| [greenscreen](greenscreen/) | Creator composited in front of a full-frame background screen that relates to what they're saying; the hook must open on the greenscreen. Always video; usually the anchor format (can pair with a secondary like unboxing). | [classify.md](greenscreen/classify.md) | [execute.md](greenscreen/execute.md) |
+| [high-craft-edit](high-craft-edit/) | A fast-cut, VO-driven video where the editing itself is the entertainment: nearly every beat gets its own purpose-built visual payoff (staged stunt, exploded-view/motion animation, meme or reaction insert, dramatized demo) and each one tops the last, so a feature-heavy rundown stays fun to watch. Always video; the anchor format. | [classify.md](high-craft-edit/classify.md) | [execute.md](high-craft-edit/execute.md) |
+| [instagram-text-overlay](instagram-text-overlay/) | Instagram's own native text carrying the message over a selfie/POV/lifestyle story shot; can use link and image stickers and overlaid screenshots, but no comment-response (question) sticker. | [classify.md](instagram-text-overlay/classify.md) | [execute.md](instagram-text-overlay/execute.md) |
+| [letter](letter/) | Image ad whose primary focus is a chunky text block with one title headline as the hook; often an apology and often signed by a founder/CEO, but neither required. Always image, never video. | [classify.md](letter/classify.md) | [execute.md](letter/execute.md) |
+| [line-chart](line-chart/) | A static whose hero is a plotted line/trend graph — a curve with real data points across a progression axis (time, cycle, usage) — visualizing the product's mechanism or the result it delivers. Not a self-select lookup table (matching-chart) and not a single big proof number (statistic). | [classify.md](line-chart/classify.md) | [execute.md](line-chart/execute.md) |
+| [listicle](listicle/) | A list of things — 2+ discrete items, numbered or not, in a single frame or across multiple slides. A structure, not a device; unlike feature-benefit-pointout it doesn't point at the product. | [classify.md](listicle/classify.md) | [execute.md](listicle/execute.md) |
+| [matching-chart](matching-chart/) | A static table that maps each self-select category (body type, skin type, goal, etc.) straight across to a recommended product or variant. A lookup, not a branching flowchart or an ordered listicle. | [classify.md](matching-chart/classify.md) | [execute.md](matching-chart/execute.md) |
+| [notes-app](notes-app/) | A screenshot styled as a recognizable Apple Notes card, used as the device carrying a note, tip, or one point of a list. A device, not a structure, often paired with `listicle`. | [classify.md](notes-app/classify.md) | [execute.md](notes-app/execute.md) |
+| [post-it](post-it/) | A handwritten sticky note or scrawl/annotation carrying one short thought, layered over a product or lifestyle image. | [classify.md](post-it/classify.md) | [execute.md](post-it/execute.md) |
+| [press](press/) | Editorial-styled ad borrowing press credibility via a pull-quote, logos, and/or awards. Two modes: real press (best) or a press-styled build using a generic, clearly-not-real source; never a real outlet falsely credited. | [classify.md](press/classify.md) | [execute.md](press/execute.md) |
+| [product-grid](product-grid/) | The product lineup arranged as a uniform grid, one SKU/variant per interchangeable cell, so the complete set is the payoff. Fits multi-SKU ranges or a single product swapped per cell by label (days, moods, occasions). Unlike bento-grid, the cells are uniform product slots. | [classify.md](product-grid/classify.md) | [execute.md](product-grid/execute.md) |
+| [review](review/) | Customer reviews presented as the creative: one short quote and/or star rating, or several review cards arranged together, product-forward and skimmable. A quick hit, not a narrative; one review or many, it's still Review. Unlike testimonial, no one narrates their whole journey. | [classify.md](review/classify.md) | [execute.md](review/execute.md) |
+| [sign](sign/) | A person holding a handmade sign with the message handwritten on it, shot in a real-world scene with the product beside them. | [classify.md](sign/classify.md) | [execute.md](sign/execute.md) |
+| [statistic](statistic/) | A static whose hero is one or a few big proof numbers (result %, units sold, ranking) rendered large over a product or lifestyle shot. The number is the message. | [classify.md](statistic/classify.md) | [execute.md](statistic/execute.md) |
+| [testimonial](testimonial/) | One person telling their whole story in their own words, almost always video: the struggle, the turning point with the product, and the result, narrated start to finish. The story arc is the format. Unlike review, it's a journey, not a single pulled line. | [classify.md](testimonial/classify.md) | [execute.md](testimonial/execute.md) |
+| [text-message](text-message/) | A static built as a screenshot of a text/iMessage conversation where the pitch plays out in chat bubbles. | [classify.md](text-message/classify.md) | [execute.md](text-message/execute.md) |
+| [toggle](toggle/) | An iOS-style settings toggle/switch UI overlaid on a photo, one option off and the brand option on. A UI-meme framing the choice as flipping a switch. | [classify.md](toggle/classify.md) | [execute.md](toggle/execute.md) |
+| [unboxing](unboxing/) | A video built around the reveal of a product from its packaging (opening the box, laying out the contents); the anticipation and reveal is the hook, usually with voiceover/talking, unlike sound-led asmr. Pairs cleanly as a secondary format. | [classify.md](unboxing/classify.md) | [execute.md](unboxing/execute.md) |
+| [us-vs-them](us-vs-them/) | A two-column comparison, brand vs. competitor/old way, 4-7 rows of buyer-language criteria. | [classify.md](us-vs-them/classify.md) | [execute.md](us-vs-them/execute.md) |
+| [whiteboard](whiteboard/) | Handwritten marker text and doodles on a real dry-erase whiteboard propped in a real setting; a low-fi, hand-drawn argument or comparison. | [classify.md](whiteboard/classify.md) | [execute.md](whiteboard/execute.md) |
+| [written-on-body](written-on-body/) | The ad's message handwritten directly on a person's body (stomach, arm, skin), turning the body into the copy surface. (Renamed from `unexpected-text-placement`.) | [classify.md](written-on-body/classify.md) | [execute.md](written-on-body/execute.md) |
+| [yapper](yapper/) | Fast, high-energy talking-head monologue straight to camera, no founder framing, no on-screen evidence. | [classify.md](yapper/classify.md) | [execute.md](yapper/execute.md) |
+
+## Pending format folders (stubs, not yet documented)
+These folders exist in the library but have no `classify.md` or `execute.md` yet, so they are not full rows above. Promote each with its two docs (and example media) before it becomes a live, taggable format:
+
+`ai-chat`, `annotation`, `bento-grid`, `demo`, `explainer`, `feature-benefit-callout`, `how-to`, `meme`, `news`, `nostalgia`, `podcast`, `product-grid`, `reaction`, `stitch`, `street-interview`, `time-lapse`, `trend`, `venn-diagram`, `vsl`, `web-search`
+
+## How to use this library
+- Naming/classifying an ad: open the format's `classify.md`.
+- Ideating, writing a concept/script/brief: open the format's `execute.md`.
+- Study the example creatives alongside whichever doc you're using, they're calibration references pulled from real in-market ads (competitor and inspo swipe), not assets to copy verbatim. The example media now lives in the shared `../files/` store (matched by the format token in the filename), not inside each format folder.
