@@ -20,8 +20,3 @@ Shoot a casual low-angle front-camera selfie so the face is cut off and sits in 
 
 ## Related
 - The mechanic that makes the low-effort look pay off: the casual-disarm / effort-mismatch mechanic (keep it feeling found, not produced).
-
-## Source
-- Instagram, @livrollings (Liv Rollings, content writer + business mentor): https://www.instagram.com/p/DbNYun7kYpX/
-- 17-slide static photo carousel (a swipe file of fill-in-the-blank hook templates). Cover slide is the face-peeking selfie with the overlay: "I've grown to 29k on Instagram in 2026 alone ALL from posting silly little reels... and these are the hooks that brought in the most followers ➡️".
-- Screenshot (cover slide): `face-peeking-livrollings-cover.jpg` in this folder.
