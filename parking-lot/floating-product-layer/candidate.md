@@ -7,7 +7,6 @@
 **Examples.**
 
 - **Kill Crew — "Fruit Sets Collection"** (video). Product illustrations of the fruit-print sets float across the frame over live workout footage before the wearer shows up in the actual set.
-  - Source: https://projects.motionapp.com/organization/6865e3be719070f58e027ff9/6865e3d0f9457333108169bb/inspo/ad/1617718029778497
   - Reference: [`files/b=kill-crew.mp4`](files/b=kill-crew.mp4)
 
 **Notes.** Spotted 2026-08-31. Only one example so far, name is a working title, waiting to see this pattern from a second brand before deciding whether to promote or fold into `graphic-anchor` / `annotation`.

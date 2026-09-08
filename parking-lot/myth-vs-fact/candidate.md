@@ -9,7 +9,6 @@ Alternative names considered: `myth-buster`, `debunk-card`, `false-belief-vs-tru
 **Examples.**
 
 - **ARMRA Colostrum — "Ditch Your 10-Step Skincare Routine"** (static). MYTH: aging skin is just genetics. FACT: study participants noticed fewer fine lines in 3 months. Product shot with quick credibility bullets underneath.
-  - Source: https://projects.motionapp.com/organization/6a907142705ee06282df7608/6a90718f506ecef10772c26e/inspo/ad/1730420784645358
   - Reference: [`files/b=armra.jpg`](files/b=armra.jpg)
 
 **Notes.** Spotted 2026-09-01. Name confirmed. Only one example so far — pretty confident this is a real format worth its own folder eventually (myth/fact objection-handling is a common enough tactic), just waiting on a second brand to lock it in.

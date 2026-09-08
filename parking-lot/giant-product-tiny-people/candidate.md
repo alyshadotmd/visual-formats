@@ -9,7 +9,6 @@ Alternative names considered: `miniature-world`, `oversized-product-scene`, `pro
 **Examples.**
 
 - **Loop — "We take sleep seriously. So can you."** (static). Lab-coated scientists inspecting a giant Loop sleep mask, one up a ladder, one taking notes at ground level.
-  - Source: https://projects.motionapp.com/organization/6865e3be719070f58e027ff9/6865e3d0f9457333108169bb/inspo/ad/1362627861860443
   - Reference: [`files/b=loop.jpg`](files/b=loop.jpg)
 
 **Notes.** Spotted 2026-08-31. Name undecided — waiting for a second example before committing. The craft/scrutiny narrative (lab coats, ladder, note-taking) may or may not be essential to the format vs. just this brand's execution.

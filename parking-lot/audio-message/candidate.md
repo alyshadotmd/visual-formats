@@ -7,7 +7,6 @@
 **Examples.**
 
 - **Spacegoods — "message to mum"** (video). Speaker records a thank-you voice message to the mum who gifted her the product, delivering her own turnaround story inside that message frame. Ad-library primary text pitches a different "depleted brain / can't focus" angle than the video itself delivers.
-  - Source: https://projects.motionapp.com/organization/6a907142705ee06282df7608/6a90718f506ecef10772c26e/inspo/ad/1285334783272036
   - Reference: [`files/b=spacegoods.mp4`](files/b=spacegoods.mp4)
 
 **Notes.** Spotted 2026-09-01. Name confirmed by Alysha: `audio-message`. Interesting split between ad-library copy angle and in-video execution — worth watching to see if the audio-message frame recurs with different primary-text angles or if this is a one-off pairing.
