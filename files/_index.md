@@ -196,8 +196,6 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=your-heights_vf=sign.jpg` | your-heights | - | sign |
 | `b=your-heights_vf=us-vs-them.jpeg` | your-heights | - | us-vs-them |
 | `b=your-heights_vf=yapper.mp4` | your-heights | - | yapper |
-| `c=livrollings_vf=face-peeking-into-bottom-of-frame.jpg` | - | livrollings | face-peeking-into-bottom-of-frame |
-| `c=oren-john_vf=graphic-anchor_vf=listicle.mp4` | - | oren-john | graphic-anchor + listicle |
 | `b=happy-mammoth_vf=before-and-after_vf=ai-generated-static.jpg` | happy-mammoth | - | before-and-after + ai-generated-static |
 | `b=natural-cycles_vf=line-chart.jpg` | natural-cycles | - | line-chart |
 | `b=happy-mammoth_vf=ai-animation.mp4` | happy-mammoth | - | ai-animation |
@@ -206,7 +204,6 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=surreal_vf=behind-the-scenes.mp4` | surreal | - | behind-the-scenes |
 | `b=huel_vf=explainer.mp4` | huel | - | explainer |
 | `b=o-positiv_vf=listicle.jpg` | o-positiv | - | listicle |
-| `c=tesspagel_vf=graphic-anchor.mp4` | - | tesspagel | graphic-anchor |
 | `b=ryze_vf=annotation.mp4` | ryze | - | annotation |
 | `b=o-positiv_vf=review.jpg` | o-positiv | - | review |
 | `b=hydrant_vf=ai-generated-static.jpg` | hydrant | - | ai-generated-static |
@@ -228,7 +225,6 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=made-in_vf=bento-grid.jpg` | made-in | - | bento-grid |
 | `b=vuori_vf=bento-grid.jpeg` | vuori | - | bento-grid |
 | `b=honour-health_vf=whiteboard.mp4` | honour-health | - | whiteboard |
-| `c=siffhaider_vf=podcast_vf=founder.mp4` | - | siffhaider | podcast + founder |
 | `b=alo-yoga_vf=bento-grid.jpg` | alo-yoga | - | bento-grid |
 | `b=dose_vf=flyer.jpg` | dose | - | flyer |
 | `b=armra_vf=letter.jpg` | armra | - | letter |
