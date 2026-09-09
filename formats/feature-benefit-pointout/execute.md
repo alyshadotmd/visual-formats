@@ -44,9 +44,6 @@ If specs or claims aren't verified, stop and get them — this format lives or d
 - Balance them around the product; alternate left/right so the eye travels the whole frame.
 - One idea per label. No label carries two features.
 
-### 4 · Footer (optional)
-- A quiet offer, rating, or CTA line. Never competes with the labels.
-
 ## Craft rules (priority order)
 
 1. **Every label ends on the benefit.** If a label stops at the spec, it isn't finished.
@@ -64,7 +61,6 @@ If specs or claims aren't verified, stop and get them — this format lives or d
 | Headline | 4–9 words |
 | Each label | ≤10 words, feature + benefit in one breath |
 | Label count | 3–6 |
-| Footer | ≤8 words |
 
 ## Build steps
 
@@ -76,7 +72,7 @@ If specs or claims aren't verified, stop and get them — this format lives or d
 6. Write the headline as the promise the labels prove.
 7. Claims pass: every spec and number validated against claim flags.
 8. Design handoff: product angle that exposes each labeled part; thin lines landing exactly on the part; balanced label placement.
-9. Deliver: headline, ordered labels with their target parts, footer, image direction, claims flags.
+9. Deliver: headline, ordered labels with their target parts, image direction, claims flags.
 
 ## QA checklist
 - [ ] Every label ends on a benefit, not a spec

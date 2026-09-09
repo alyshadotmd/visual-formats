@@ -171,6 +171,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=saie-beauty_vf=press.jpg` | saie-beauty | - | press |
 | `b=scentbird_vf=post-it.mp4` | scentbird | - | post-it |
 | `b=smol_vf=post-it.mp4` | smol | - | post-it |
+| `b=solawave_vf=yapper_vf=graphic-anchor.mp4` | solawave | - | yapper, graphic-anchor |
 | `b=solderstick_vf=instagram-text-overlay.jpeg` | solderstick | - | instagram-text-overlay |
 | `b=solderstick_vf=us-vs-them.jpeg` | solderstick | - | us-vs-them |
 | `b=spacegoods_vf=instagram-text-overlay.jpg` | spacegoods | - | instagram-text-overlay |
