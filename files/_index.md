@@ -231,3 +231,10 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=armra_vf=letter.jpg` | armra | - | letter |
 | `b=obvi_vf=whiteboard.jpg` | obvi | - | whiteboard |
 | `b=onnit_vf=venn-diagram_vf=whiteboard.jpg` | onnit | - | venn-diagram + whiteboard |
+| `b=o-positiv_vf=asmr_vf=unboxing.mp4` | o-positiv | - | asmr + unboxing |
+| `b=huda-beauty_vf=asmr_vf=unboxing.mp4` | huda-beauty | - | asmr + unboxing |
+| `b=eight-sleep_vf=listicle.mp4` | eight-sleep | - | listicle |
+| `b=huel_vf=us-vs-them.mp4` | huel | - | us-vs-them |
+| `b=instant-hydration_vf=skit.mp4` | instant-hydration | - | skit |
+| `b=kitsch_vf=skit.mp4` | kitsch | - | skit |
+| `b=everyday-dose_vf=skit.mp4` | everyday-dose | - | skit |
