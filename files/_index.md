@@ -238,3 +238,5 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=instant-hydration_vf=skit.mp4` | instant-hydration | - | skit |
 | `b=kitsch_vf=skit.mp4` | kitsch | - | skit |
 | `b=everyday-dose_vf=skit.mp4` | everyday-dose | - | skit |
+| `b=buoy_vf=taste-test.mp4` | buoy | - | taste-test |
+| `b=feel-goods_vf=yapper_vf=before-and-after.mp4` | feel-goods | - | yapper + before-and-after |
