@@ -9,9 +9,9 @@ For "is this ad an AI Animation?" naming/classification questions, use `classify
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=ai-animation`.
 
-**Whenever this SOP is triggered, open this folder and study the example first** — the character design, the mascot, how the story arc is paced, and how VO + on-screen text carry the message.
+**Whenever this SOP is triggered, open the shared `../../files/` folder (filter for `vf=ai-animation`) and study the example first** — the character design, the mascot, how the story arc is paced, and how VO + on-screen text carry the message.
 
 ## What this format is
 

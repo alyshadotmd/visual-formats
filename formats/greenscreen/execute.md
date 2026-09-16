@@ -9,10 +9,10 @@ For "is this ad a Greenscreen?" naming/classification questions, use `classify.m
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=greenscreen`.
 - This SOP lives in this folder, so the example videos sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — how the greenscreen opens the hook, what's on the screen behind the creator, and whether they react to it directly or it just adds context (compare the Native Pet context-layer example with the more reactive ones).
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=greenscreen`) and watch the examples first** — how the greenscreen opens the hook, what's on the screen behind the creator, and whether they react to it directly or it just adds context (compare the Native Pet context-layer example with the more reactive ones).
 
 ## What this format is
 

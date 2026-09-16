@@ -9,7 +9,7 @@ For "is this ad an AI Generated Static?" naming/classification questions, use `c
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — the generated scene, the embraced AI look, and how copy is baked in.
+They live in the shared `../../files/` folder, tagged `vf=ai-generated-static`. **Open the folder and study the example first** — the generated scene, the embraced AI look, and how copy is baked in.
 
 ## What this format is
 

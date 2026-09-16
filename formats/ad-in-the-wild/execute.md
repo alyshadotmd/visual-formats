@@ -9,9 +9,9 @@ For "is this ad an Ad in the Wild?" naming/classification questions, use `classi
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=ad-in-the-wild`.
 
-**Whenever this SOP is triggered, open this folder and study the example first** — how the placement is framed, how real the scene reads, and how the inner creative is laid out on the surface.
+**Whenever this SOP is triggered, open the shared `../../files/` folder (filter for `vf=ad-in-the-wild`) and study the example first** — how the placement is framed, how real the scene reads, and how the inner creative is laid out on the surface.
 
 ## What this format is
 

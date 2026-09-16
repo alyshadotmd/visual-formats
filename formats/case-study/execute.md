@@ -9,7 +9,7 @@ For "is this ad a Case Study?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how the study framing, result rows, images, and method footnote work together.
+They live in the shared `../../files/` folder, tagged `vf=case-study`. **Open the folder and study the example first** — how the study framing, result rows, images, and method footnote work together.
 
 ## What this format is
 

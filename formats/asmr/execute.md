@@ -9,7 +9,7 @@ For "is this ad an ASMR?" naming/classification questions, use `classify.md` in 
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — the close-ups, the amplified sounds, and how little voiceover there is.
+They live in the shared `../../files/` folder, tagged `vf=asmr`. **Open the folder and study the example first** — the close-ups, the amplified sounds, and how little voiceover there is.
 
 ## What this format is
 

@@ -10,10 +10,10 @@ For "is this ad a Us Vs Them?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=us-vs-them`.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=us-vs-them`) and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
 
 ## What this format is
 

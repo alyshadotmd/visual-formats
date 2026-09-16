@@ -25,9 +25,8 @@ Ask: *is this a creator rapidly talking straight to camera, without founder-spec
 
 ## What to look for as supporting signals
 
-- Punchy hook line in the first 3 seconds, no "hey guys" intro
-- A text overlay headline on screen for at least the first 3 seconds (e.g. "caffeine tolerance... let's talk about it," "started taking @heights vitals"), giving context for what's about to be said and often doing the direct-response hook's job when the verbal opener is more conversational
+- Punchy hook line in the first 3 seconds
+- A text overlay headline on screen for at least the first 3 seconds, giving context for what's about to be said and often doing the direct-response hook's job when the verbal opener is more conversational
 - Short, fragmented sentences, pattern interrupts
-- Product enters once, late, as the payoff
 
 See `execute.md` in this same folder for the visual/production execution rules (framing, energy, pacing, how to make it look real). For the script/argument itself, including how it should change by awareness stage, see `../../../script-swipe-file/formats/yapper.md`.

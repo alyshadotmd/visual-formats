@@ -9,7 +9,7 @@ For "is this ad a Written On Body?" naming/classification questions, use `classi
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how the copy is written on the body and how the product sits in-shot.
+They live in the shared `../../files/` folder, tagged `vf=written-on-body`. **Open the folder and study the example first** — how the copy is written on the body and how the product sits in-shot.
 
 ## What this format is
 

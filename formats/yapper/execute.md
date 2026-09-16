@@ -9,8 +9,8 @@ For "is this ad a Yapper?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
-- **Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — the framing, the energy level, the pacing/cut rhythm, and how none of it looks staged.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=yapper`.
+- **Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=yapper`) and watch the examples first** — the framing, the energy level, the pacing/cut rhythm, and how none of it looks staged.
 
 ## What this format is, visually
 

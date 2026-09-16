@@ -10,10 +10,10 @@ For "is this ad a Instagram Text Overlay?" naming/classification questions, use 
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=instagram-text-overlay`.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop_instagram-text-overlay` for an image sticker, `spacegoods_instagram-text-overlay-2` for a link-sticker CTA, and `spacegoods_instagram-text-overlay-1` / `natural-cycles_instagram-text-overlay-1` for an overlaid screenshot).
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=instagram-text-overlay`) and study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop_instagram-text-overlay` for an image sticker, `spacegoods_instagram-text-overlay-2` for a link-sticker CTA, and `spacegoods_instagram-text-overlay-1` / `natural-cycles_instagram-text-overlay-1` for an overlaid screenshot).
 
 ## What this format is
 

@@ -9,9 +9,9 @@ For "is this ad a Flowchart?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=flowchart`.
 
-**Whenever this SOP is triggered, open this folder and study the example first** — how the entry question is framed, how the branches split, and how each branch lands on a recommendation.
+**Whenever this SOP is triggered, open the shared `../../files/` folder (filter for `vf=flowchart`) and study the example first** — how the entry question is framed, how the branches split, and how each branch lands on a recommendation.
 
 ## What this format is
 

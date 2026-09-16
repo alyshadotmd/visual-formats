@@ -9,7 +9,7 @@ For "is this ad a Review?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. Open the folder and study the examples first: both the single pulled-quote version and the multi-card grid, and how quote(s), star ratings, attribution, and product work together at a glance.
+They live in the shared `../../files/` folder, tagged `vf=review`. Open the folder and study the examples first: both the single pulled-quote version and the multi-card grid, and how quote(s), star ratings, attribution, and product work together at a glance.
 
 ## What this format is
 

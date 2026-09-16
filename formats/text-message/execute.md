@@ -9,7 +9,7 @@ For "is this ad a Text Message?" naming/classification questions, use `classify.
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how the chat feels real, how the pitch is woven in, and how it pays off.
+They live in the shared `../../files/` folder, tagged `vf=text-message`. **Open the folder and study the example first** — how the chat feels real, how the pitch is woven in, and how it pays off.
 
 ## What this format is
 

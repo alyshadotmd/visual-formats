@@ -10,10 +10,10 @@ For "is this ad a Feature Benefit Pointout?" naming/classification questions, us
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=feature-benefit-pointout`.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — label count, where the lines point, and how each caption turns a spec into an outcome.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=feature-benefit-pointout`) and study the examples first** — label count, where the lines point, and how each caption turns a spec into an outcome.
 
 ## What this format is
 

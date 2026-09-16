@@ -9,7 +9,7 @@ For "is this ad a Statistic?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how big the number is, how it's supported, and how little else competes with it.
+They live in the shared `../../files/` folder, tagged `vf=statistic`. **Open the folder and study the example first** — how big the number is, how it's supported, and how little else competes with it.
 
 ## What this format is
 

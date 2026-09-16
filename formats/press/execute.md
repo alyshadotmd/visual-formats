@@ -10,9 +10,9 @@ For "is this ad a Press?" naming/classification questions, use `classify.md` in 
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=press`.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=press`) and study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
 
 ## What this format is
 

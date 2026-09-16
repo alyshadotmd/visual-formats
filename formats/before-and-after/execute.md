@@ -9,7 +9,7 @@ For "is this ad a Before And After?" naming/classification questions, use `class
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how the pair is framed, labeled, and supported by a stat/review.
+They live in the shared `../../files/` folder, tagged `vf=before-and-after`. **Open the folder and study the example first** — how the pair is framed, labeled, and supported by a stat/review.
 
 ## What this format is
 

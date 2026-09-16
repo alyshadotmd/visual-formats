@@ -9,7 +9,7 @@ For "is this ad a Sign?" naming/classification questions, use `classify.md` in t
 
 ## Reference examples (look here first)
 
-They sit in this same folder, next to this SOP. **Open the folder and study the example first** — how the sign is held, how handmade it looks, and how the product is composited beside it.
+They live in the shared `../../files/` folder, tagged `vf=sign`. **Open the folder and study the example first** — how the sign is held, how handmade it looks, and how the product is composited beside it.
 
 ## What this format is
 

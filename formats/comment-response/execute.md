@@ -5,12 +5,11 @@ description: Implementation SOP for the Comment Response ad format. A question p
 
 ## Reference examples (look here first)
 
-Real, live-in-market examples of this format are saved in the brain alongside this SOP:
+Real, live-in-market examples of this format are saved in the brain, in the shared files folder:
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
-- This SOP lives inside that same `comment-response/` folder, so the example creatives (images and the video replies) sit next to it.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=comment-response`.
 
-**Whenever this SOP is triggered or referenced, open this `comment-response/` folder and study the example creatives before writing.** Use them to calibrate the sticker, the question phrasing, the casting, and the native-text (or spoken) reply architecture. They are the visual source of truth for what a passing Comment Response ad looks like; the rules below are how to reproduce what they do.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=comment-response`) and study the example creatives before writing.** Use them to calibrate the sticker, the question phrasing, the casting, and the native-text (or spoken) reply architecture. They are the visual source of truth for what a passing Comment Response ad looks like; the rules below are how to reproduce what they do.
 
 
 For "is this ad a Comment Response?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.

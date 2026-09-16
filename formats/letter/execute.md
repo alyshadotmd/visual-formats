@@ -10,10 +10,10 @@ For "is this ad a Letter?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=letter`.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — the headline hook, letter length, how the text block is set, whether and how it's signed, and how personal vs promotional they read.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=letter`) and study the examples first** — the headline hook, letter length, how the text block is set, whether and how it's signed, and how personal vs promotional they read.
 
 ## What this format is
 

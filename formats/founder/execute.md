@@ -10,10 +10,9 @@ For "is this ad a Founder?" naming/classification questions, use `classify.md` i
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in this same folder, right next to this SOP.
-- This SOP lives in this folder, so the example creatives (videos) sit next to it.
+- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=founder`.
 
-**Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — how the founder opens, how much is story vs product, what they reveal about building the product, and the level of polish.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=founder`) and watch the examples first** — how the founder opens, how much is story vs product, what they reveal about building the product, and the level of polish.
 
 ## What this format is
 
