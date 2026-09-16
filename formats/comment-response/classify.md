@@ -40,4 +40,4 @@ Ask: *does this look like someone answering a question posed through an Instagra
 - The reply reads verdict-first, first person, answering the specific question
 - For video: the creator explicitly references the question ("someone asked…", "you asked…") before answering
 
-See `execute.md` in this same folder for the full build/scripting rules.
+See `execute.md` in this same folder for the visual/production execution rules (casting, styling, sticker mechanic, design handoff). For the question, the reply copy, and how the argument should change by awareness stage, see `../../../scriptwriting/formats/comment-response.md`.
