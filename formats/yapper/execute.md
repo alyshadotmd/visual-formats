@@ -1,9 +1,9 @@
 ---
 name: yapper-format
-description: Visual/production execution SOP for the Yapper ad format — how to shoot and perform a fast, high-energy talking-head so it reads as a real, spur-of-the-moment rant rather than a produced ad. Governs framing, setting, energy, pacing, and delivery. Does not govern the script or argument; that lives in Script Swipe File's formats/yapper.md, which this file cross-references. Use whenever executing/shooting a yapper ad, regardless of the script's awareness-stage or argument.
+description: Visual/production execution SOP for the Yapper ad format — how to shoot and perform a fast, high-energy talking-head so it reads as a real, spur-of-the-moment rant rather than a produced ad. Governs framing, setting, energy, pacing, and delivery. Does not govern the script or argument; that lives in Scriptwriting's formats/yapper.md, which this file cross-references. Use whenever executing/shooting a yapper ad, regardless of the script's awareness-stage or argument.
 ---
 
-For "is this ad a Yapper?" naming/classification questions, use `classify.md` in this same folder instead. For the words, the argument, and how the script should change by awareness stage, use `../../../script-swipe-file/formats/yapper.md`. This document is for shooting and performing one.
+For "is this ad a Yapper?" naming/classification questions, use `classify.md` in this same folder instead. For the words, the argument, and how the script should change by awareness stage, use `../../../scriptwriting/formats/yapper.md`. This document is for shooting and performing one.
 
 # Yapper Format — Visual Execution SOP
 
@@ -45,4 +45,4 @@ A creator talking fast and direct to camera in a way that reads as a **spur-of-t
 
 ## Production handoff
 
-Tight framing, direct eye-line, punchy cut rhythm if cutting at all, overlay placed and timed per the script's hook, high energy sustained end to end, captions on. Hand the script (from `../../../script-swipe-file/formats/yapper.md`) to whoever is filming, this SOP is what turns those words into something that looks real regardless of which awareness stage that script was written for.
+Tight framing, direct eye-line, punchy cut rhythm if cutting at all, overlay placed and timed per the script's hook, high energy sustained end to end, captions on. Hand the script (from `../../../scriptwriting/formats/yapper.md`) to whoever is filming, this SOP is what turns those words into something that looks real regardless of which awareness stage that script was written for.
