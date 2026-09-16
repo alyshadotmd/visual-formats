@@ -30,4 +30,4 @@ Ask: *is this a creator rapidly talking straight to camera, without founder-spec
 - Short, fragmented sentences, pattern interrupts
 - Product enters once, late, as the payoff
 
-See `execute.md` in this same folder for the full build/scripting rules.
+See `execute.md` in this same folder for the visual/production execution rules (framing, energy, pacing, how to make it look real). For the script/argument itself, including how it should change by awareness stage, see `../../../script-swipe-file/formats/yapper.md`.
