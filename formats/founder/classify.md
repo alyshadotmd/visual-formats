@@ -39,4 +39,4 @@ Ask: *is this a video of the person who started the company or built the product
 - Product enters as the resolution of the story, not the subject of the video
 - Setting is not a signal either way: a real, non-studio space is common but not required. A studio or polished setup is fine. The authority comes from who is speaking and what only they can say, not the production level.
 
-See `execute.md` in this same folder for the full build/scripting rules.
+See `execute.md` in this same folder for the visual/production execution rules (setting, camera, production handoff). For the story, the belief, and the argument, including how a founder's POV can be injected into another format like us-vs-them or comment response, see `../../../scriptwriting/skills/founder/SKILL.md`.

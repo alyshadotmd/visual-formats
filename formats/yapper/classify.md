@@ -29,4 +29,4 @@ Ask: *is this a creator rapidly talking straight to camera, without founder-spec
 - A text overlay headline on screen for at least the first 3 seconds, giving context for what's about to be said and often doing the direct-response hook's job when the verbal opener is more conversational
 - Short, fragmented sentences, pattern interrupts
 
-See `execute.md` in this same folder for the visual/production execution rules (framing, energy, pacing, how to make it look real). For the script/argument itself, including how it should change by awareness stage, see `../../../scriptwriting/formats/yapper.md`.
+See `execute.md` in this same folder for the visual/production execution rules (framing, energy, pacing, how to make it look real). For the script/argument itself, including how it should change by awareness stage, see `../../../scriptwriting/skills/yapper/SKILL.md`.

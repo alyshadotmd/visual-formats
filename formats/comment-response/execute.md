@@ -9,7 +9,7 @@ description: Visual/production execution SOP for the Comment Response ad format 
 
 **Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=comment-response`) and study the example creatives before shooting.** Use them to calibrate the sticker styling, the casting, and the native visual feel. They are the visual source of truth for what a passing Comment Response ad looks like.
 
-For "is this ad a Comment Response?" naming/classification questions, use `classify.md` in this same folder instead. For the question, the reply copy, and how the argument should change by awareness stage, use `../../../scriptwriting/formats/comment-response.md`. This document is for shooting, casting, and styling one.
+For "is this ad a Comment Response?" naming/classification questions, use `classify.md` in this same folder instead. For the question, the reply copy, and how the argument should change by awareness stage, use `../../../scriptwriting/skills/comment-response/SKILL.md`. This document is for shooting, casting, and styling one.
 
 # Comment Response Format — Visual Execution SOP
 
