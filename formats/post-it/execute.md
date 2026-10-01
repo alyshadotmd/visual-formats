@@ -10,10 +10,10 @@ For "is this ad a Post-it?" naming/classification questions, use `classify.md` i
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=post-it`.
+- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=post-it`.
 - This SOP lives in this folder, so the example creatives (images and videos) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=post-it`) and study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=post-it`) and study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
 
 ## What this format is
 

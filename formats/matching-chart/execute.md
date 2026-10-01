@@ -9,9 +9,9 @@ For "is this ad a Matching Chart?" naming/classification questions, use `classif
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=matching-chart`.
+- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=matching-chart`.
 
-**Whenever this SOP is triggered, open the shared `../../files/` folder (filter for `vf=matching-chart`) and study the example first** — how the categories are framed, how each maps to a product, and how the reader is meant to find themselves.
+**Whenever this SOP is triggered, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=matching-chart`) and study the example first** — how the categories are framed, how each maps to a product, and how the reader is meant to find themselves.
 
 ## What this format is
 

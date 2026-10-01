@@ -10,10 +10,10 @@ For "is this ad a Us Vs Them?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=us-vs-them`.
+- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=us-vs-them`.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=us-vs-them`) and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
+**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=us-vs-them`) and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
 
 ## What this format is
 
@@ -62,7 +62,7 @@ If the contrasts aren't verifiable for both sides, stop and verify. Never invent
 
 Most Us Vs Them tables compare the two *products* (or two checklists). The strongest version also compares what each choice *does to the buyer* by putting the outcome on screen, not just claiming it.
 
-- **Show the end state visually on both sides.** Buoy's "How do you treat constipation?" ad (`b=buoy_vf=us-vs-them.jpg` in the shared files store) pairs "take a laxative" with a dull, strained gut and Buoy with a vibrant, healthy one. The viewer grasps the difference pre-verbally, before reading a single row, and the anatomical imagery doubles as a pattern-interrupt scroll-stopper.
+- **Show the end state visually on both sides.** Buoy's "How do you treat constipation?" ad (`b=buoy_s=evergreen_vf=us-vs-them.jpg` in the shared files store) pairs "take a laxative" with a dull, strained gut and Buoy with a vibrant, healthy one. The viewer grasps the difference pre-verbally, before reading a single row, and the anatomical imagery doubles as a pattern-interrupt scroll-stopper.
 - **Why it works:** a normal table argues efficacy in words or checkmarks; showing the outcome turns the efficacy claim into visible proof, so it reads faster and is far more visually intriguing than a plain two-column list.
 - **Where it travels:** any category where the product visibly changes something (gut, skin, scalp, hair, teeth, home surface). Keep it honest, if the outcome can't be shown truthfully, stay on the checklist and never fake a result.
 

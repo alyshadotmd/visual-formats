@@ -12,10 +12,10 @@ For "is this ad a Comment Screenshot?" naming/classification questions, use `cla
 
 Real, live-in-market examples of this format are saved in the brain, in the shared files folder:
 
-- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=comment-screenshot`.
+- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=comment-screenshot`.
 - This SOP lives inside that same `comment-screenshot/` folder, so the example creatives are the image files sitting next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=comment-screenshot`) and study the example images before writing.** Calibrate the comment styling, who is speaking, and whether a reply is captured in the screenshot (as in the harrys example) or the comment stands alone, against what the examples actually do.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=comment-screenshot`) and study the example images before writing.** Calibrate the comment styling, who is speaking, and whether a reply is captured in the screenshot (as in the harrys example) or the comment stands alone, against what the examples actually do.
 
 ## What this format is
 

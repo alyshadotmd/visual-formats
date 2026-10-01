@@ -34,6 +34,6 @@ Unboxing pairs cleanly as a **secondary** format. An install or reveal video tha
 
 Box/mailer/wrapper on camera, tape or seal being opened, contents lifted out and arranged, "here's what comes with it," first-impression reactions, close-ups of the packaging and the product's first appearance.
 
-Example carrying this tag: `b=rough-country_vf=asmr_vf=unboxing.mp4` (in `../files/`) — a truck bed-cover install that reveals the product as it's unpacked and fitted; it leans ASMR (primary), with Unboxing as the secondary reveal tag. A dedicated Unboxing-primary example is still needed.
+Example carrying this tag: `b=rough-country_s=evergreen_vf=asmr_vf=unboxing.mp4` (in `../../files/evergreen/`) — a truck bed-cover install that reveals the product as it's unpacked and fitted; it leans ASMR (primary), with Unboxing as the secondary reveal tag. A dedicated Unboxing-primary example is still needed.
 
 See `execute.md` for the build rules.

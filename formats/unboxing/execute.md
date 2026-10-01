@@ -9,7 +9,7 @@ For "is this ad an Unboxing?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-Examples live in the shared `../files/` store, tagged by filename token. Find them by the token `vf=unboxing`. As of now the only file carrying the tag is `b=rough-country_vf=asmr_vf=unboxing.mp4`, and it leans ASMR — **study it for the reveal beats, not as a pure unboxing**. A dedicated unboxing-primary reference is still to be added.
+Examples live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged by filename token. Find them by the token `vf=unboxing`. As of now the only file carrying the tag is `b=rough-country_s=evergreen_vf=asmr_vf=unboxing.mp4`, and it leans ASMR — **study it for the reveal beats, not as a pure unboxing**. A dedicated unboxing-primary reference is still to be added.
 
 ## What this format is
 

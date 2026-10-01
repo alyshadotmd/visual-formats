@@ -9,7 +9,7 @@ For "is this ad a Graphic Anchor?" naming/classification questions, use `classif
 
 ## Reference examples (look here first)
 
-Example media lives in the shared `../files/` store, matched by the format token: all Graphic Anchor examples are files containing `vf=graphic-anchor`. **Start with `c=oren-john_vf=graphic-anchor.mp4`** and watch how each graphic enters on the beat it supports and swaps as the point changes.
+Example media lives in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, matched by the format token: all Graphic Anchor examples are files containing `vf=graphic-anchor`. **Start with `c=oren-john_vf=graphic-anchor.mp4`** and watch how each graphic enters on the beat it supports and swaps as the point changes.
 
 ## What this format is
 

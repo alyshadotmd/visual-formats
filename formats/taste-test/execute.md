@@ -10,7 +10,7 @@ For "is this ad a Taste Test?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in the shared `../../files/` folder, tagged `vf=taste-test` (currently `b=buoy_vf=taste-test.mp4`, the flavorless-demo variant).
+- **Reference examples:** They sit in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=taste-test` (currently `b=buoy_vf=taste-test.mp4`, the flavorless-demo variant).
 - Study the tasting beat: how the consumption is framed, when the reaction lands, how the product enters the drink or the mouth.
 
 ## What this format is

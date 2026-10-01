@@ -9,7 +9,7 @@ For "is this ad a Toggle?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/` folder, tagged `vf=toggle`. **Open the folder and study the example first** — the toggle UI styling, the off-vs-on framing, and the background photo.
+They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=toggle`. **Open the folder and study the example first** — the toggle UI styling, the off-vs-on framing, and the background photo.
 
 ## What this format is
 

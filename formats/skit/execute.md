@@ -10,7 +10,7 @@ For "is this ad a Skit?" naming/classification questions, use `classify.md` in t
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in the shared `../../files/` folder, tagged `vf=skit` (currently `b=instant-hydration_vf=skit.mp4`, `b=kitsch_vf=skit.mp4`, `b=everyday-dose_vf=skit.mp4`).
+- **Reference examples:** They sit in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=skit` (currently `b=instant-hydration_s=evergreen_vf=skit.mp4`, `b=kitsch_s=evergreen_vf=skit.mp4`, `b=everyday-dose_s=evergreen_vf=skit.mp4`).
 - Study them first: how the two characters are visually distinguished, how the setup and reveal are timed, and how the product enters the scene.
 
 ## What this format is
@@ -58,7 +58,7 @@ If the angle doesn't cleanly reduce to one wrong belief and one corrective refra
 ## Common variants
 
 - **Wrong self + corrective self (same actress, split-screen).** The default in the reference examples. Easiest to shoot solo.
-- **Patient / consultant.** The corrective-self plays an expert role (doctor, trainer, stylist) diagnosing the wrong-self's problem and prescribing the product. See `b=everyday-dose_vf=skit.mp4`.
+- **Patient / consultant.** The corrective-self plays an expert role (doctor, trainer, stylist) diagnosing the wrong-self's problem and prescribing the product. See `b=everyday-dose_s=evergreen_vf=skit.mp4`.
 - **Novice / expert.** The corrective-self coaches the wrong-self through the correct usage or the correct choice.
 - **Multi-actor skit.** Two different actors in the same scene. Same rules apply; the visual distinction is easier because the actors are already different.
 

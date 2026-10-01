@@ -9,7 +9,7 @@ For "is this ad a Whiteboard?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/` folder, tagged `vf=whiteboard`. **Open the folder and study the example first** — the marker handwriting, the rough doodles, and how homemade it reads.
+They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=whiteboard`. **Open the folder and study the example first** — the marker handwriting, the rough doodles, and how homemade it reads.
 
 ## What this format is
 

@@ -9,9 +9,9 @@ For "is this ad a Founder?" naming/classification questions, use `classify.md` i
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/` folder, tagged `vf=founder`.
+- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=founder`.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/` folder (filter for `vf=founder`) and watch the examples first** — how much polish, what the setting communicates, and how the founder holds the camera's attention without performing.
+**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=founder`) and watch the examples first** — how much polish, what the setting communicates, and how the founder holds the camera's attention without performing.
 
 ## What this format is, visually
 

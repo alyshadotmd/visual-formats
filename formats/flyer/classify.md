@@ -34,6 +34,6 @@ Does it look like a flyer someone printed and taped up around town? Flyer. Does 
 
 Examples in the files folder:
 
-- Loop "SUSPECT: Full Coverage Bundle" wanted-poster taped in an elevator (inner treatment: meme)
+- Loop "SUSPECT: Full Coverage Bundle" wanted-poster taped in an elevator
 
 See `execute.md` in this same folder for the full build rules.

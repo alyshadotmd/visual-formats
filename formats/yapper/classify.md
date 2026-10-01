@@ -14,6 +14,10 @@ A **fast, high-energy talking-head monologue** straight down the barrel of the c
 1. **The creator talks directly to camera for most/all of the runtime**, no reliance on cutaway footage to carry the argument.
 2. **The delivery is fast and high-energy**, a rapid, confident monologue, not a slow, considered, story-driven piece.
 
+## Little to no editing (Alysha, 2026-09-30, Caraway)
+
+A yapper is raw: one person, direct to camera, little to no editing. If the video is polished, with multiple b-roll shots, cutaways or a voiceover carrying parts of it, it is **not** a yapper. Tag it with the specific UGC type that fits (testimonial, interview, etc.), or `ugc` as the fallback.
+
 ## Quick test
 
 Ask: *is this a creator rapidly talking straight to camera, without founder-specific framing or a slow story arc?* If yes, Yapper. If the speaker is specifically presented as the founder telling an origin story, it's `founder` instead, even if delivered similarly to camera.

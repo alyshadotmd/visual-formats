@@ -25,6 +25,8 @@ Is the ad built around one before/after transformation of the same subject? If y
 - **Statistic:** a big number as the hero, no transformation pair.
 - **Us vs Them:** compares two *different* things (brand vs competitor/old way). Before And After compares the *same subject* over time. Some before/afters borrow us-vs-them framing ("toxic products" vs the brand) — if the two images are the same subject's change, it's Before And After (tag us-vs-them as a secondary if the competitor framing is strong).
 
+- **Transformation (parked candidate):** tells the change as a story in sequence (problem, product, happy result) without a direct comparison. If the before and after are not the same kind of shot set against each other (shower then shower, hair then hair), it's Transformation, not Before And After. The test: could you point at two matching frames and say "that's before, that's after"? If not, it's a storytelling transformation.
+
 ## Signals
 
 "Before" / "After" labels, "6 months" / "90 days," the same face/scalp/skin shown twice, a "results may vary" footnote, often a supporting stat or review.

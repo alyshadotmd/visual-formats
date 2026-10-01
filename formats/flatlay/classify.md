@@ -15,6 +15,10 @@ A static shot from directly **overhead** of the product (or products + props) **
 2. **Product(s) laid out flat on a clean surface**, deliberately styled.
 3. **The layout / variety is the hero** (the range, the palette, the spread).
 
+## Real-life setting (Alysha, 2026-09-30, Caraway)
+
+A flatlay is laid out as if someone were taking a photo for their Instagram story: products arranged in a **real-life-looking environment** (a bed, a counter, a table with real props). A studio product shot on a seamless or gradient backdrop, or products floating in a frame, is not a flatlay; check `offer-banner` and the other layout formats instead.
+
 ## Quick test
 
 Is it a top-down styled arrangement of the product laid flat? If yes, Flatlay.

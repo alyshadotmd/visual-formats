@@ -22,6 +22,7 @@ Ask: *does this look like an annotated diagram of one product, where each label 
 
 ## Commonly confused with
 
+- **Feature Benefit Callout:** features or benefits listed around the product with no arrows or lines pointing at specific parts. Pointout needs the arrows to specific parts (Alysha, 2026-09-30).
 - **Us Vs Them:** also uses labeled criteria, but structured as a two-column comparison table (brand vs. alternative), not lines pointing at parts of a single product.
 - **Instagram Text Overlay / Post-it:** both can have text over a product, but neither has the multi-point annotated-diagram structure with connector lines to specific product parts.
 

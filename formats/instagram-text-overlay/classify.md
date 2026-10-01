@@ -23,6 +23,10 @@ It can also use native story elements: a **link sticker**, an **image sticker**,
 - An **image sticker**
 - **Overlaid screenshots or images** on the story — you can drop a screenshot or photo on top and it's still this format, as long as native IG text is doing the talking (see the Space Goods and Natural Cycles examples in the files folder)
 
+## Video too (Alysha, 2026-09-30)
+
+This format describes the **text layer**, so it applies to videos as well as statics. On a video, add a second format only when the footage itself is a specific library format (for example a `yapper` talking to camera). Don't add `b-roll-overlay` on top: that is the fallback for b-roll carrying text that isn't Instagram-native, so Instagram text overlay (the more specific one) wins alone.
+
 ## Quick test
 
 Would this look like someone's own Instagram story? Is native IG text doing the talking, with **no** question/comment-response sticker? If yes, this format. Link stickers, image stickers, and overlaid screenshots don't change that.

@@ -9,7 +9,7 @@ For "is this ad a Behind The Scenes?" naming/classification questions, use `clas
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/` folder, tagged `vf=behind-the-scenes`. **Open the folder and study the example first** — how the process footage, overlays, and voiceover build a credibility arc.
+They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=behind-the-scenes`. **Open the folder and study the example first** — how the process footage, overlays, and voiceover build a credibility arc.
 
 ## What this format is
 

@@ -7,31 +7,38 @@ description: How to identify whether an ad should be classified/named as the Ben
 
 ## Definition
 
-A static where **the grid is a modular design scaffold** — bento-box tiles holding *deliberately different* content (cropped product and lifestyle images plus text panels) — composed into one polished, editorial frame. The craft of the composition is the format.
+A static or video built from **tiles or panels where at least one tile is something other than a flat product image**: a lifestyle shot, a product in use or in context, a person, a macro/texture crop, or moving footage. The tiles can be varied sizes or all the same size. What makes it bento is the **mix of image types**, like a bento box holding different foods, not the tile sizes.
 
 ## The things that must all be true
 
-1. **The grid is a layout system, not a product lineup.** The cells are deliberately different, not interchangeable slots.
-2. **Mixed content across tiles** — at least one image crop *and* at least one text panel, or a clear mix of image types (hero, macro detail, lifestyle).
-3. **The appeal is design craft** — clean, aligned, curated tiles that read as one composed, editorial piece.
+1. **The frame is split into tiles or panels** (boxed, or clearly separated blocks).
+2. **At least one tile is not a flat product image.** Lifestyle, model, in-use, styled scene, macro crop, or video footage.
+3. **The tiles do different jobs** (product, proof of result, lifestyle, message) and read as one composed piece.
+
+Tile size does not decide it. Same-size tiles can be bento; varied-size tiles holding only flat product shots are product-grid.
 
 ## Quick test
 
-Are the cells deliberately different (an image, a crop, a text block) arranged for composition? It's Bento Grid. Are they interchangeable product/variant slots? That's **product-grid**.
+Cover the text. Is every remaining image a flat product shot (studio shot or cut-out with no background)? Then it's **product-grid**, however the tiles are sized or arranged. Is at least one tile a lifestyle, person, in-use, macro, or footage panel? Then it's Bento Grid.
 
 ## Commonly confused with
 
-- **Product Grid:** uniform, interchangeable product cells. Bento Grid cells are varied by design and usually include a text tile.
+- **Product Grid:** only flat product images (studio or no background), in any arrangement: uniform cells, a varied-size mosaic, boxless rows, or a free scatter. The moment a lifestyle or in-context image joins the tiles, it becomes Bento Grid.
+- **Collage:** loose, overlapping, un-tiled cut-outs mixed with lifestyle and accessory images, Pinterest-board feel. Bento Grid is tiled and clean.
 - **Listicle:** a Bento Grid can carry a text tile with bullets, but it's a composed multi-tile layout, not a pure list making an argument.
-- **Collage:** a messy, overlapping, layered pile. Bento Grid is clean, aligned, and gridded — bento, not collage.
+- **Collage:** a messy, overlapping, layered pile. Bento Grid is clean, aligned, and tiled.
 
 ## Signals
 
-Bento-box tile layout, varied tile sizes (a larger hero tile plus smaller supporting tiles), a mix of product shot + macro crop + lifestyle + a text panel, a unifying palette and type system, and an editorial / lookbook / brand-story feel.
+Tile or panel layout, a lifestyle / model / in-use tile beside product tiles, often a text or offer tile, a unifying palette and type system, an editorial / lookbook / brand-story feel.
 
-Examples in the files folder:
+Examples:
 
-- Made In "Deinfluencing Cookware Fads Since 1929" — a clean product-shot tile, a macro detail crop, a kitchen lifestyle tile, and a bulleted text panel (heritage / authority story).
-- Vuori "The Villa Collection" — model-shot tiles, a text tile ("Just In: New Colors"), and product-on-model crops (a lookbook composition).
+- Act + Acre "25% Off" (swipe file) — four same-ish panels: two product shots, a text/offer tile, and a lifestyle tile of long hair. The hair tile is what makes it bento.
+- Act + Acre comment-response split-screen video (swipe file) — four panels of creator footage; a video can be Bento Grid.
+- Made In "Deinfluencing Cookware Fads Since 1929" — a product tile, a macro detail crop, a kitchen lifestyle tile, and a bulleted text panel.
+- Vuori "The Villa Collection" — model-shot tiles, a text tile ("Just In: New Colors"), and product-on-model crops.
+
+Not bento (moved to product-grid): Act + Acre "25% Off Sitewide" — a varied-size mosaic, but every tile is a flat product shot.
 
 See `execute.md` for the build rules.

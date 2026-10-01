@@ -9,7 +9,7 @@ For "is this ad a Flatlay?" naming/classification questions, use `classify.md` i
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/` folder, tagged `vf=flatlay`. **Open the folder and study the example first** — the overhead angle, the arrangement, and how minimal the copy is.
+They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=flatlay`. **Open the folder and study the example first** — the overhead angle, the arrangement, and how minimal the copy is.
 
 ## What this format is
 

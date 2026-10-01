@@ -7,31 +7,39 @@ description: How to identify whether an ad should be classified/named as the Pro
 
 ## Definition
 
-A static where the **product lineup itself is arranged as a uniform grid** — one product, SKU, or variant per cell — and the complete, repeated set is the payoff. The grid *is* the content: a range, a collection, or a set laid out to be seen all at once.
+A static where the **only images are flat product images** (studio shots or cut-outs with no background), laid out together so the lineup, range, or set is the payoff. The arrangement can be anything: uniform boxed cells, a varied-size mosaic, boxless rows, or products scattered freely around a headline. What makes it product grid is the **content** (flat product images only), not the layout.
 
 ## The things that must all be true
 
-1. **Every cell holds the same type of thing** — a product, SKU, or variant. The cells are interchangeable slots.
-2. **The grid is the lineup**, not a layout scaffold for mixed media. No text panels or lifestyle tiles doing their own job inside the grid.
-3. **The cells are uniform** — same crop, scale, background, framing — so the set reads as one satisfying whole.
+1. **Every image is a flat product image**: a studio shot or a cut-out with no background. No lifestyle, model, in-use, styled scene, or footage panels.
+2. **Multiple products or variants are shown together** (or one product repeated with a label swapping per slot).
+3. **The set is the payoff**: range, collection, bundle, or kit contents.
+
+Text is allowed: a title, per-item labels or prices, and a headline or offer tile or block (often in the center cell or across the middle). A text tile does not turn it into bento.
 
 ## Quick test
 
-Could you swap any cell's item for another variant and the ad still makes sense? If the cells are interchangeable product/variant slots, it's Product Grid. If the cells are deliberately different (an image here, a text block there, a cropped lifestyle shot), that's **bento-grid**.
+Cover the text. Is every remaining image a flat product shot? Then it's Product Grid, whether the tiles are equal, varied, unboxed, or scattered. If at least one image is a lifestyle, person, in-use, macro, or footage tile, it's **bento-grid**.
 
 ## Commonly confused with
 
-- **Bento Grid:** cells are deliberately *different* (image, crop, text) composed for design. Product Grid cells are *uniform* product slots.
-- **Flatlay:** a single styled overhead arrangement on a surface; Product Grid is a strict grid of separated cells, each isolating one item.
-- **Listicle:** a list of discrete points, usually text-led and often making an argument. Product Grid is product images in a grid, not a numbered case.
+- **Bento Grid:** includes at least one image that isn't a flat product image (lifestyle, model, in-use, macro, footage). Tile size doesn't matter for either format; the image types do.
+- **Collage:** loose cut-out products mixed with lifestyle and accessory images on one canvas. If there are no lifestyle or accessory images and it reads as a brand lineup, it's Product Grid.
+- **Flatlay:** a single overhead photo of products arranged on a real surface. Product Grid is separately placed product images (studio or cut-out), not one styled overhead scene.
+- **Listicle:** a list of discrete points, usually text-led and making an argument. Product Grid is product images, not a numbered case.
 
 ## Signals
 
-Uniform 3x3 / 3x4 (or similar) cells, one isolated product per cell, consistent background and scale, often a per-cell label or price, and "collection / set / range / the whole lineup" framing. Also covers the single-product play where the *same* product repeats per cell and a **label** does the swapping (days of the week, moods, occasions, use-cases).
+Studio or no-background product shots only, 3x3 / 3x4 cells or boxless rows or a free scatter, consistent scale and lighting, often a per-item label or price, a center offer tile or headline, "collection / set / range / kit / the whole lineup" framing. Also covers the single-product play where the same product repeats and a label does the swapping (days, moods, occasions).
 
-Examples in the files folder:
+Examples:
 
-- Mejuri "Birthstone Jewelry" — 12 birthstone charms in a clean 3x4 grid, one stone per cell (a true multi-SKU range).
-- Made In "13-piece stainless set" — 3x3 grid, each cell one piece with its name and sale price (a set/offer lineup).
+- Mejuri "Birthstone Jewelry" — 12 charms in a clean 3x4 grid, one stone per cell.
+- Made In "13-piece stainless set" — 3x3 grid, each cell one piece with its name and sale price.
+- Act + Acre "25% Off Sitewide" (swipe file) — varied-size mosaic, but all flat product shots.
+- Arrae "Black Friday Sale" (swipe file) — uniform cells of jars and pouches with a center offer tile.
+- Robe "Final Days" (swipe file) — 3x3 colorways, each named, with a center offer tile.
+- AG1 "Black Friday Welcome Kit" (swipe file) — boxless rows of cut-out kit items, each labeled "Free ___".
+- Jones Road "Cyber Monday Is Here" (swipe file) — cut-out products scattered freely around a big headline.
 
 See `execute.md` for the build rules.

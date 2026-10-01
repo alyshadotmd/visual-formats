@@ -9,7 +9,7 @@ For "is this ad a Testimonial?" naming/classification questions, use `classify.m
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/` folder, tagged `vf=testimonial`. Open the folder and study the example first: how the arc (struggle, turning point, result) is paced and where the product enters.
+They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=testimonial`. Open the folder and study the example first: how the arc (struggle, turning point, result) is paced and where the product enters.
 
 ## What this format is
 
