@@ -34,5 +34,6 @@ Props laid out to compare, a confident teacherly tone, "this is 40g of protein",
 Examples in the evergreen files folder (tagged `vf=explainer`):
 
 - Huel, a man at a table showing bowls of eggs, edamame and more to explain how much protein is in each, then drinking the shake
+- Seed x Bobby Parrish, a man in a kitchen pulling apart a DS-01 capsule to explain the outer capsule, inner capsule and 24 strains, with labels and a circle inset showing the open capsule
 
 See `execute.md` for the build rules.

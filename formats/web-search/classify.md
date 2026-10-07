@@ -34,5 +34,6 @@ Examples in the evergreen files folder (tagged `vf=web-search`):
 
 - Armra search history ("Best hair supplement", "Why is my hair still shedding?") above the tub
 - Hum Nutrition "How to..." autocomplete ("How to deal with brain fog") above the tub
+- Boll & Branch search bar ("What sheets are best for hot sleepers?") over a styled bedroom shot, the bedding as the answer (first lifestyle-scene example)
 
 See `execute.md` for the build rules.

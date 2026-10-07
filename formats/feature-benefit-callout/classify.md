@@ -36,5 +36,6 @@ Examples in the evergreen files folder (tagged `vf=feature-benefit-callout`):
 - Lemme "Healthy Aging, Backed by Science", a held bottle with four icon benefits linked in a loop (the arrows link benefits, they don't point at the bottle)
 - Merit "SPF that doubles as a blur filter", four icon lines beside the tube
 - O Positiv "Don't take this pill unless you want", four checkmark pills
+- Sans "STOP LIVING WITH DUST" (DUST struck through), an air purifier with four checkmark pills below the headline
 
 See `execute.md` for the build rules.

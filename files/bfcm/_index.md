@@ -21,7 +21,7 @@ b=<brand>_s=bfcm_vf=<format>[_vf=<format2>]_ot=<offer type>[...]_dt=<discount ty
 - `id=` Motion creative ID, which keeps names unique.
 - To change tags, use the swipe file's `_pipeline/apply-tags.py`; it renames the media and rebuilds this table (tag notes are kept here).
 
-## Files (269)
+## Files (272)
 
 | File | Brand | Visual format(s) | Offer type | Tag note |
 |---|---|---|---|---|
@@ -139,6 +139,7 @@ b=<brand>_s=bfcm_vf=<format>[_vf=<format2>]_ot=<offer type>[...]_dt=<discount ty
 | `b=everydaydose_s=bfcm_vf=whiteboard_vf=podcast_ot=amount-off_ot=free-gift_id=692c85fee400180cbd3295bd.mp4` | everydaydose | whiteboard + podcast | amount-off + free-gift | Alysha review (Sept 30 2026): other changed to whiteboard + podcast |
 | `b=everydaydose_s=bfcm_vf=yapper_ot=amount-off_ot=free-gift_id=692ffc9ce400180cbd2e753d.mp4` | everydaydose | yapper | amount-off + free-gift | - |
 | `b=gruns_s=bfcm_vf=b-roll-overlay_ot=amount-off_id=691fe6a3e400180cbdba8ff9.mp4` | gruns | b-roll-overlay | amount-off | Alysha review (Sept 30 2026): other changed to b-roll-overlay |
+| `b=gruns_s=bfcm_vf=cart-screenshot_ot=amount-off_id=69298e8be400180cbd193ba8.jpeg` | gruns | cart-screenshot | amount-off | Alysha review (Sept 30 2026): other changed to creative-parking-lot + cart-screenshot |
 | `b=gruns_s=bfcm_vf=collage_ot=amount-off_id=6927f0d3e400180cbda3c1e0.jpeg` | gruns | collage | amount-off | Alysha review (Sept 30 2026): statistic changed to collage |
 | `b=gruns_s=bfcm_vf=offer-banner_ot=amount-off_id=690e97b52d77ca559ddfc10a.jpeg` | gruns | offer-banner | amount-off | Says over 50% off so tagged sitewide Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). |
 | `b=gruns_s=bfcm_vf=offer-banner_ot=amount-off_id=691fe6a3e400180cbdba9003.jpeg` | gruns | offer-banner | amount-off | Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). |
@@ -187,6 +188,7 @@ b=<brand>_s=bfcm_vf=<format>[_vf=<format2>]_ot=<offer type>[...]_dt=<discount ty
 | `b=hommey_s=bfcm_vf=product-grid_ot=amount-off_id=69306e3fe400180cbd5788b3.jpeg` | hommey | product-grid | amount-off | - |
 | `b=hommey_s=bfcm_vf=review_ot=amount-off_id=692abd20e400180cbd0df08a.jpeg` | hommey | review | amount-off | - |
 | `b=hommey_s=bfcm_vf=shelfie_ot=amount-off_id=69306e3fe400180cbd5788ad.jpeg` | hommey | shelfie | amount-off | - |
+| `b=hommey_s=bfcm_vf=swatch-picker_ot=amount-off_id=690e7c902d77ca559d6f9fc9.mp4` | hommey | swatch-picker | amount-off | Alysha review (Sept 30 2026): other changed to creative-parking-lot + swatch-picker |
 | `b=honeylove_s=bfcm_vf=before-and-after_ot=amount-off_id=6921bee4e400180cbd669c7d.mp4` | honeylove | before-and-after | amount-off | Alysha review (Sept 30 2026): other changed to before-and-after |
 | `b=honeylove_s=bfcm_vf=comment-response_vf=ugc-mashup_ot=amount-off_id=6929a4dfe400180cbd7073b3.mp4` | honeylove | comment-response + ugc-mashup | amount-off | Alysha review (Sept 30 2026): comment-response changed to comment-response + ugc-mashup |
 | `b=honeylove_s=bfcm_vf=flatlay_ot=amount-off_id=691cef08e400180cbd464094.jpeg` | honeylove | flatlay | amount-off | - |
@@ -243,6 +245,7 @@ b=<brand>_s=bfcm_vf=<format>[_vf=<format2>]_ot=<offer type>[...]_dt=<discount ty
 | `b=lemme_s=bfcm_vf=offer-banner_ot=amount-off_id=6917bc4fe4c6e2f6bc571c49.mp4` | lemme | offer-banner | amount-off | Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). Video: check whether it should also get product-animation. |
 | `b=lemme_s=bfcm_vf=offer-banner_ot=amount-off_id=6917bc4fe4c6e2f6bc571c4b.mp4` | lemme | offer-banner | amount-off | Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). Video: check whether it should also get product-animation. |
 | `b=magicmind_s=bfcm_vf=ad-in-the-wild_ot=amount-off_ot=free-gift_id=692cad6ee400180cbd7c70d3.jpeg` | magicmind | ad-in-the-wild | amount-off + free-gift | - |
+| `b=magicmind_s=bfcm_vf=doodle_ot=amount-off_ot=free-gift_id=692916c2e400180cbd478b96.mp4` | magicmind | doodle | amount-off + free-gift | Alysha review (Sept 30 2026): other changed to creative-parking-lot + doodle. Not meme: an original drawing with a relatable caption is not a recognizable meme template |
 | `b=magicmind_s=bfcm_vf=letter_ot=amount-off_ot=free-gift_id=692916c2e400180cbd478b82.jpeg` | magicmind | letter | amount-off + free-gift | Alysha review (Sept 30 2026): other changed to letter |
 | `b=magicmind_s=bfcm_vf=offer-banner_ot=amount-off_ot=free-gift_id=691d8a76e400180cbdb395db.mp4` | magicmind | offer-banner | amount-off + free-gift | Alysha review (Sept 30 2026): other changed to offer-banner |
 | `b=magicmind_s=bfcm_vf=offer-banner_ot=amount-off_ot=free-gift_id=691f9c09e400180cbdc8fdd0.jpeg` | magicmind | offer-banner | amount-off + free-gift | Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). |

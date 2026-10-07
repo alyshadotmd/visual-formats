@@ -22,6 +22,7 @@ Ask: *does this look like someone grabbed a pen and jotted one quick thing on a 
 
 - **Letter:** also can feel personal/handwritten in tone, but Letter has full salutation/body/sign-off structure and much more copy. Post-it is one short thought, physically staged as a note.
 - **Instagram Text Overlay:** uses IG's native typed text styling, not handwriting.
+- **Handwritten:** the whole ad layout is pen lettering around a product photo (headline, benefit, price, proof), many pieces of copy. Post-it is one short thought on a note.
 - **Comment Response:** uses an app-UI question sticker plus typed reply text, not a physical handwritten note.
 
 ## What to look for as supporting signals
