@@ -5,7 +5,7 @@ This folder holds every **year-round (evergreen)** example creative. Black Frida
 ## Naming convention
 
 ```
-[b=<brand>][_c=<creator>]_s=evergreen_vf=<format>[_vf=<format2>]_ot=none[_n=<k>].<ext>
+[b=<brand>][_c=<creator>]_s=evergreen_vf=<format>[_vf=<format2>]_ot=none[_tag=favorite][_n=<k>].<ext>
 ```
 
 At least one of `b=` or `c=` is required. Order is brand, then creator, then season, then visual format(s), then offer type.
@@ -19,6 +19,7 @@ At least one of `b=` or `c=` is required. Order is brand, then creator, then sea
 - **`s=`** season. Always `evergreen` in this folder (`bfcm` in `../bfcm/`).
 - **`vf=`** visual format, one required, **up to two** (a genuine dual-format ad repeats the `vf=` token). Value is the format folder name. **The primary (anchor) format goes first, the secondary format second.**
 - **`ot=`** offer type, same tokens and rules as Black Friday (`/agent/brain/black-friday-swipe-file/offer-taxonomy.md`): amount-off, free-gift, bundle, tiered, buy-x-get-y, other, none. Repeats for more than one offer; `none` when the ad shows no offer. Season says when, offer type says what: subscription, first-order and creator-code deals are tagged by the deal itself (added 2026-10-06). Goes after the visual format(s) and before any `_n=`.
+- **`tag=`** optional special tag, after offer type. Only value so far: `favorite` = one of Alysha's favorite ads ever. Favorites also get a same-name `.md` beside the file with the source, transcript, and creative analysis pre-read. Find them all by matching `_tag=favorite` (see Favorites below).
 - Fields are separated by `_`; values use `-` inside a term; each field is prefixed with its tag and an `=`.
 - Extension matches the media (`.jpg`, `.jpeg`, `.png`, `.mp4`).
 
@@ -30,10 +31,21 @@ If a new ad would produce a filename identical to an existing one (same brand/cr
 ### Finding examples
 Match the format token: all greenscreen examples are files containing `vf=greenscreen`. (Per-device example lists in the messaging-devices library were cleared on 2026-08-29 and are being rebuilt, so match by format token here for now.)
 
+## ⭐ Favorites
+
+Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` with the full breakdown. Newest first.
+
+| File | Why it's a favorite |
+|---|---|
+| `b=vella-studios_s=evergreen_vf=text-message_vf=cart-screenshot_ot=none_tag=favorite.jpg` | Organic post, not an ad (but she'd run it as one). Dad's "$281.15 for groceries" text matches the Pilates class pack total exactly. The price becomes the punchline and you work out the joke yourself. |
+| `b=portland-leather-goods_c=heather-grace_s=evergreen_vf=comment-response_vf=yapper_ot=none_tag=favorite.mp4` | Replies to a real comment ("What size did you get?"), shows the proof in the first second, then answers each buyer question in order. "I'm really hard on bags" sells the durability. |
+
 ## Entries
 
 | File | Brand | Creator | Visual format(s) |
 |---|---|---|---|
+| `b=portland-leather-goods_c=heather-grace_s=evergreen_vf=comment-response_vf=yapper_ot=none_tag=favorite.mp4` | portland-leather-goods | heather-grace | comment-response, yapper |
+| `b=vella-studios_s=evergreen_vf=text-message_vf=cart-screenshot_ot=none_tag=favorite.jpg` | vella-studios | - | text-message, cart-screenshot |
 | `b=actandacre_s=evergreen_vf=case-study_ot=none.jpg` | actandacre | - | case-study |
 | `b=agemate_s=evergreen_vf=post-it_ot=amount-off.jpeg` | agemate | - | post-it |
 | `b=alo-yoga_s=evergreen_vf=bento-grid_ot=none.jpg` | alo-yoga | - | bento-grid |
