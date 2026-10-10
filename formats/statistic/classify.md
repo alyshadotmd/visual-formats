@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Sta
 
 # Statistic — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=statistic`.
+
 ## Definition
 
 A static whose hero is one or a few **big proof numbers** — result percentages, units sold, rankings — rendered large over a product or lifestyle shot. The number is the message.
@@ -28,9 +32,5 @@ Strip the copy away — is the thing you remember a big number? If yes, Statisti
 ## Signals
 
 "94% saw…", "More than 2 million bottles sold", "#1 selling", ring/donut charts, oversized percentage type over a model or product.
-
-Example in the files folder:
-
-- Divi's 94% / 90% / 82% result rings over a hair shot
 
 See `execute.md` for the build rules.

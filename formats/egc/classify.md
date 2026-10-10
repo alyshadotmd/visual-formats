@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the EGC
 
 # EGC (Employee-Generated Content) — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=egc`.
+
 ## Definition
 
 An ad made by **someone who works at the brand** (an employee or team member, not the founder and not a paid outside creator), speaking on behalf of the brand from an insider vantage. They carry "I work here" credibility, but at a **more high-level, less in-the-weeds** register than a founder: they do not claim to have created or started the company, and they speak more generally about the product or brand than a founder's origin/product-development detail.
@@ -15,11 +19,9 @@ An ad made by **someone who works at the brand** (an employee or team member, no
 2. **They speak on behalf of the brand from the inside** ("here at [brand]," "our team," "I work at…"), representing it.
 3. **They are not the originator.** No "I created this / I started this company." That level of authorship is Founder, not EGC.
 
-## How you can tell it's EGC
+## Quick test
 
-- **Employee framing:** "I work at [brand]," "as someone on the team here," staff-pick, day-in-the-life, behind-the-scenes-at-work, warehouse/office/store setting.
-- **Insider but high-level:** they speak with insider familiarity (what they'd recommend, what people get wrong, behind-the-scenes of working there) but stay more general than a founder. They don't go deep on how the product was developed or the origin decisions.
-- **On behalf of the brand, not their own company:** they represent the brand, but the brand isn't theirs the way it is a founder's.
+Does the speaker represent the brand from the inside, without claiming to have created or started it? If yes, EGC.
 
 ## Commonly confused with
 
@@ -27,14 +29,19 @@ An ad made by **someone who works at the brand** (an employee or team member, no
 - **Yapper:** a fast talking-head with no brand-insider framing. If the speaker isn't positioned as brand staff (or founder), it's `yapper` or another format.
 - **Testimonial / customer UGC:** an outside customer or a paid creator with no employment at the brand. EGC is specifically a person who works there.
 
-## What to look for as supporting signals
-
+## Signals
 - Named or badged as staff, or clearly filming at/around the workplace
 - "We / our" said as an employee of the brand, not as its creator
 - Recommendations and behind-the-scenes framing rather than an origin story or product-development depth
 
-## Status
+### How you can tell it's EGC
 
-v1 draft, no example creatives yet. Written from the founder-vs-EGC distinction. Add real examples via the intake SOP and refine this doc (and the execution SOP) with the same depth once we have them.
+- **Employee framing:** "I work at [brand]," "as someone on the team here," staff-pick, day-in-the-life, behind-the-scenes-at-work, warehouse/office/store setting.
+- **Insider but high-level:** they speak with insider familiarity (what they'd recommend, what people get wrong, behind-the-scenes of working there) but stay more general than a founder. They don't go deep on how the product was developed or the origin decisions.
+- **On behalf of the brand, not their own company:** they represent the brand, but the brand isn't theirs the way it is a founder's.
+
+### Status
+
+v1 draft, written from the founder-vs-EGC distinction. Refine this doc (and the execution SOP) as more examples come in through the intake SOP.
 
 See `execute.md` in this same folder for the build/scripting rules.

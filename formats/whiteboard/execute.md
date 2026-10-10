@@ -9,7 +9,9 @@ For "is this ad a Whiteboard?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=whiteboard`. **Open the folder and study the example first** — the marker handwriting, the rough doodles, and how homemade it reads.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=whiteboard`.
+
+**Open the folder and study the example first** — the marker handwriting, the rough doodles, and how homemade it reads.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle** and the one simple argument or comparison to draw. 
 4. **The payoff line:** the takeaway in marker.
 
 ## Build rules (priority order)
-
 1. **Genuinely handmade look.** Real marker, real board, real setting. Embrace imperfect handwriting.
 2. **One simple argument.** A comparison or a single point — not a dense essay.
 3. **Use the crossed-out vs checkmark device** when contrasting; it reads instantly.

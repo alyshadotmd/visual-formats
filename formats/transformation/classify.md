@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Tra
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=transformation`.
+
 ## Definition
 
 A video that tells a **problem-to-result story in sequence**: it opens on the problem (hair in the drain, breakouts, clutter), brings in the product, and ends on the happy result. Unlike before-and-after, the before and after are not matched shots of the same thing.

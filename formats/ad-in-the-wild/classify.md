@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Ad 
 
 # Ad in the Wild (OOH) — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=ad-in-the-wild`.
+
 ## Definition
 
 An ad staged to look like a **physical out-of-home placement** — a billboard, building wall, bus shelter, or transit poster — composited into a **real-world street or public scene**, usually with sidewalk, city backdrop, and sometimes passersby. The message-within-the-message is the brand's creative; the outer frame makes it look like a big, real-world ad someone is walking past. Usually a static image.
@@ -25,17 +29,9 @@ Does it look like a photo of the brand's ad living on a real billboard/wall/post
 - **Press:** borrows third-party editorial credibility (publication logos, pull-quotes). Ad in the Wild borrows the scale and legitimacy of a real-world media placement, not a publication.
 - **Lifestyle/product static:** a plain product-in-a-scene with no simulated ad surface is not an Ad in the Wild.
 
-## What to look for as supporting signals
-
+## Signals
 - Billboard, wall-scape, bus shelter, or transit frame around the creative
 - Street furniture, sidewalk, sky, buildings; a pedestrian or vehicle for scale
 - Often AI-composited or mocked-up rather than a genuine photographed placement
-
-Examples in the files folder:
-
-- Honeylove CloudEmbrace streetside billboard
-- ARMRA "Have you pooped yet?" highway billboard
-- Juniper "Don't weigh in on my weight" transit poster
-- Bobbie "trusted by parents… 700K of them" building wall-scape
 
 See `execute.md` in this same folder for the full build rules.

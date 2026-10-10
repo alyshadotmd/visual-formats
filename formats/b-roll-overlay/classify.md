@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the B-r
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=b-roll-overlay`.
+
 ## Definition
 
 A video made only of **b-roll footage** (product, hands, lifestyle shots) with **text overlaid** to carry the message. No voiceover and no one talking on camera.

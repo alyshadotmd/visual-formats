@@ -5,15 +5,15 @@ description: Implementation SOP for the Post-it ad format — a handwritten stic
 
 For "is this ad a Post-it?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Post-it Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=post-it`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=post-it`.
+
 - This SOP lives in this folder, so the example creatives (images and videos) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=post-it`) and study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
+**Whenever this SOP is triggered or referenced, study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
 
 ## What this format is
 
@@ -29,7 +29,7 @@ Expect a **messaging angle** (the one thing to say), persona and moment, and any
 
 The note is the whole ad, so the angle must compress to one line. If it can't, it's the wrong format for that angle.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The base image
 - Product, packaging, or a lifestyle scene the note comments on. Real, everyday, not a glossy render.
@@ -43,8 +43,7 @@ The note is the whole ad, so the angle must compress to one line. If it can't, i
 ### 3 · Optional printed anchor
 - A small printed headline or CTA elsewhere in the frame can carry the offer, leaving the note purely human. Keep them visually separate so the note stays "real."
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **One thought per note.** A note argues one thing; it never lists.
 2. **Handwritten register.** Casual, short, contractions, an underline or ALL-CAPS on one word, a dash, a doodle. It should look dashed-off.
 3. **Say it like a person leaving a note,** not a brand writing a caption. "don't overthink this one" beats "Simplify your routine."

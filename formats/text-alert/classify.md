@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Tex
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=text-alert`.
+
 ## Definition
 
 A video where a **phone notification** (an iMessage or app banner) drops into an everyday moment; the person taps it and the ad cuts to the product and the offer.

@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Bef
 
 # Before And After — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=before-and-after`.
+
 ## Definition
 
 A static or video whose hero is a **single before→after transformation** of the same subject — same person's scalp, skin, hair, space — shown as a pair (before vs after N weeks/days). It usually carries a supporting stat, review, or study line, but the **transformation image is the centerpiece and the proof.**
@@ -30,13 +34,5 @@ Is the ad built around one before/after transformation of the same subject? If y
 ## Signals
 
 "Before" / "After" labels, "6 months" / "90 days," the same face/scalp/skin shown twice, a "results may vary" footnote, often a supporting stat or review.
-
-Examples in the files folder:
-
-- Nutrafol Men (before / 6 months scalp)
-- Moon Juice SuperHair (before / 90 days)
-- Manual (before / after scalp)
-- Primally Pure (acne before / after)
-- Prose (before/after hair strands, video)
 
 See `execute.md` for the build rules.

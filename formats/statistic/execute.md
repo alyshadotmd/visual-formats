@@ -9,7 +9,9 @@ For "is this ad a Statistic?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=statistic`. **Open the folder and study the example first** — how big the number is, how it's supported, and how little else competes with it.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=statistic`.
+
+**Open the folder and study the example first** — how big the number is, how it's supported, and how little else competes with it.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle**, the **real stats** (with sources), and a product/l
 4. **Brand + CTA.**
 
 ## Build rules (priority order)
-
 1. **One glance, one number.** The stat must dominate; keep to 1–3.
 2. **Each stat is a real, sourced proof point.** Footnote it. No invented figures.
 3. **Label every number** so the proof is unambiguous ("94% saw less buildup").

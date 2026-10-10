@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Fly
 
 # Flyer — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=flyer`.
+
 ## Definition
 
 A single printed sheet shown visibly **taped, stapled, or tacked into a real everyday space** — a hydro pole, community board, elevator wall, laundromat, storefront window, bus-stop pillar. Low-fi and handmade-feeling. The device borrows **grassroots, "a real person printed this and stuck it up" authenticity**, not the scale or spend of a paid media placement. Usually a static image; sometimes a scene with a passerby interacting with the sheet.
@@ -25,15 +29,10 @@ Does it look like a flyer someone printed and taped up around town? Flyer. Does 
 - **`letter`:** a chunky text-block image with one headline hook and no physical staging. Flyer shows a sheet affixed in a real scene; letter fills the frame as a plain static.
 - **The *inner* treatment:** the sheet itself can carry another format — a wanted/missing-poster meme, a listicle, a review. Tag that inner treatment as a **secondary** format when it's useful (e.g. `flyer + meme`). Flyer describes the outer placement.
 
-## What to look for as supporting signals
-
+## Signals
 - Tape corners, staples, or pushpins holding a sheet to a textured pole/board/wall
 - Tear-off phone-number tabs; "missing," "wanted," "lost," or "free to a good home" flyer tropes
 - A hand or passerby interacting with the sheet; slightly off-angle, handheld framing
 - Real-space texture behind the sheet (brick, corkboard, elevator panel, glass)
-
-Examples in the files folder:
-
-- Loop "SUSPECT: Full Coverage Bundle" wanted-poster taped in an elevator
 
 See `execute.md` in this same folder for the full build rules.

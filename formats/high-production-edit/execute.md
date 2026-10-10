@@ -9,7 +9,9 @@ For "is this ad a High-Production Edit?" naming/classification questions, use `c
 
 ## Reference examples (look here first)
 
-Example media lives in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, matched by the format token: all High-Production Edit examples are files containing `vf=high-production-edit`. **Start with `b=mous_s=evergreen_vf=high-production-edit.mp4`** and watch how every claim gets its own built payoff (drop test, crane-drop, exploded-view animation, magnet hang, meme insert) and how each one tries to top the last.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=high-production-edit`.
+
+Watch how every claim gets its own built payoff (drop test, crane-drop, exploded-view animation, magnet hang, meme insert) and how each one tries to top the last.
 
 ## What this format is
 
@@ -23,7 +25,7 @@ The one property to protect: **every beat earns a built payoff, and each one top
 
 Expect a **messaging angle** (the argument), persona and awareness stage, the **VO/script**, and a **payoff list**: for each beat, the specific built visual that dramatizes it and which kind it is (staged stunt, animation/motion-graphic, meme/reaction insert, or dramatized demo). Staged claims must be honest — a drop test has to show a real result, not a faked one.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The VO (spine)
 - A tight, high-energy voiceover carries the argument and sets the pace. Written first.
@@ -38,8 +40,7 @@ Expect a **messaging angle** (the argument), persona and awareness stage, the **
 ### 3 · Sound design
 - Impacts, whooshes, clicks, and hits synced to the cuts. The sound sells the craft as much as the picture.
 
-## Script / build rules (priority order)
-
+## Build rules (priority order)
 1. **Write the VO first,** then assign one built payoff per beat.
 2. **Every beat earns a built payoff** — stunt, animation, insert, or dramatized demo. Cut any beat that can only be a plain product shot, or make it earn a gag.
 3. **Vary the payoff type** across the ad (stunt / animation / insert / demo) so it doesn't feel like one repeated trick.
@@ -53,9 +54,7 @@ Expect a **messaging angle** (the argument), persona and awareness stage, the **
 
 | Element | Cap |
 |---|---|
-| Hook (first payoff) | ≤3s |
 | Beats | 6–20+, each with its own built payoff |
-| Total runtime | 20–90s (this format sustains longer than most because the edit keeps it alive) |
 | Payoffs per beat | 1 (occasionally a fast cluster) |
 | Repeated payoff type back-to-back | avoid; rotate the kind |
 

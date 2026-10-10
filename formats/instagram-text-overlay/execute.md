@@ -5,15 +5,15 @@ description: Implementation SOP for the Instagram Text Overlay ad format — the
 
 For "is this ad a Instagram Text Overlay?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Instagram Text Overlay Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=instagram-text-overlay`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=instagram-text-overlay`.
+
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=instagram-text-overlay`) and study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop_instagram-text-overlay` for an image sticker, `spacegoods_instagram-text-overlay-2` for a link-sticker CTA, and `spacegoods_instagram-text-overlay-1` / `natural-cycles_instagram-text-overlay-1` for an overlaid screenshot).
+**Whenever this SOP is triggered or referenced, study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop_instagram-text-overlay` for an image sticker, `spacegoods_instagram-text-overlay-2` for a link-sticker CTA, and `spacegoods_instagram-text-overlay-1` / `natural-cycles_instagram-text-overlay-1` for an overlaid screenshot).
 
 ## What this format is
 
@@ -29,7 +29,7 @@ The one property to protect: **native IG text carries the message, over an organ
 
 Expect a **messaging angle** (the statement or hook), persona and moment, and VOC for phrasing. The angle sets the message; VOC gives it native voice; this SOP governs the IG styling, stickers/overlays, and the copy register.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The base (native story shot)
 - A selfie, POV, or lifestyle shot that looks shot-on-phone, like someone's own story. Not studio.
@@ -47,8 +47,7 @@ Expect a **messaging angle** (the statement or hook), persona and moment, and VO
 - Caption voice: lowercase energy, contractions, line breaks that pace like a real caption, at most a couple of emoji used the way a person uses them.
 - If it's a listy caption, one point per line with visible breaks — never a paragraph.
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **Match the exact IG treatment.** Right font, right placement, right highlight-box style. Off-platform styling breaks the disguise instantly.
 2. **Native text carries the message.** Stickers and overlays support it; they don't replace the IG-styled text as the vehicle.
 3. **Caption voice, not headline voice.** Write it like a person captioning their own post.

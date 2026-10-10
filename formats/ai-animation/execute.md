@@ -9,9 +9,9 @@ For "is this ad an AI Animation?" naming/classification questions, use `classify
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=ai-animation`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=ai-animation`.
 
-**Whenever this SOP is triggered, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=ai-animation`) and study the example first** — the character design, the mascot, how the story arc is paced, and how VO + on-screen text carry the message.
+**Whenever this SOP is triggered, study the example first** — the character design, the mascot, how the story arc is paced, and how VO + on-screen text carry the message.
 
 ## What this format is
 
@@ -25,7 +25,7 @@ The one property to protect: **a consistent animated character and a clear story
 
 Expect a **messaging angle** (the story/argument), persona and awareness stage, the **problem→solution narrative**, product truth/claims, and any brand character/mascot direction. The angle sets the story; this SOP governs the animated build.
 
-## Anatomy — the beats
+## Anatomy
 
 - **Problem (exaggerated):** the animated character living the pain, dialed up for charm.
 - **Discovery:** the character finds the product; the mascot can enter here.
@@ -34,7 +34,6 @@ Expect a **messaging angle** (the story/argument), persona and awareness stage, 
 - **Resolution + CTA:** confident payoff and a clear shop prompt.
 
 ## Build rules (priority order)
-
 1. **Consistent character.** Keep the protagonist (and mascot) visually stable across scenes — drift breaks the story.
 2. **Story arc first.** Problem → discovery → benefits → lifestyle → CTA. The animation serves the narrative.
 3. **Mascot personifies the product** when used; keep it on-brand and consistent.
@@ -48,8 +47,6 @@ Expect a **messaging angle** (the story/argument), persona and awareness stage, 
 
 | Element | Cap |
 |---|---|
-| Hook (problem) | first 3s |
-| Total runtime | 20–45s |
 | On-screen text lines | short, ≤12 words |
 | Brand/product mentions | woven into the story; 1 clear CTA |
 

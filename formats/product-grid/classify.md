@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Pro
 
 # Product Grid — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=product-grid`.
+
 ## Definition
 
 A static where the **only images are flat product images** (studio shots or cut-outs with no background), laid out together so the lineup, range, or set is the payoff. The arrangement can be anything: uniform boxed cells, a varied-size mosaic, boxless rows, or products scattered freely around a headline. What makes it product grid is the **content** (flat product images only), not the layout.
@@ -31,15 +35,5 @@ Cover the text. Is every remaining image a flat product shot? Then it's Product 
 ## Signals
 
 Studio or no-background product shots only, 3x3 / 3x4 cells or boxless rows or a free scatter, consistent scale and lighting, often a per-item label or price, a center offer tile or headline, "collection / set / range / kit / the whole lineup" framing. Also covers the single-product play where the same product repeats and a label does the swapping (days, moods, occasions).
-
-Examples:
-
-- Mejuri "Birthstone Jewelry" — 12 charms in a clean 3x4 grid, one stone per cell.
-- Made In "13-piece stainless set" — 3x3 grid, each cell one piece with its name and sale price.
-- Act + Acre "25% Off Sitewide" (swipe file) — varied-size mosaic, but all flat product shots.
-- Arrae "Black Friday Sale" (swipe file) — uniform cells of jars and pouches with a center offer tile.
-- Robe "Final Days" (swipe file) — 3x3 colorways, each named, with a center offer tile.
-- AG1 "Black Friday Welcome Kit" (swipe file) — boxless rows of cut-out kit items, each labeled "Free ___".
-- Jones Road "Cyber Monday Is Here" (swipe file) — cut-out products scattered freely around a big headline.
 
 See `execute.md` for the build rules.

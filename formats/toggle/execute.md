@@ -9,7 +9,9 @@ For "is this ad a Toggle?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=toggle`. **Open the folder and study the example first** — the toggle UI styling, the off-vs-on framing, and the background photo.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=toggle`.
+
+**Open the folder and study the example first** — the toggle UI styling, the off-vs-on framing, and the background photo.
 
 ## What this format is
 
@@ -30,7 +32,6 @@ Expect a **messaging angle**, the off option (the bad habit/alternative), the on
 3. **The background photo:** lifestyle/mirror selfie with the product visible.
 
 ## Build rules (priority order)
-
 1. **Authentic toggle UI.** Match the real settings-switch look; green = on.
 2. **One off, one on.** Keep the contrast to a single clear pair (2–3 rows max).
 3. **Product visible** in the background photo.

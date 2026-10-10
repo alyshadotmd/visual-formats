@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Let
 
 # Letter — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=letter`.
+
 ## Definition
 
 An **image** ad whose primary focus is a **block of text** — a chunky paragraph or a couple of paragraphs — introduced by **one title headline that acts as the hook** to get people to read the block. It reads like an earnest, first-person letter or note. Very often it's an apology of some kind, and very often it's "signed" by the founder, CEO, or someone of a certain status in relation to the business, but neither is required. Sometimes there's imagery, but the text is always the primary focus.
@@ -15,7 +19,7 @@ An **image** ad whose primary focus is a **block of text** — a chunky paragrap
 2. **The primary focus is a block of text** — a chunky paragraph or a couple of paragraphs. The words carry the ad; any imagery is secondary.
 3. **There's one title headline acting as the hook** at the top: the line that earns the read of the paragraph(s) below it.
 
-## Very common, but NOT required
+### Very common, but NOT required
 
 - **An apology / trust-repair tone.** Letters are often "we got this wrong" notes, but a letter can also be a mission statement, a big change, a thank-you, or a manifesto.
 - **A signature from someone with status** — founder, CEO, or a named leader — often with a role and sometimes a P.S. Common, but a letter doesn't have to be signed.
@@ -31,8 +35,7 @@ Is it an image whose main event is a chunky block of text with one headline pull
 - **Post-it:** a short single-thought sticky note (≤12 words), not a chunky multi-paragraph text block with a headline hook.
 - **Instagram Text Overlay:** native IG-styled text over an organic story shot, not a letter's headline-plus-paragraph text block.
 
-## What to look for as supporting signals
-
+## Signals
 - Second-person address ("you," not "our customers")
 - An apology, admission, or plainly stated belief
 - Product enters as the resolution, near the end

@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Col
 
 (Renamed from `gift-guide` by Alysha, 2026-09-30. These ads are collages; calling them gift guides implied a gifting frame they don't need.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=collage`.
+
 ## Definition
 
 A static built as a **collage of separate cut-outs** on one canvas. Clipped product shots sit loosely alongside lifestyle and accessory images (clips, bows, brushes, jewelry, people shot from behind) on a plain background, at mixed sizes and often overlapping. It has the look of a Pinterest board or an Instagram-story picks page, so it reads as curated and shareable rather than as a brand layout. A short title ("Black Friday Sale Picks") and a small shop button are common but not required.

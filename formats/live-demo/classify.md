@@ -10,6 +10,10 @@ stage: emerging
 
 (Added October 6th, 2026, approved by Alysha. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=live-demo`.
+
 ## Definition
 
 Someone causes the problem on camera, and the product visibly reacts to it and fixes it, so the proof plays out live in front of you.
@@ -31,8 +35,8 @@ Could you describe the ad as "they did X to it and watched it fix it"? If yes, L
 - **Transformation:** a problem-to-result story told across separate shots. Live Demo is one live test.
 - **ASMR / unboxing:** sound or reveal is the hook, not a test.
 
-## Example
+## Signals
 
-Sans air purifier: a presenter sprays household cleaner beside the unit, the number jumps and the light turns red, a "Sans can trap..." feature run, then the light returns to blue and the number falls. Examples live in `../../files/` (match `vf=live-demo` in the filename).
+Voiceover calling out the test as it happens ("watch this, I'm gonna..."), a tight phone-readable close-up on the reaction (a reading, a light, a stain lifting, water beading off), one unbroken take spanning the before-and-after, and waiting time filled with a fast benefit run or lifestyle b-roll before cutting back to the fix landing.
 
 See `execute.md` for the build rules.

@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Liv
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=live-selling`.
+
 ## Definition
 
 A video that **mimics a live-selling / live-shopping stream**: one or more presenters talking to camera as if live, with on-screen comment or review bubbles, product call-outs and a deal pitched in real time.

@@ -5,13 +5,17 @@ description: How to identify whether an ad should be classified/named as the She
 
 # Shelfie — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=shelfie`.
+
 ## Definition
 
 An **aesthetic picture of the products on a shelf**, the kind people post of their own styled bathroom or vanity shelf. The products stand upright in a row on one or more real-looking shelves, styled and lit so the shelf itself is the scene.
 
 ## The things that must all be true
 
-1. **Products stand in place on a real shelf in a real space** (a bathroom, vanity, kitchen or bedroom shelf). A visible shelf alone is not enough: a shelf or ledge used as a studio prop on a gradient or seamless backdrop is not a shelfie; check `offer-banner` (Alysha, 2026-09-30, Arrae).
+1. **Products stand in place on a real shelf in a real space** (a bathroom, vanity, kitchen or bedroom shelf). A visible shelf alone is not enough: a shelf or ledge used as a studio prop on a gradient or seamless backdrop is not a shelfie; check `offer-banner` (Alysha, 2026-09-30).
 2. **Front-on or slightly angled view**, like looking at a shelf in a room.
 3. **Styled, aesthetic setting.** Moody or clean lighting, matching tones, a curated "my shelf" feel.
 

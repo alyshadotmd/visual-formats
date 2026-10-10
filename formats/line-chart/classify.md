@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Lin
 
 # Line Chart — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=line-chart`.
+
 ## Definition
 
 A static (usually an image) whose hero is a **plotted line/trend graph**: a curve with data points running across a progression axis (time, cycle, usage, sessions) that visualizes the product's mechanism or the result it delivers. The curve tells the story. Not a self-select lookup table (matching-chart), not a single big proof number (statistic).
@@ -27,13 +31,10 @@ Is the thing you remember a line moving across the frame, telling a change-over-
 - **Before-and-after:** two discrete states (before → after). Line Chart shows the *continuous progression* between states, plotted.
 - **Feature-benefit-pointout:** call-outs on a hero product. Line Chart annotates a graph, not a product.
 
-## What to look for as supporting signals
-
+## Signals
 - An x/y line graph overlaid on a lifestyle or product shot
 - Plotted data points with real value labels (temps, weights, scores, dollars, days)
 - One turning-point / insight annotation on the curve ("Ovulation confirmed", "day you notice results")
 - The graph illustrating *how the product works* (a tracked signal) or *the trajectory of a result* over time
-
-Example in the files folder: Natural Cycles' temperature-curve graph ("Track your fertility in your sleep") laid over a woman checking the app in bed, with plotted overnight temps and an "Ovulation confirmed" callout marking the turning point.
 
 See `execute.md` in this same folder for the full build rules.

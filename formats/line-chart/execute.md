@@ -9,9 +9,9 @@ For "is this ad a Line Chart?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-- Example media lives in the shared `../../files/` store, matched by the `vf=line-chart` token in the filename.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=line-chart`.
 
-**Whenever this SOP is triggered, pull the `vf=line-chart` examples first** — study how the curve is drawn, how few data points do the work, and where the one turning-point annotation lands.
+**Whenever this SOP is triggered, study the examples first** — study how the curve is drawn, how few data points do the work, and where the one turning-point annotation lands.
 
 ## What this format is
 
@@ -43,7 +43,6 @@ Expect a **messaging angle**, persona, and the **real signal/metric** the graph 
 - One clear next-step prompt.
 
 ## Build rules (priority order)
-
 1. **One curve, one story.** A single trend line, not a cluttered multi-series chart.
 2. **One turning point, annotated clearly.** The moment that matters gets a callout; everything else supports it.
 3. **Real, specific data.** Plausible values and units, not decorative squiggles. No invented results.

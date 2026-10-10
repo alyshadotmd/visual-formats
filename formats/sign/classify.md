@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Sig
 
 # Sign — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=sign`.
+
 ## Definition
 
 A static or video where a **person holds a handmade sign** (cardboard/poster) with the core message handwritten on it, photographed in a real-world scene, usually with the product composited beside them.
@@ -28,9 +32,5 @@ Is a person holding up a handmade sign that says the thing? If yes, Sign.
 ## Signals
 
 Person holding cardboard/poster, handwritten headline, street or store setting, product composited beside them.
-
-Example in the files folder:
-
-- Magic Mind "#1 Selling Shot at Sprouts" held sign in a street scene
 
 See `execute.md` for the build rules.

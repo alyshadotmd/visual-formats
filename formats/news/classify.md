@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the New
 
 (Definition from Alysha, 2026-09-30. Media: static or video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=news`.
+
 ## Definition
 
 An ad **made to look like a news broadcast or news alert**: a lower-third banner, a "BREAKING" or "NEWS FLASH" tag, headline-style copy, sometimes an anchor or news set. The product is framed as the news or the answer to it.
@@ -29,9 +33,5 @@ At a glance, does it look like a news alert or a news broadcast? If yes, News.
 ## Signals
 
 Red "NEWS FLASH" or "BREAKING" tag, bold headline in a lower-third, ticker, studio or on-location look.
-
-Examples in the evergreen files folder (tagged `vf=news`):
-
-- Grove Collaborative "NEWS FLASH / BREAKING: Moms are trashing their plastic cutting boards after microplastic studies go viral" over a scratched cutting board
 
 See `execute.md` for the build rules.

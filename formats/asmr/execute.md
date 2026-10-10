@@ -9,7 +9,9 @@ For "is this ad an ASMR?" naming/classification questions, use `classify.md` in 
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=asmr`. **Open the folder and study the example first** — the close-ups, the amplified sounds, and how little voiceover there is.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=asmr`.
+
+**Open the folder and study the example first** — the close-ups, the amplified sounds, and how little voiceover there is.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle** and the product moments with the most satisfying so
 4. **The payoff:** finished result + brand.
 
 ## Build rules (priority order)
-
 1. **Lead with sound.** Open on the crispest, most satisfying audio moment.
 2. **Close-up, tactile footage** for every step; amplify each action's sound.
 3. **Minimal/no voiceover.** If muted, it should still look satisfying, but sound is the point.
@@ -43,8 +44,6 @@ Expect a **messaging angle** and the product moments with the most satisfying so
 
 | Element | Cap |
 |---|---|
-| Sound hook | first 1–2 sec |
-| Total | ~15–30 sec |
 | Voiceover | none or minimal |
 | Captions | light only |
 

@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Web
 
 (Definition from Alysha, 2026-09-30. Media: static.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=web-search`.
+
 ## Definition
 
 An ad **made to look like an internet search** (Google-style search bar, search history, autocomplete suggestions). The searches voice the viewer's problem, and the product shows up as the answer.
@@ -29,11 +33,5 @@ Does it look like someone's search bar or search history? If yes, Web Search.
 ## Signals
 
 Magnifying-glass icons, "Search History...", autocomplete rows, "How to..." queries, product below the search box.
-
-Examples in the evergreen files folder (tagged `vf=web-search`):
-
-- Armra search history ("Best hair supplement", "Why is my hair still shedding?") above the tub
-- Hum Nutrition "How to..." autocomplete ("How to deal with brain fog") above the tub
-- Boll & Branch search bar ("What sheets are best for hot sleepers?") over a styled bedroom shot, the bedding as the answer (first lifestyle-scene example)
 
 See `execute.md` for the build rules.

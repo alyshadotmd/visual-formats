@@ -5,16 +5,20 @@ description: How to identify whether an ad should be classified/named as the Yap
 
 # Yapper — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=yapper`.
+
 ## Definition
 
 A **fast, high-energy talking-head monologue** straight down the barrel of the camera, carrying the ad on script and delivery alone, no b-roll crutch, minimal setup, no founder framing required.
 
-## The two things that must both be true
+## The things that must all be true
 
 1. **The creator talks directly to camera for most/all of the runtime**, no reliance on cutaway footage to carry the argument.
 2. **The delivery is fast and high-energy**, a rapid, confident monologue, not a slow, considered, story-driven piece.
 
-## Little to no editing (Alysha, 2026-09-30, Caraway)
+### Little to no editing (Alysha, 2026-09-30)
 
 A yapper is raw: one person, direct to camera, little to no editing. If the video is polished, with multiple b-roll shots, cutaways or a voiceover carrying parts of it, it is **not** a yapper. Tag it with the specific UGC type that fits (testimonial, interview, etc.), or `ugc` as the fallback.
 
@@ -27,8 +31,7 @@ Ask: *is this a creator rapidly talking straight to camera, without founder-spec
 - **Founder:** also direct-to-camera, but the speaker is specifically the founder and the content is an origin/belief story, generally with more measured pacing than a Yapper's rapid-fire delivery.
 - **Greenscreen:** also can be a creator talking to camera, but Greenscreen requires on-screen evidence (a screenshot/page/chart) that the creator reacts to; Yapper has no on-screen evidence, it's pure talking-head.
 
-## What to look for as supporting signals
-
+## Signals
 - Punchy hook line in the first 3 seconds
 - A text overlay headline on screen for at least the first 3 seconds, giving context for what's about to be said and often doing the direct-response hook's job when the verbal opener is more conversational
 - Short, fragmented sentences, pattern interrupts

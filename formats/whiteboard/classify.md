@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Whi
 
 # Whiteboard — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=whiteboard`.
+
 ## Definition
 
 A static or video built to look like a real **dry-erase whiteboard**: handwritten marker text and rough marker doodles on an actual whiteboard propped in a real setting (or a whiteboard graphic). Low-fi, homemade, argument-in-marker.
@@ -28,9 +32,5 @@ Does it look like someone made the point with a marker on a whiteboard? If yes, 
 ## Signals
 
 Dry-erase board, marker handwriting, crossed-out competitor doodle vs a checkmarked product, propped on a kitchen counter or desk.
-
-Example in the files folder:
-
-- Arrae "Forget your husband's creatine…" marker board, crossed-out competitor vs Arrae Tone
 
 See `execute.md` for the build rules.

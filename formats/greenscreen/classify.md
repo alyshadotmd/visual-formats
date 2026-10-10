@@ -5,11 +5,15 @@ description: How to identify whether an ad should be classified/named as the Gre
 
 # Greenscreen — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=greenscreen`.
+
 ## Definition
 
 A **video** where a creator is composited (greenscreened) in front of a full-frame background "screen" (an image, a video, a screenshot, a webpage, a product, or a scene), and the **hook opens on that greenscreen**. The greenscreen is the anchor of the format: there is a relationship between what is on the screen behind them and what the creator is saying.
 
-Greenscreen is almost always the **anchor (primary)** format and frequently pairs with a **secondary** format via the dual-format tagging rule. Example: the Lyka pet food example in the files folder is a greenscreen ad (anchor) that is also an unboxing (secondary), so it would be tagged greenscreen + unboxing.
+Greenscreen is almost always the **anchor (primary)** format and frequently pairs with a **secondary** format via the dual-format tagging rule. For example, a greenscreen ad (anchor) that is also an unboxing (secondary) is tagged greenscreen + unboxing.
 
 ## The things that must all be true
 
@@ -18,10 +22,10 @@ Greenscreen is almost always the **anchor (primary)** format and frequently pair
 3. **The creator is composited in front of a full-frame background.**
 4. **There is a relationship between the background and what the creator is saying.** They can point at it or reference it directly, or the background can simply add a context layer to what they are saying. It does not have to be acknowledged out loud.
 
-## The relationship, two ways
+### The relationship, two ways
 
 - **Direct (react / reference):** the background is evidence (a screenshot, article, review, chart, or page) and the creator reacts to and points at it ("wait, look at this").
-- **Context layer:** the background reinforces or adds to what they are saying without being acknowledged. Example: the Native Pet example, where she talks about probiotic chews with dog chews on the screen behind her but doesn't immediately call them out. The screen adds a layer rather than being reacted to.
+- **Context layer:** the background reinforces or adds to what they are saying without being acknowledged. For example, a creator talks about a product while related images sit on the screen behind her, and she never calls them out. The screen adds a layer rather than being reacted to.
 
 Both are Greenscreen, as long as the hook opens on the greenscreen and the background relates to the talk.
 
@@ -36,8 +40,7 @@ Mute it. In the first beat, do you see a person composited in front of a full-fr
 - **Comment-response:** a native story-reply look (a question sticker over a selfie/lifestyle image, answered by text or on camera), not a creator composited over a full-frame screen. That's `comment-response`.
 - **Founder:** founder-to-camera storytelling. A founder can be greenscreened (then it's Greenscreen too, likely dual-tagged), but a founder just telling their story with no greenscreen is `founder`.
 
-## What to look for as supporting signals (not required)
-
+## Signals
 - Fast cuts as the background changes (new point, new screen), common in the react/reference version
 - Highlighting, circling, or zooming on a specific part of the screen (react version)
 - Casual, low-effort visual treatment: often intentional (the casual-disarm / effort-mismatch mechanic), not a production shortcut

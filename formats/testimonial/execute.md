@@ -9,7 +9,9 @@ For "is this ad a Testimonial?" naming/classification questions, use `classify.m
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=testimonial`. Open the folder and study the example first: how the arc (struggle, turning point, result) is paced and where the product enters.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=testimonial`.
+
+Open the folder and study the example first: how the arc (struggle, turning point, result) is paced and where the product enters.
 
 ## What this format is
 
@@ -19,8 +21,7 @@ Strongest for **considered, trust-driven purchases** and **audiences who need to
 
 The one property to protect: **it must be a real, full story.** Strip the arc down to one line and it becomes a Review, not a Testimonial.
 
-## Review vs Testimonial
-
+### Review vs Testimonial
 Build a Testimonial when you want the whole narrated journey (usually video), someone telling their before-to-after in their own words. Build a Review when you want a fast, single pulled-quote hit (static-leaning), read in one glance. Same raw material (a happy customer), different format: Testimonial is the narrated arc; Review is the one-glance quote card.
 
 ## Inputs
@@ -36,7 +37,6 @@ Expect a **messaging angle**, a **real customer** willing to tell their story, a
 5. **Brand + CTA**, with disclaimers where results are claimed.
 
 ## Build rules (priority order)
-
 1. **Keep the full arc.** Before, turning point, after. If it collapses to one line, it's a Review.
 2. **Real person, real words.** Never script it into something they wouldn't say; never fabricate.
 3. **Open on the strongest beat** the angle calls for (often the relatable struggle or the surprising result).

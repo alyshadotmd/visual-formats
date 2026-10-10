@@ -7,6 +7,10 @@ For "is this ad a Collage?" naming/classification questions, use `classify.md` i
 
 # Collage Format — Implementation SOP
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=collage`.
+
 ## What this format is
 
 A collage that imitates the picks pages creators post to Pinterest and Instagram stories. It works because it looks like curation, not advertising: people save and share these picks pages, and the mix of accessories and styling sells a mood and a persona, not only a product.
@@ -28,7 +32,6 @@ Expect a **messaging angle** (who the picks are for, the moment), the products t
 5. **Small shop button or line:** optional ("Shop Black Friday").
 
 ## Build rules (priority order)
-
 1. **Scatter, don't grid.** Vary sizes, let items overlap slightly, keep it balanced but loose.
 2. **Mix in non-product items** that tell the viewer who this is for.
 3. **Keep the title as the only big text.** Offer copy is optional; the picks are the point.

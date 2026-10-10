@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Pod
 
 (Definition from Alysha, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=podcast`.
+
 ## Definition
 
 A video built from **clips made to look like a podcast recording**: people talking at podcast microphones, headphones, a podcast set or couch, often with a host and guest. The product comes up in the conversation like it would on a real show.
@@ -30,9 +34,5 @@ Does it look like a clip from a podcast episode? If yes, Podcast.
 ## Signals
 
 Big podcast mic on an arm, headphones, two chairs or a couch, host and guest, captions of the conversation.
-
-Examples in the evergreen files folder (tagged `vf=podcast`):
-
-- Buoy, opens on a woman at a podcast mic ("But also I'm listening"), then cuts to the product pitch
 
 See `execute.md` for the build rules.

@@ -8,6 +8,10 @@ stage: emerging
 
 **Stage: Emerging.** Seen in only a few ads so far. Promote to Established (change `stage:` above and drop "Emerging." in the index) once it shows up from 3 different brands.
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=handwritten`.
+
 ## Definition
 
 A product photo where the whole ad layout is drawn by hand around it: headline, claim, price, proof and asides are all pen-style lettering and marks (boxes, circles, underlines, crossed-out prices), so the ad looks scribbled together on purpose instead of designed.
@@ -30,12 +34,7 @@ Ask: *if you removed the product photo, would you be left with a full ad sketche
 - **Whiteboard:** marker on a real whiteboard in a real setting. Handwritten is lettering on a clean ad canvas.
 - **Letter:** a chunky block of letter copy. Handwritten is short scattered lines arranged like an ad.
 
-## Supporting signals
-
-- A self-aware aside that admits the lo-fi look (Rheal: "(our designer is on leave)")
+## Signals
+- A self-aware aside that admits the lo-fi look (like "(our designer is on leave)")
 - Offer shown as a crossed-out old price with the new price written below
 - One or two colors of "pen", plain light background
-
-## Example
-
-Rheal Balance Tonic: a boxed handwritten quote "That's normal for your age.", a circled benefit line, "£25 a month" crossed out for "£20 a month", "4.5★ rating from 2M+ customers", and "(our designer is on leave)" around a product shot. Examples live in `../../files/` (match `vf=handwritten` in the filename).

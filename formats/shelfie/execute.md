@@ -7,6 +7,10 @@ For "is this ad a Shelfie?" naming/classification questions, use `classify.md` i
 
 # Shelfie Format — Implementation SOP
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=shelfie`.
+
 ## What this format is
 
 A styled shot of the products lined up on a shelf, borrowing the "shelfie" people post of their own bathroom or vanity. It works because it shows the products as something you'd be proud to display, and it shows the range at once.
@@ -28,7 +32,6 @@ Expect a **messaging angle** and the products to feature (usually 3-6).
 5. **Brand and optional CTA.**
 
 ## Build rules (priority order)
-
 1. **Shoot front-on or slightly angled** so the shelf edge reads clearly.
 2. **Style for display.** Even spacing, labels forward, tones that match the brand.
 3. **Light for mood.** Soft, directional light; avoid flat catalog lighting.

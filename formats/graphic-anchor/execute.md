@@ -9,7 +9,9 @@ For "is this ad a Graphic Anchor?" naming/classification questions, use `classif
 
 ## Reference examples (look here first)
 
-Example media lives in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, matched by the format token: all Graphic Anchor examples are files containing `vf=graphic-anchor`. **Start with `c=oren-john_vf=graphic-anchor.mp4`** and watch how each graphic enters on the beat it supports and swaps as the point changes.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=graphic-anchor`.
+
+Watch how each graphic enters on the beat it supports and swaps as the point changes.
 
 ## What this format is
 
@@ -23,7 +25,7 @@ The one property to protect: **the creator holds the frame, and every graphic ea
 
 Expect a **messaging angle** (the point), persona and awareness stage, the **VO/script**, and a **graphics list**: for each beat, what visual supports it and which type it is (real evidence, literal visual, or metaphor). Real evidence (screenshots, UI, data) must be real and legible.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The creator (anchor)
 - Talks to camera in a real setting, holds the frame throughout. Real, casual energy.
@@ -39,8 +41,7 @@ Expect a **messaging angle** (the point), persona and awareness stage, the **VO/
 - Written first. Each line gets exactly one supporting graphic.
 - The graphic matches the words; pointing is optional.
 
-## Script / build rules (priority order)
-
+## Build rules (priority order)
 1. **Write the VO first,** then assign one graphic per beat.
 2. **Every graphic earns its moment** — clarify, emphasize, visualize, or extend the line it lands on. Cut anything decorative.
 3. **One idea, one graphic, then swap.** Momentum comes from graphics changing with the points.
@@ -54,9 +55,7 @@ Expect a **messaging angle** (the point), persona and awareness stage, the **VO/
 
 | Element | Cap |
 |---|---|
-| Hook (creator + first graphic) | ≤3s |
 | Beats | 3–8, each with its own graphic |
-| Total runtime | 15–60s |
 | Graphics per beat | 1 (occasionally a small cluster) |
 | Brand mention | 1, as the payoff |
 

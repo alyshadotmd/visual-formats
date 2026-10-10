@@ -9,9 +9,9 @@ For "is this ad an Ad in the Wild?" naming/classification questions, use `classi
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=ad-in-the-wild`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=ad-in-the-wild`.
 
-**Whenever this SOP is triggered, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=ad-in-the-wild`) and study the example first** — how the placement is framed, how real the scene reads, and how the inner creative is laid out on the surface.
+**Whenever this SOP is triggered, study the example first** — how the placement is framed, how real the scene reads, and how the inner creative is laid out on the surface.
 
 ## What this format is
 
@@ -25,7 +25,7 @@ The one property to protect: **it has to read like a real out-of-home placement 
 
 Expect a **messaging angle** and the **inner creative** (the poster/billboard artwork itself, which may follow another format), plus a believable scene direction. The angle + inner creative carry the message; this SOP governs the OOH staging.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The scene
 - A real-world outdoor setting: street, plaza, building facade, transit stop. Natural light, real perspective, believable scale.
@@ -40,7 +40,6 @@ Expect a **messaging angle** and the **inner creative** (the poster/billboard ar
 - A pedestrian mid-stride, a cyclist, cars. Adds realism and shows the placement's size.
 
 ## Build rules (priority order)
-
 1. **Sell the realism.** Correct perspective, lighting, and scale so it reads as a genuine placement. Any "obviously mocked-up" tell breaks it.
 2. **Billboard-simple inner creative.** One big line, one product, minimal words — it has to work at a glance from across a street.
 3. **Let the scene breathe.** Real environment around the placement; the surprise is seeing the ad in the wild.

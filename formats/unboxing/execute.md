@@ -9,7 +9,7 @@ For "is this ad an Unboxing?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-Examples live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged by filename token. Find them by the token `vf=unboxing`. As of now the only file carrying the tag is `b=rough-country_s=evergreen_vf=asmr_vf=unboxing.mp4`, and it leans ASMR — **study it for the reveal beats, not as a pure unboxing**. A dedicated unboxing-primary reference is still to be added.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=unboxing`.
 
 ## What this format is
 
@@ -31,7 +31,6 @@ Expect a **messaging angle** and the product's packaging plus everything that co
 4. **The payoff:** first look at the product in use or styled, plus brand.
 
 ## Build rules (priority order)
-
 1. **Open on the reveal.** Sealed box or the hands starting to open it — not the product already unpacked.
 2. **Show the full contents.** Lay out everything included; make the "what you get" legible.
 3. **Talk across it (usually).** Light voiceover or on-camera narration carries an unboxing; if you strip the talking and lead on amplified sound, you're building ASMR instead.
@@ -43,8 +42,6 @@ Expect a **messaging angle** and the product's packaging plus everything that co
 
 | Element | Cap |
 |---|---|
-| Reveal hook | first 1–3 sec |
-| Total | ~15–40 sec |
 | Voiceover | light to moderate |
 | Captions | light |
 

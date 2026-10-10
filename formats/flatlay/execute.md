@@ -9,7 +9,9 @@ For "is this ad a Flatlay?" naming/classification questions, use `classify.md` i
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=flatlay`. **Open the folder and study the example first** — the overhead angle, the arrangement, and how minimal the copy is.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=flatlay`.
+
+**Open the folder and study the example first** — the overhead angle, the arrangement, and how minimal the copy is.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle** and the products/variants to feature. The angle set
 4. **Brand + optional CTA.**
 
 ## Build rules (priority order)
-
 1. **Shoot/compose straight overhead.** Consistent angle, even lighting, no perspective skew.
 2. **Style the arrangement intentionally** — fan, grid, or rows; balanced spacing.
 3. **Clean neutral surface** so the products pop.

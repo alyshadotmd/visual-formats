@@ -10,6 +10,10 @@ stage: emerging
 
 (Format name approved by Alysha, 2026-10-06.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=faq`.
+
 ## Definition
 
 A static that asks a customer question as the headline and answers it in a short paragraph beside the product.
@@ -31,6 +35,6 @@ Could the ad be lifted straight from the brand's FAQ page and still make sense? 
 - **Feature-benefit-callout:** a list of features around the product. FAQ answers one question.
 - **Myth-vs-fact (parked candidate):** corrects a false belief in two panels. FAQ just answers a question.
 
-## Example
+## Signals
 
-- Seed, "What does 'precision release' mean?" with the DS-01 capsule split open beside the answer (evergreen). Examples live in `../../files/` (match `vf=faq` in the filename).
+A question-style headline phrased the way a shopper would actually ask it, a short written answer sitting right under the question, the product positioned beside the copy in a way that visualizes the answer.

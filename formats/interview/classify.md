@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Int
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=interview`.
+
 ## Definition
 
 A video built around **interviewing people about the product**: an interviewer asks questions and one or more people answer on camera about their experience with it.

@@ -8,6 +8,10 @@ stage: emerging
 
 **Stage: Emerging.** Seen in only a few ads so far. Promote to Established (change `stage:` above and drop "Emerging." in the index) once it shows up from 3 different brands.
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=fortune-cookie`.
+
 ## Definition
 
 The message printed on a fortune cookie slip, held in hand.
@@ -18,11 +22,15 @@ The message printed on a fortune cookie slip, held in hand.
 2. The ad's message or offer is printed on the slip itself.
 3. The slip is the hook; any other text is secondary.
 
+## Quick test
+
+Is the ad's message printed on a fortune cookie slip, held in hand? If yes, Fortune Cookie.
+
 ## Commonly confused with
 
 - **Post-it:** the message is handwritten on a sticky note. Fortune Cookie is a printed slip from a cookie.
 - **Letter:** a full printed or handwritten letter. Fortune Cookie is one short line on a tiny slip.
 
-## Example
+## Signals
 
-Dose, "Bloated? 3 bottles of Dose for your Liver is now 30% off" (evergreen). Examples live in `../../files/` (match `vf=fortune-cookie` in the filename).
+A real or realistic slip held between fingers, often beside a cracked cookie, one short line written like a fortune (a prediction, a nudge, or the offer), a plain simple background keeping the slip readable.

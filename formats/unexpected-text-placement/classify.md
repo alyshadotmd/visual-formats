@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Une
 
 (Named by Alysha, 2026-09-30. Replaces the old Written On Body and AI Generated Static formats.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=unexpected-text-placement`.
+
 ## Definition
 
 A static where the ad's message is **written directly onto a surface where you would never expect to read an ad**:
@@ -26,12 +30,6 @@ It doesn't matter whether the photo is real, staged or AI-made. What counts is w
 ## Quick test
 
 Would you be surprised to find words written there in real life? If yes, Unexpected Text Placement.
-
-## Types seen so far
-
-- **On the body:** Grüns "Protein without gut support = WASTE" on a stomach; Happy Mammoth "My 'impossible weight' is GONE." down an arm.
-- **On the ground:** Hydrant "No stevia electrolytes, for free / Buy 2 bags, get 2 free" on a wet stone floor.
-- **On food:** BarkBox "Rescue pups deserve birthdays too!" piped onto a dog's birthday cake.
 
 ## Commonly confused with
 

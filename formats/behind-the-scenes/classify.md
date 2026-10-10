@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Beh
 
 # Behind The Scenes — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=behind-the-scenes`.
+
 ## Definition
 
 A video that takes the viewer **inside how the product is made or developed** — the lab, the manufacturing line, formulation, R&D, testing — usually with a founder or chemist voiceover on the process. It sells credibility through the making-of.
@@ -28,9 +32,5 @@ Is the ad's power coming from seeing how it's actually made? If yes, Behind The 
 ## Signals
 
 Manufacturing line, beakers/lab glassware, blueprint or spec overlays, archival R&D clips, "what makes X different", "it took years with our chemists".
-
-Example in the files folder:
-
-- Ilia "What makes skin tint different?" — lab, fill line, and chemist voiceover
 
 See `execute.md` for the build rules.

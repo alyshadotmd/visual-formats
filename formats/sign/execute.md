@@ -9,7 +9,9 @@ For "is this ad a Sign?" naming/classification questions, use `classify.md` in t
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=sign`. **Open the folder and study the example first** — how the sign is held, how handmade it looks, and how the product is composited beside it.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=sign`.
+
+**Open the folder and study the example first** — how the sign is held, how handmade it looks, and how the product is composited beside it.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle** and the one line for the sign. The angle carries th
 4. **The support line + CTA:** short caption under the scene.
 
 ## Build rules (priority order)
-
 1. **Handmade + held.** Real sign, real handwriting, held by a person in a real place.
 2. **One bold line on the sign** — it has to land at a glance.
 3. **Believable scene.** The realism sells the sincerity.

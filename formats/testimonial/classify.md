@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Tes
 
 # Testimonial — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=testimonial`.
+
 ## Definition
 
 A person telling their **whole story** in their own words, almost always **video**: the struggle, the turning point with the product, and the result, narrated start to finish. The story arc is the format.
@@ -19,13 +23,13 @@ A person telling their **whole story** in their own words, almost always **video
 
 Do you have to watch/read someone narrate their journey (before to after) for it to land? If yes, Testimonial. If it's one short quote or star rating you absorb in a glance, it's `review`.
 
-## Review vs Testimonial (the key line)
+## Commonly confused with
+
+### Review vs Testimonial (the key line)
 
 - **Testimonial** = the whole story, usually video. Struggle to turning point to result, in the person's own words, over time.
 - **Review** = a quick, static-leaning snippet. One short quote or star rating, product forward, read in one glance.
 - Rule of thumb: if you have to watch someone narrate their journey it's a Testimonial; if you can read the whole thing at a glance it's a Review.
-
-## Commonly confused with
 
 - **Review:** a single quick quote/rating, no narrated arc (see above).
 - **Founder:** the founder telling the brand's story, not a customer telling their own results story.

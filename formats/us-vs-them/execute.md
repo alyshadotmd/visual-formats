@@ -5,15 +5,15 @@ description: Implementation SOP for the Us Vs Them ad format — a side-by-side 
 
 For "is this ad a Us Vs Them?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Us Vs Them Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=us-vs-them`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=us-vs-them`.
+
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=us-vs-them`) and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
+**Whenever this SOP is triggered or referenced, study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
 
 ## What this format is
 
@@ -31,7 +31,7 @@ Expect a **messaging angle** (the winning contrast), persona and awareness stage
 
 If the contrasts aren't verifiable for both sides, stop and verify. Never invent a competitor weakness.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The frame / headline
 - Sets the comparison and the criteria: "This Instead of That," "[Brand] vs [Old Way]: which actually works?" Names the lens the buyer should judge on.
@@ -47,8 +47,7 @@ If the contrasts aren't verifiable for both sides, stop and verify. Never invent
 ### 4 · The verdict / CTA
 - A short closing line and a quiet CTA. The table already argued; the line just lands it.
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **Every row true and fair for both columns.** If you can't defend "them's" X, cut the row.
 2. **Pick the rows you win cleanly,** ordered by what the persona cares about, strongest first.
 3. **Buyer-language criteria,** not engineering specs. "No 3pm crash" beats "sustained-release matrix."
@@ -58,16 +57,14 @@ If the contrasts aren't verifiable for both sides, stop and verify. Never invent
 7. **Naming a competitor is a claims decision,** not a creative one — only with legal/claim-flag clearance. Otherwise use "the old way"/category.
 8. **Banned:** unverifiable "them" X's, invented competitor weaknesses, "designed to," "seamless," absolutes, and rows the brand doesn't actually win.
 
-## Advanced move: compare the outcome, not just the product
-
+### Advanced move: compare the outcome, not just the product
 Most Us Vs Them tables compare the two *products* (or two checklists). The strongest version also compares what each choice *does to the buyer* by putting the outcome on screen, not just claiming it.
 
-- **Show the end state visually on both sides.** Buoy's "How do you treat constipation?" ad (`b=buoy_s=evergreen_vf=us-vs-them.jpg` in the shared files store) pairs "take a laxative" with a dull, strained gut and Buoy with a vibrant, healthy one. The viewer grasps the difference pre-verbally, before reading a single row, and the anatomical imagery doubles as a pattern-interrupt scroll-stopper.
+- **Show the end state visually on both sides.** Buoy's "How do you treat constipation?" ad pairs "take a laxative" with a dull, strained gut and Buoy with a vibrant, healthy one. The viewer grasps the difference pre-verbally, before reading a single row, and the anatomical imagery doubles as a pattern-interrupt scroll-stopper.
 - **Why it works:** a normal table argues efficacy in words or checkmarks; showing the outcome turns the efficacy claim into visible proof, so it reads faster and is far more visually intriguing than a plain two-column list.
 - **Where it travels:** any category where the product visibly changes something (gut, skin, scalp, hair, teeth, home surface). Keep it honest, if the outcome can't be shown truthfully, stay on the checklist and never fake a result.
 
-## Sharpen the frame with a plain verb contrast
-
+### Sharpen the frame with a plain verb contrast
 - **Let the headline verbs carry the reframe.** Buoy's "*Make* it happen" (laxative) vs "*Help* it happen" (Buoy) flips the category framing from forcing your body to working with it, in two words. Short, plainly different, parallel verbs land the contrast faster than a long criteria headline.
 - **Keep both sides parallel and equally short** so the single swapped word does the work.
 

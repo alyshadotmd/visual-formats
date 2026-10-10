@@ -5,11 +5,15 @@ description: How to identify whether an ad should be classified/named as the Pos
 
 # Post-it — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=post-it`.
+
 ## Definition
 
 A **handwritten sticky note, torn paper, or handwritten scrawl/arrow annotation** placed over a product shot, packaging, or lifestyle image, carrying one short thought (a reminder, tip, confession, or hype note).
 
-## The two things that must both be true
+## The things that must all be true
 
 1. **The text is styled as handwriting** (not typeset), on a note, scrawl, or annotation, not a designed text block.
 2. **It's one short thought** (≤12 words per note, or a short stack of ≤3 short notes), not multi-paragraph copy.
@@ -25,8 +29,7 @@ Ask: *does this look like someone grabbed a pen and jotted one quick thing on a 
 - **Handwritten:** the whole ad layout is pen lettering around a product photo (headline, benefit, price, proof), many pieces of copy. Post-it is one short thought on a note.
 - **Comment Response:** uses an app-UI question sticker plus typed reply text, not a physical handwritten note.
 
-## What to look for as supporting signals
-
+## Signals
 - Real, everyday base image (product, packaging, lifestyle scene), not a glossy render
 - Casual handwritten markers: underline, dash, doodle arrow, ALL-CAPS on one word
 - Brand/offer usually kept off the note itself, placed on a separate small printed anchor if present

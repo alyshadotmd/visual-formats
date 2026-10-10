@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Gra
 
 # Graphic Anchor — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=graphic-anchor`.
+
 ## Definition
 
 A **video** where a creator talks directly to camera and stays the anchor of the frame, while graphics (screenshots, images, UI cards, icons, product shots, b-roll) pop up **around** them, layered over that same shot, to clarify, emphasize, visualize, or extend what they're saying. The creator holds the frame the whole time; the graphics are a rotating support layer that changes with the script. They may or may not point at the graphics.
@@ -19,7 +23,7 @@ Graphic Anchor is almost always the **anchor (primary)** format and can pair wit
 4. **Each graphic relates to the exact thing being said in that beat** — it clarifies, emphasizes, visualizes, or extends the line.
 5. **The graphics rotate with the script:** new point, new graphic.
 
-## The relationship (what the graphics do)
+### The relationship (what the graphics do)
 
 The graphics are there to add to the words:
 
@@ -41,14 +45,9 @@ Mute it. Is it a real person talking to camera, with graphics popping up around 
 - **Feature-benefit-pointout:** a static with call-out lines on a product. Graphic Anchor is a video with the creator as the subject.
 - **Founder / EGC:** those describe *who* is talking and the framing; Graphic Anchor describes the *graphics layer* around them. A founder or EGC ad with graphics popping up around them can dual-tag.
 
-## Supporting signals (not required)
-
+## Signals
 - Fast cuts as each graphic swaps with the point
 - A mix of graphic types in one ad (real UI, literal visuals, metaphor props, b-roll)
 - Graphics arranged around the creator's head/shoulders rather than replacing the shot
-
-## Reference
-
-- `c=oren-john_vf=graphic-anchor_vf=listicle.mp4` — Oren John's "seven levels of AI in marketing" ad. He talks to camera throughout while graphics pop in around him beat by beat: a chat box (~2s), the Hyperagent connector diagram (~13s), app/skill cards (~16s and ~22s), metaphor props (an animated brain, a floppy disk, a plug), and struggle b-roll (~39s). Textbook Graphic Anchor; also a listicle (seven levels), so a genuine dual-format candidate.
 
 See `execute.md` in this same folder for the full build/scripting rules.

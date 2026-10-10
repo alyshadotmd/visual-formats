@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the UGC
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=ugc-mashup`.
+
 ## Definition
 
 A UGC video cut together from **several different creators'** clips into one ad, where no single clip carries a specific format on its own.

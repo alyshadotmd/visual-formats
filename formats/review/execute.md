@@ -9,7 +9,9 @@ For "is this ad a Review?" naming/classification questions, use `classify.md` in
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=review`. Open the folder and study the examples first: both the single pulled-quote version and the multi-card grid, and how quote(s), star ratings, attribution, and product work together at a glance.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=review`.
+
+Open the folder and study the examples first: both the single pulled-quote version and the multi-card grid, and how quote(s), star ratings, attribution, and product work together at a glance.
 
 ## What this format is
 
@@ -19,8 +21,7 @@ Strongest for **scroll-stopping social proof at the top of funnel** and **produc
 
 The one property to protect: **it must stay quick and skimmable.** The moment it becomes one person's narrated journey, it is a Testimonial, not a Review.
 
-## Review vs Testimonial
-
+### Review vs Testimonial
 Build a Review when you want fast review snippets, one pulled quote or a clean grid of several (static-leaning). Build a Testimonial when you want a person to tell their whole story on camera, start to finish. Same raw material (happy customers), different format: Review is the one-glance quote card(s); Testimonial is the narrated arc.
 
 ## Inputs
@@ -36,7 +37,6 @@ Expect a **messaging angle**, one or more **real customer quotes** (verbatim), t
 5. **Brand + CTA**, plus a "results may vary" footnote where claims require it.
 
 ## Build rules (priority order)
-
 1. **Keep it quick and skimmable.** One review or a clean grid of several, but no narrated arc. If it becomes one person's journey, it's a Testimonial.
 2. **Use real, verbatim quotes** with real attributions. Never fabricate reviews.
 3. **Lead with the sharpest, most specific lines** the angle calls for (a concrete result beats a vague rave).

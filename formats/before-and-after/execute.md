@@ -9,7 +9,9 @@ For "is this ad a Before And After?" naming/classification questions, use `class
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=before-and-after`. **Open the folder and study the example first** — how the pair is framed, labeled, and supported by a stat/review.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=before-and-after`.
+
+**Open the folder and study the example first** — how the pair is framed, labeled, and supported by a stat/review.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle**, a real before/after asset (same subject, honest ti
 4. **Brand + CTA + results disclaimer.**
 
 ## Build rules (priority order)
-
 1. **Honest, same-subject pair.** Real before/after, clearly the same person, honest timeframe. Never fake or mismatch.
 2. **Label before / after and the timeframe** so the comparison is unambiguous.
 3. **The pair is the hero** — keep copy from crowding it out.

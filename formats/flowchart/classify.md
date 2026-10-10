@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Flo
 
 # Flowchart — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=flowchart`.
+
 ## Definition
 
 An ad built as a **decision tree**: a question or entry point at the top, then **branching paths** (yes/no or option forks) connected by **arrows**, routing the viewer down the branch that matches them to a recommendation (usually a specific product or variant). The viewer "follows the arrows to their answer." Usually a static image.
@@ -25,14 +29,9 @@ Do you follow arrows through forks to land on a personalized pick? If yes, Flowc
 - **Us vs Them:** a two-column comparison of brand vs. alternative, not a branching path to a personalized recommendation.
 - **Matching chart / "which one are you":** a table that maps each self-selected category straight to a recommendation, with parallel rows and no decision forks. If there's no branching, it's a matching chart, not a flowchart. (Not yet its own format in this library.)
 
-## What to look for as supporting signals
-
+## Signals
 - A question as the headline ("Is this your ___?", "Which ___ are you?")
 - Yes/No labels on the branches, arrows connecting steps
 - Each terminal node is a product/variant or a clear next step, ending in a CTA
-
-Example in the files folder:
-
-- the Honeylove "Is this your boob shape?" ad branches through yes/no questions to the CloudEmbrace recommendation
 
 See `execute.md` in this same folder for the full build rules.

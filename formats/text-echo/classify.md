@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Tex
 
 (Renamed from `echo` by Alysha, 2026-09-30.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=text-echo`.
+
 ## Definition
 
 A static whose message is **one short phrase repeated in huge type**, stacked line after line down the frame, with the product (often hand-held) layered over or through the type. The repetition makes it rhythmic and satisfying to look at, and it drills one message, usually the offer, without needing any other copy. Named after "echo type," the design term for repeated, stacked typography.

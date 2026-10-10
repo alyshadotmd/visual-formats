@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Hig
 
 # High-Production Edit — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=high-production-edit`.
+
 ## Definition
 
 A **video** whose defining quality is the **craft and density of the edit itself**. A voiceover drives a fast montage, and every beat gets its own purpose-built visual payoff: a dramatized demo (phone dropped from the sky, crane-drop, water test), a built animation (exploded-view diagram, motion graphic), a meme or reaction insert, an object-in-motion gag. No shot is held long; the edit keeps topping itself so a wall-to-wall feature or claim rundown stays genuinely fun to watch. The **entertainment is the editing**, not a single talking head or a static layout.
@@ -19,7 +23,7 @@ High-Production Edit is the **anchor (primary)** format. It can pair with a seco
 4. **The edit is dense and keeps escalating:** shots swap constantly, payoffs vary in kind, and the craft is high enough that watching the edit is itself the reward.
 5. **The production is deliberately built**, not incidental b-roll: the gags and animations were made for this ad.
 
-## What the edit does
+### What the edit does
 
 The point of the format is that the editing carries the entertainment so a heavy, feature-packed script never gets boring:
 
@@ -39,16 +43,11 @@ Mute it, then ask: is the reason this is fun to watch the **editing** — a rele
 - **Demo:** one product being used/shown, sustained, to prove it works. High-Production Edit may contain demo beats but strings many dramatized payoffs together; when a single sustained demo carries the ad, tag demo (or dual-tag).
 - **Asmr:** sound-led, satisfying tactile product sounds with little VO. High-Production Edit is VO-and-visual-led and gag-dense, not sound-led.
 
-## Supporting signals (not required)
-
+## Signals
 - Built animations (exploded views, motion graphics) mixed with live stunts
 - Staged stunts or stress tests standing in for durability/quality claims
 - Meme or reaction inserts used as punchlines
 - Sound-design punches (whooshes, impacts, clicks) synced to cuts
 - A feature/claim count that would be boring shot flat, kept alive purely by the edit
-
-## Reference
-
-- `b=mous_s=evergreen_vf=high-production-edit.mp4` — Mous Limitless 7.0 case + backpack ad. An Australian-accent VO rattles through a dense feature list, and the edit dramatizes every single claim: a phone dropped from the sky onto concrete and a crane hoisting-then-dropping it (durability), exploded-view animations peeling apart the 5-part camera button and the case layers (internal build), a phone dangling off a magnetic charging cable (MagSafe strength), a "$749 to replace / F*CK" meme insert (the problem), and a hard cut to a bulletproof vest for the aramid-fibre line. The edit keeps topping itself, which is what makes a wall-to-wall feature rundown fun to watch. Textbook High-Production Edit.
 
 See `execute.md` in this same folder for the full build/scripting rules.

@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Ven
 
 (Definition from Alysha, 2026-09-30. Media: static or video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=venn-diagram`.
+
 ## Definition
 
 An ad built on a **Venn diagram**: two, three or more overlapping circles, each labeled with a need, benefit or group, and the product sitting in the overlap where they meet.
@@ -29,9 +33,5 @@ Is it circles overlapping with the product in the middle? If yes, Venn Diagram.
 ## Signals
 
 Two or three circles, labels in each, the product placed in the shared middle.
-
-Examples in the evergreen files folder (tagged `vf=venn-diagram`):
-
-- Onnit "Daytime package / Nighttime package" drawn on a whiteboard, with both packs held in the overlap (tagged Venn Diagram + Whiteboard)
 
 See `execute.md` for the build rules.

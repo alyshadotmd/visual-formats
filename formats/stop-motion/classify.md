@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Sto
 
 (Named by Alysha and promoted from the parking lot, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=stop-motion`.
+
 ## Definition
 
 A **stop-motion** video: products or objects move frame by frame as still photos played in sequence, giving a handmade, slightly jerky movement.

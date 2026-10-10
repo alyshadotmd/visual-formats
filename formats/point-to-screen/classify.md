@@ -8,6 +8,10 @@ stage: emerging
 
 **Stage: Emerging.** Seen in only a few ads so far. Promote to Established (change `stage:` above and drop "Emerging." in the index) once it shows up from 3 different brands.
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=point-to-screen`.
+
 ## Definition
 
 A phone films a real screen (laptop, monitor, tablet, another phone) while a hand points at or clicks through what's on it, usually with someone talking you through it.
@@ -29,6 +33,6 @@ Mute it. If you still follow the pitch by watching where the hand points on the 
 - **Graphic anchor:** graphics pop up around a talking creator. In Point to Screen there are no added graphics; the screen itself is the visual.
 - **Web search:** a search results page as the hero. If someone is pointing at a filmed search on a real screen, tag Point to Screen first and add Web search as secondary.
 
-## Examples
+## Signals
 
-- Hydrant: a phone films a laptop on drinkhydrant.com as a hand builds a "Buy 2, Get 2 Free" bundle across hydrate, energy and sleep, then lands on checkout, with a voiceover ("I'm on Hydrant's site right now"). Examples live in `../../files/` (match `vf=point-to-screen` in the filename).
+Visible glare and device edges (it's a filmed screen, not a clean recording), a hand pointing, tapping, or clicking in sync with a voiceover, captions carrying the narration for sound-off viewing, and the walkthrough following one path start to finish (for example offer, pick products, cart showing the price).

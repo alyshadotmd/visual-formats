@@ -1,17 +1,17 @@
 ---
 name: skit-format
-description: Implementation SOP for the Skit ad format — a scripted acted-out scene with two or more defined characters (very often one actress playing both roles) whose exchange carries the ad and lands on a product reveal. Use whenever executing a skit ad, split-persona ad, or two-character scripted ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs which problem the wrong-self voices and which reframe the corrective-self delivers. The format fails when the characters feel indistinguishable, the dialogue reads as a monologue chopped in half, or the product reveal doesn't resolve the setup.
+description: Implementation SOP for the Skit ad format — a scripted acted-out scene with two or more defined characters (very often one actress playing both roles) whose exchange carries the ad and lands on a product reveal. Use whenever executing a skit ad, split-persona ad, or two-character scripted ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs which problem the wrong-self voices and which reframe the corrective-self delivers.
 ---
 
 For "is this ad a Skit?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
-
 
 # Skit Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They sit in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=skit` (currently `b=instant-hydration_s=evergreen_vf=skit.mp4`, `b=kitsch_s=evergreen_vf=skit.mp4`, `b=everyday-dose_s=evergreen_vf=skit.mp4`).
-- Study them first: how the two characters are visually distinguished, how the setup and reveal are timed, and how the product enters the scene.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=skit`.
+
+**Study them first** — how the two characters are visually distinguished, how the setup and reveal are timed, and how the product enters the scene.
 
 ## What this format is
 
@@ -27,24 +27,22 @@ Expect a **messaging angle** (the wrong belief or bad current solution the ad re
 
 If the angle doesn't cleanly reduce to one wrong belief and one corrective reframe, split it into multiple skits.
 
-## Anatomy — the layers
+## Anatomy
 
-### 1 · The character pairing
-- Two clearly distinguished characters, usually the same actress playing both. Distinguish with wardrobe (activewear vs casual), hair (styled vs unstyled), setting (kitchen vs bathroom), or role (patient vs consultant, novice vs expert). One character is the "wrong self" or setup persona; the other is the "corrective self" or reveal persona.
+1. **The character pairing:** two clearly distinguished characters, usually the same actress playing both. Distinguish with wardrobe (activewear vs casual), hair (styled vs unstyled), setting (kitchen vs bathroom), or role (patient vs consultant, novice vs expert). One character is the "wrong self" or setup persona; the other is the "corrective self" or reveal persona.
+2. **The setup beat:** the wrong-self voices the audience's problem, misconception, or default choice in one clear line, using the buyer's own words rather than the brand's language, delivered in-character rather than as a straight complaint to camera.
+3. **The corrective beat:** the corrective-self responds with the reframe, introducing the product, calling out one hero benefit, or listing the ingredients/features that solve the setup. The reframe directly answers the wrong-self's line rather than pivoting to a different topic.
+4. **The resolution beat:** the wrong-self tries or accepts the product on camera, closing on a demonstration frame, before/after moment, or the corrective-self's punchline. This is what makes it a skit and not a demo: the wrong-self has to visibly come around.
+5. **CTA (optional):** a short offer or product name at the end. The scene has already made the argument; the CTA just closes it.
 
-### 2 · The setup beat
-- The wrong-self voices the audience's problem, misconception, or default choice in one clear line. Uses the buyer's own words, not the brand's language. Delivered in-character, not as a straight complaint to camera.
+### Common variants
 
-### 3 · The corrective beat
-- The corrective-self responds with the reframe: introduces the product, calls out one hero benefit, or lists the ingredients/features that solve the setup. The reframe must directly answer the wrong-self's line, not pivot to a different topic.
+- **Wrong self + corrective self (same actress, split-screen).** The default in the reference examples. Easiest to shoot solo.
+- **Patient / consultant.** The corrective-self plays an expert role (doctor, trainer, stylist) diagnosing the wrong-self's problem and prescribing the product.
+- **Novice / expert.** The corrective-self coaches the wrong-self through the correct usage or the correct choice.
+- **Multi-actor skit.** Two different actors in the same scene. Same rules apply; the visual distinction is easier because the actors are already different.
 
-### 4 · The resolution beat
-- The wrong-self tries or accepts the product on camera. Close on a demonstration frame, before/after moment, or the corrective-self's punchline. This is what makes it a skit and not a demo: the wrong-self has to visibly come around.
-
-### 5 · CTA (optional)
-- Short offer or product name at the end. The scene has already made the argument; the CTA just closes it.
-
-## Craft rules (priority order)
+## Build rules (priority order)
 
 1. **Two distinct characters, or don't ship it.** If the audience can't tell them apart in the first frame, redo the wardrobe/hair/setting.
 2. **The wrong-self speaks first, in the buyer's own words.** No brand vocabulary. No hedging. One clean statement of the wrong belief or bad current choice.
@@ -53,21 +51,34 @@ If the angle doesn't cleanly reduce to one wrong belief and one corrective refra
 5. **Show the wrong-self converting.** Skits collapse when the reveal is just a product beauty shot; the wrong-self has to visibly try/taste/accept.
 6. **Keep the exchange short.** 3-6 beats total across both characters. Longer scenes stop being read.
 7. **Text overlays mirror the dialogue.** For sound-off viewing, the captioned lines carry the exchange even without audio.
-8. **Banned:** two characters who dress and sound identical, corrective-self lines that ignore what the wrong-self actually said, product reveals that don't resolve the setup, dialogue that's really a chopped-in-half monologue.
-
-## Common variants
-
-- **Wrong self + corrective self (same actress, split-screen).** The default in the reference examples. Easiest to shoot solo.
-- **Patient / consultant.** The corrective-self plays an expert role (doctor, trainer, stylist) diagnosing the wrong-self's problem and prescribing the product. See `b=everyday-dose_s=evergreen_vf=skit.mp4`.
-- **Novice / expert.** The corrective-self coaches the wrong-self through the correct usage or the correct choice.
-- **Multi-actor skit.** Two different actors in the same scene. Same rules apply; the visual distinction is easier because the actors are already different.
+8. **Keep the two characters visually and vocally distinct, keep the corrective-self answering what the wrong-self actually said, and keep the product reveal resolving the setup.** The dialogue should read as a real back-and-forth, not a monologue chopped in half.
 
 ## Length caps
 
 | Element | Cap |
 |---|---|
-| Total runtime | ≤45s, ideally 20-30s |
 | Setup beat | 1 line, ≤12 words |
 | Corrective beat | 1-2 lines, ≤18 words total |
 | Number of exchange beats | 3-6 |
 | Characters in scene | 2 (3 if the third is a pure prop role) |
+
+## Build steps
+
+1. Read the brief: the messaging angle (wrong belief or bad current solution), persona and awareness stage, the product's hero benefit, and VOC on how buyers voice the wrong belief.
+2. Cast and distinguish the two characters (wardrobe, hair, setting, or role).
+3. Write the setup beat: the wrong-self states the wrong belief in the buyer's own words.
+4. Write the corrective beat: the corrective-self answers directly with the reframe and the product.
+5. Write the resolution beat: the wrong-self visibly tries or accepts the product.
+6. Add an optional CTA line to close the scene.
+7. Add text overlays that mirror the spoken dialogue.
+8. Claims pass (claims specific and validated; no absolutes/banned phrases).
+9. Deliver: casting/distinction notes, scripted beats (setup, corrective, resolution), overlay text, claims flags.
+
+## QA checklist
+
+- [ ] Two or more defined characters, visually distinguishable in the first frame
+- [ ] The wrong-self speaks first, in the buyer's own words
+- [ ] The corrective-self directly answers the wrong-self's line
+- [ ] Product enters at the resolution, not the setup, and the wrong-self visibly converts
+- [ ] Exchange is short (3-6 beats) with text overlays mirroring the dialogue
+- [ ] Honest claims; no absolutes or banned phrases

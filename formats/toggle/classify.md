@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Tog
 
 # Toggle — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=toggle`.
+
 ## Definition
 
 A static or video that overlays an **iOS-style settings toggle/switch UI** on a photo (often a mirror selfie): one option switched off, the brand option switched on. A UI-meme that frames the choice as flipping a switch.
@@ -28,9 +32,5 @@ Is the hook a settings-style on/off switch overlaid on the image? If yes, Toggle
 ## Signals
 
 iOS toggle rows, a "2025 goal" style header, one switch off + one green switch on, mirror-selfie or lifestyle background.
-
-Example in the files folder:
-
-- Orgain "2025 fitness goal: Skipping protein [off] / Orgain's shakes [on]"
 
 See `execute.md` for the build rules.

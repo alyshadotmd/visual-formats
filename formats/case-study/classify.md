@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Cas
 
 # Case Study — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=case-study`.
+
 ## Definition
 
 A static framed as a **clinical / study proof**: a "clinically studied, visibly proven" headline plus several result rows, each a stat tied to a supporting image (before/after, product-in-use), usually grounded by a study-method footnote. It reads like a mini research writeup.
@@ -28,9 +32,5 @@ Does it present itself as evidence from a study, with more than one result and a
 ## Signals
 
 "Clinically Studied, Visibly Proven"; stacked result panels each with an image and "X% saw … in 12 weeks†"; a small study-method footnote.
-
-Example in the files folder:
-
-- Act+Acre "Clinically Studied, Visibly Proven" with three image-backed result panels
 
 See `execute.md` for the build rules.

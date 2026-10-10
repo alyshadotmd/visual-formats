@@ -9,7 +9,9 @@ For "is this ad a Behind The Scenes?" naming/classification questions, use `clas
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=behind-the-scenes`. **Open the folder and study the example first** — how the process footage, overlays, and voiceover build a credibility arc.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=behind-the-scenes`.
+
+**Open the folder and study the example first** — how the process footage, overlays, and voiceover build a credibility arc.
 
 ## What this format is
 
@@ -23,7 +25,7 @@ The one property to protect: **it has to show real process** — staged, generic
 
 Expect a **messaging angle**, real process footage (or a shot list), and a founder/chemist voice. The angle picks the credibility hook; this SOP governs the sequence.
 
-## Anatomy (narrative arc)
+## Anatomy
 
 1. **The hook question:** "What makes X different?" over a process shot.
 2. **The reveal:** the actual making — lab, line, formulation, spec/blueprint overlays.
@@ -31,7 +33,6 @@ Expect a **messaging angle**, real process footage (or a shot list), and a found
 4. **The payoff:** product + brand line.
 
 ## Build rules (priority order)
-
 1. **Show real process**, not generic B-roll. Lab, line, formulation, testing.
 2. **Open on the difference question** to frame why the making matters.
 3. **Let the founder/chemist voice carry credibility**, tied to what's on screen.
@@ -43,8 +44,6 @@ Expect a **messaging angle**, real process footage (or a shot list), and a found
 
 | Element | Cap |
 |---|---|
-| Hook | first 2–3 sec |
-| Total | ~15–30 sec |
 | VO | conversational, tied to on-screen process |
 | CTA/end | product + brand line |
 

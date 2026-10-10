@@ -5,15 +5,15 @@ description: Implementation SOP for the Feature Benefit Pointout ad format — a
 
 For "is this ad a Feature Benefit Pointout?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Feature Benefit Pointout Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=feature-benefit-pointout`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=feature-benefit-pointout`.
+
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=feature-benefit-pointout`) and study the examples first** — label count, where the lines point, and how each caption turns a spec into an outcome.
+**Whenever this SOP is triggered or referenced, study the examples first** — label count, where the lines point, and how each caption turns a spec into an outcome.
 
 ## What this format is
 
@@ -29,7 +29,7 @@ Expect a **messaging angle** (which benefits matter to this buyer), persona and 
 
 If specs or claims aren't verified, stop and get them — this format lives or dies on accurate, screenshot-proof specifics.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · Hero product
 - One product, shot clean and legible, angled so the parts you want to label are visible. Real product, not a render that hides the mechanism.
@@ -44,8 +44,7 @@ If specs or claims aren't verified, stop and get them — this format lives or d
 - Balance them around the product; alternate left/right so the eye travels the whole frame.
 - One idea per label. No label carries two features.
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **Every label ends on the benefit.** If a label stops at the spec, it isn't finished.
 2. **Point at the real thing.** The line must land on the actual part; a label floating near nothing reads as decoration and kills trust.
 3. **Lead with the buyer's language for the feature,** not the internal/engineering name. Translate "hydrolyzed marine collagen" into what it does unless the buyer already shops on that term.

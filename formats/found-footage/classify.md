@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Fou
 
 (Named by Alysha, 2026-09-30. A fast-growing format.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=found-footage`.
+
 ## Definition
 
 A video (or still) that plays out **through a device camera's view**: a ring doorbell, a dashcam, a security or CCTV
@@ -25,22 +29,20 @@ weren't meant to see.
 
 Does it look like you're watching through a doorbell, dashcam, monitor or security camera? If yes, Found Footage.
 
-## Pairing
-
-Found Footage describes how the footage is seen. If something inside the frame is itself a clear format (sticky notes
-held up to the camera, a skit), add it as the second tag: Nanit is `found-footage` + `post-it`.
-
 ## Commonly confused with
 
 - **Yapper / UGC:** a creator filming themselves on a phone, even at an odd angle.
 - **Instagram Text Overlay:** native story text is the layer, not a device camera.
 - **Skit:** a staged scene filmed normally. A skit shown through a doorbell cam is Found Footage + Skit.
 
+### Pairing
+
+Found Footage describes how the footage is seen. If something inside the frame is itself a clear format (sticky notes
+held up to the camera, a skit), add it as the second tag, for example `found-footage` + `post-it`.
+
 ## Signals
 
 Fisheye or overhead angle, fixed camera, timestamp or LIVE badge, device app interface, night vision, the product is
 often the device itself (baby monitor, doorbell, dashcam).
-
-Example: Nanit, a woman leaning into the crib camera on the monitor's live view, shushing, then holding up sticky notes.
 
 See `execute.md` for the build rules.

@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Ben
 
 # Bento Grid — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=bento-grid`.
+
 ## Definition
 
 A static or video built from **tiles or panels where at least one tile is something other than a flat product image**: a lifestyle shot, a product in use or in context, a person, a macro/texture crop, or moving footage. The tiles can be varied sizes or all the same size. What makes it bento is the **mix of image types**, like a bento box holding different foods, not the tile sizes.
@@ -31,14 +35,5 @@ Cover the text. Is every remaining image a flat product shot (studio shot or cut
 ## Signals
 
 Tile or panel layout, a lifestyle / model / in-use tile beside product tiles, often a text or offer tile, a unifying palette and type system, an editorial / lookbook / brand-story feel.
-
-Examples:
-
-- Act + Acre "25% Off" (swipe file) — four same-ish panels: two product shots, a text/offer tile, and a lifestyle tile of long hair. The hair tile is what makes it bento.
-- Act + Acre comment-response split-screen video (swipe file) — four panels of creator footage; a video can be Bento Grid.
-- Made In "Deinfluencing Cookware Fads Since 1929" — a product tile, a macro detail crop, a kitchen lifestyle tile, and a bulleted text panel.
-- Vuori "The Villa Collection" — model-shot tiles, a text tile ("Just In: New Colors"), and product-on-model crops.
-
-Not bento (moved to product-grid): Act + Acre "25% Off Sitewide" — a varied-size mosaic, but every tile is a flat product shot.
 
 See `execute.md` for the build rules.

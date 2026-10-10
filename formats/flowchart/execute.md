@@ -9,9 +9,9 @@ For "is this ad a Flowchart?" naming/classification questions, use `classify.md`
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=flowchart`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=flowchart`.
 
-**Whenever this SOP is triggered, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=flowchart`) and study the example first** — how the entry question is framed, how the branches split, and how each branch lands on a recommendation.
+**Whenever this SOP is triggered, study the example first** — how the entry question is framed, how the branches split, and how each branch lands on a recommendation.
 
 ## What this format is
 
@@ -40,7 +40,6 @@ Expect a **messaging angle** (the decision being made), persona, the **real prod
 - One clear shop/next-step button after the recommendation.
 
 ## Build rules (priority order)
-
 1. **One entry question that pulls the target in.** It should feel personal ("that's me").
 2. **Branches must be mutually exclusive and skimmable.** A reader should never be on two paths at once.
 3. **Every path ends on a recommendation.** No dead ends; each fork resolves.

@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Exp
 
 (Definition from Alysha, 2026-09-30. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=explainer`.
+
 ## Definition
 
 A video where **someone who knows the topic explains something to you with confidence**. They may be a trusted expert, or just a knowledgeable everyday person. The ad teaches first (a comparison, a how-it-works, a myth cleared up), and the product fits into what you just learned.
@@ -30,10 +34,5 @@ Did you learn something from it even if you skipped the product? If yes, Explain
 ## Signals
 
 Props laid out to compare, a confident teacherly tone, "this is 40g of protein", counting on fingers, on-screen labels.
-
-Examples in the evergreen files folder (tagged `vf=explainer`):
-
-- Huel, a man at a table showing bowls of eggs, edamame and more to explain how much protein is in each, then drinking the shake
-- Seed x Bobby Parrish, a man in a kitchen pulling apart a DS-01 capsule to explain the outer capsule, inner capsule and 24 strains, with labels and a circle inset showing the open capsule
 
 See `execute.md` for the build rules.

@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Unb
 
 # Unboxing — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=unboxing`.
+
 ## Definition
 
 A video built around the **reveal of a product from its packaging** — opening the box, cutting the tape, pulling back wrapping, lifting out and laying out what's inside. The **anticipation and the reveal are the hook**, and it usually carries voiceover or talking (this is what separates it from sound-led ASMR).
@@ -26,14 +30,12 @@ Is the whole ad organized around opening a package and showing what's inside? If
 - **Demo:** feature explanation and use, after the product is already out of the box.
 - **Haul:** multiple products shown/reviewed; unboxing centers on opening one package.
 
-## Dual-format note
+### Dual-format note
 
 Unboxing pairs cleanly as a **secondary** format. An install or reveal video that is both sound-led and reveal-led can carry two `vf=` tags (e.g. `vf=asmr_vf=unboxing`). Tag Unboxing as the secondary when the packaging reveal is present but a different format (ASMR, founder, greenscreen) is doing the primary work.
 
 ## Signals
 
 Box/mailer/wrapper on camera, tape or seal being opened, contents lifted out and arranged, "here's what comes with it," first-impression reactions, close-ups of the packaging and the product's first appearance.
-
-Example carrying this tag: `b=rough-country_s=evergreen_vf=asmr_vf=unboxing.mp4` (in `../../files/evergreen/`) — a truck bed-cover install that reveals the product as it's unpacked and fitted; it leans ASMR (primary), with Unboxing as the secondary reveal tag. A dedicated Unboxing-primary example is still needed.
 
 See `execute.md` for the build rules.

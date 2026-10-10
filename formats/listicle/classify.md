@@ -5,13 +5,17 @@ description: How to identify whether an ad should be classified/named as the Lis
 
 # Listicle — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=listicle`.
+
 ## Definition
 
 **A list of things.** That's it. Two or more discrete items presented as a list — numbered or not, in a single frame or across multiple slides. The list *is* the format.
 
 The device that carries the list (plain overlay text, a Notes-app card, a handwritten note, icon+label rows, photo captions) is a separate dimension. A Listicle **often also carries a device-format tag** (commonly `Notes App`, but also `Post-it`, `Instagram Text Overlay`, etc.), tagged as two `vf:` values.
 
-## The thing that must be true
+## The things that must all be true
 
 There is a **list of 2+ discrete items**. Delivery doesn't matter:
 - stacked in **one frame** (rows/bullets/lines), or
@@ -29,13 +33,8 @@ Is the content a list of separate items I read through? If yes, Listicle.
 - **Us Vs Them:** a two-column comparison table (brand vs. alternative), not a one-direction list.
 - **Notes App:** a common device paired with a listicle — check `notes-app/classify.md` separately.
 
-## Supporting signals
-
+## Signals
 - Single-frame: a stack of bulleted/numbered lines or icon+label rows.
 - Multi-slide: a cover/title slide, consistent treatment across slides, one item per slide.
-
-Example in the files folder:
-
-- Merit "SPF that doubles as a blur filter" — a single-frame list of four benefit rows (Blurs pores, Evens skin tone, Shields with mineral SPF, Feels like nothing) beside the product, none pointing at it
 
 See `execute.md` in this same folder for the full build rules.

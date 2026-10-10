@@ -7,6 +7,10 @@ description: How to identify whether an ad should be classified/named as the Cha
 
 (Named by Alysha, 2026-09-30, from the BFCM swipe file review. Media: video.)
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=challenge`.
+
 ## Definition
 
 A video built around a **live challenge, contest or stunt** with a clear rule, played out on camera (a pie-eating contest, a timed task, a dare). Often the result is tied to the offer, for example "every second she takes = another percent off," so the viewer watches to see how the deal ends up.
@@ -30,9 +34,5 @@ Is the ad "watch someone try to do X, and see what happens"? If yes, Challenge.
 ## Signals
 
 "Contest", "challenge" or a dare in the opening text; a timer or counter on screen; a host with a mic narrating; the discount ticking up as the challenge goes on.
-
-## Examples
-
-- Javvy, "Pie eating contest: every second = your discount" (the % off counts up with the timer).
 
 See `execute.md` for the build rules.

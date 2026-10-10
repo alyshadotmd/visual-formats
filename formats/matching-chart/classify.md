@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Mat
 
 # Matching Chart — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=matching-chart`.
+
 ## Definition
 
 A static (usually an image) built as a **matching table**: several self-select categories listed down one side (body type, skin type, hair type, goal, personality, etc.), each mapped straight across to a **recommended product or variant**. The viewer finds the row that's them and reads across to their pick. No branching logic (that's flowchart) and no ranked argument (that's listicle).
@@ -26,14 +30,9 @@ Do you scan a table for your category and read across to your recommended pick, 
 - **Us vs Them:** a two-column brand-vs-alternative comparison, not self-select category → your pick.
 - **Feature-benefit-pointout:** call-outs on one hero product, not multiple categories each mapped to a different product.
 
-## What to look for as supporting signals
-
+## Signals
 - A "Which ___ are you?" / "What ___ is best for you?" headline
 - A column of categories (often with little icons/illustrations) aligned to a column of products
 - Arrows or aligned rows connecting each category to its match; often implies a shop action
-
-Example in the files folder:
-
-- the Honeylove "What shapewear is best for you?" ad maps body types (Rectangle, Pear, Hourglass, Inverted Triangle, Apple) each to a specific style
 
 See `execute.md` in this same folder for the full build rules.

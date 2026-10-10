@@ -5,11 +5,15 @@ description: How to identify whether an ad should be classified/named as the Fea
 
 # Feature Benefit Pointout — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=feature-benefit-pointout`.
+
 ## Definition
 
 A hero product shot (clean or lightly styled background) with **3-6 call-out lines or arrows** connecting to specific parts of the product, each labeling a feature and translating it into a benefit.
 
-## The two things that must both be true
+## The things that must all be true
 
 1. **A single hero product is the visual center**, shown clearly enough that specific parts can be pointed at.
 2. **There are multiple (3+) labeled call-outs with connector lines/arrows** pointing at distinct parts of that product, each label pairing a feature with its benefit.
@@ -26,8 +30,7 @@ Ask: *does this look like an annotated diagram of one product, where each label 
 - **Us Vs Them:** also uses labeled criteria, but structured as a two-column comparison table (brand vs. alternative), not lines pointing at parts of a single product.
 - **Instagram Text Overlay / Post-it:** both can have text over a product, but neither has the multi-point annotated-diagram structure with connector lines to specific product parts.
 
-## What to look for as supporting signals
-
+## Signals
 - Each label ends on a benefit, not just a spec ("612mg dose — the potency studies actually used", not just "612mg dose")
 - Labels balanced left/right around the product
 - An optional short headline framing the promise the labels prove

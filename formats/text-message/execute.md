@@ -9,7 +9,9 @@ For "is this ad a Text Message?" naming/classification questions, use `classify.
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=text-message`. **Open the folder and study the example first** — how the chat feels real, how the pitch is woven in, and how it pays off.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=text-message`.
+
+**Open the folder and study the example first** — how the chat feels real, how the pitch is woven in, and how it pays off.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle** and the beat the exchange should land (recommendati
 4. **Optional shared photo** of the product in-thread.
 
 ## Build rules (priority order)
-
 1. **Sound like real texting.** Casual, short bubbles, natural rhythm, believable typos/emoji.
 2. **Weave the pitch into the story**, don't paste a sales line into a bubble.
 3. **Build to one clear payoff** (recommendation / punchline / request).

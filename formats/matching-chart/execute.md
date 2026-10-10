@@ -9,9 +9,9 @@ For "is this ad a Matching Chart?" naming/classification questions, use `classif
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=matching-chart`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=matching-chart`.
 
-**Whenever this SOP is triggered, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=matching-chart`) and study the example first** — how the categories are framed, how each maps to a product, and how the reader is meant to find themselves.
+**Whenever this SOP is triggered, study the example first** — how the categories are framed, how each maps to a product, and how the reader is meant to find themselves.
 
 ## What this format is
 
@@ -40,7 +40,6 @@ Expect a **messaging angle**, persona, the **real product range / variants**, an
 - One clear shop/next-step prompt.
 
 ## Build rules (priority order)
-
 1. **Categories must be self-evident and mutually exclusive.** The reader should instantly know which one is them, and only one.
 2. **Cover the audience.** The categories together should include everyone you're targeting — no one left without a row.
 3. **One clear recommendation per category.** Read straight across; no ambiguity.

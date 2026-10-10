@@ -9,7 +9,9 @@ For "is this ad a Product Grid?" naming/classification questions, use `classify.
 
 ## Reference examples (look here first)
 
-They sit in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, matched by the `vf=product-grid` token. **Study one first** — notice that every image is a flat product shot and the whole layout reads as one complete set.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=product-grid`.
+
+**Study one first** — notice that every image is a flat product shot and the whole layout reads as one complete set.
 
 ## What this format is
 
@@ -32,7 +34,6 @@ Expect the **SKU/variant lineup** (or the single product plus the labels to swap
 4. **Payoff:** brand lockup and/or the offer.
 
 ## Build rules (priority order)
-
 1. **Flat product images only** — studio shots or no-background cut-outs. No lifestyle, model, in-use, or footage; that turns it into a bento-grid. A headline or offer tile is fine.
 2. **Keep the product treatment consistent** — same lighting, scale logic, and background style — so the set reads as one.
 3. **Show enough to feel complete.** A filled 3x3 or 3x4 reads as "the whole range."
@@ -40,8 +41,7 @@ Expect the **SKU/variant lineup** (or the single product plus the labels to swap
 5. **Pick one arrangement and commit.** Tight gutters for cells and rows; for a scatter, balance the products evenly around the headline.
 6. **Honest claims.** Validate any prices or discounts; no absolutes or banned phrases.
 
-## Spec caps
-
+## Length caps
 | Element | Guide |
 |---|---|
 | Cells | ~6-12 (a full 3x3 / 3x4 reads as complete) |

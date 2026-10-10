@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Ins
 
 # Instagram Text Overlay — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=instagram-text-overlay`.
+
 ## Definition
 
 An ad styled as a native Instagram story or post, a **selfie, POV, or lifestyle shot** you'd actually share to your own story, where **Instagram's own native text** carries the message (the story "add text" look, native fonts, optional colored highlight boxes, or the classic caption placement).
@@ -17,13 +21,13 @@ It can also use native story elements: a **link sticker**, an **image sticker**,
 2. **The base reads like something a person would post to their story:** a selfie, a POV shot, or a lifestyle shot.
 3. **There's no comment-response (question) sticker.** A question sticker + reply is comment-response, not this.
 
-## Allowed (these do NOT disqualify it)
+### Allowed (these do NOT disqualify it)
 
 - A **link sticker** (the native IG story link CTA)
 - An **image sticker**
-- **Overlaid screenshots or images** on the story — you can drop a screenshot or photo on top and it's still this format, as long as native IG text is doing the talking (see the Space Goods and Natural Cycles examples in the files folder)
+- **Overlaid screenshots or images** on the story — you can drop a screenshot or photo on top and it's still this format, as long as native IG text is doing the talking
 
-## Video too (Alysha, 2026-09-30)
+### Video too (Alysha, 2026-09-30)
 
 This format describes the **text layer**, so it applies to videos as well as statics. On a video, add a second format only when the footage itself is a specific library format (for example a `yapper` talking to camera). Don't add `b-roll-overlay` on top: that is the fallback for b-roll carrying text that isn't Instagram-native, so Instagram text overlay (the more specific one) wins alone.
 
@@ -37,8 +41,7 @@ Would this look like someone's own Instagram story? Is native IG text doing the 
 - **Comment-screenshot:** a screenshotted comment is the hero, its comment chrome (username, avatar, likes) doing the work. Overlaying a screenshot here is fine; a comment screenshot *being* the ad is `comment-screenshot`.
 - **Post-it:** handwriting-styled note, not IG's native typed text.
 
-## What to look for as supporting signals
-
+## Signals
 - UGC-style selfie/POV/lifestyle base image that reads as an organic story
 - Caption-voice copy (lowercase energy, contractions, line breaks pacing the read)
 - A native link sticker as the CTA, or an image sticker / overlaid screenshot supporting the point

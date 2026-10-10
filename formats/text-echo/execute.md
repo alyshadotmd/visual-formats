@@ -7,6 +7,10 @@ For "is this ad a Text Echo?" naming/classification questions, use `classify.md`
 
 # Text Echo Format — Implementation SOP
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=text-echo`.
+
 ## What this format is
 
 One phrase repeated in big stacked lines, with the product in front. It works because repetition is satisfying and hypnotic to look at, and it hammers a single message so hard there is nothing else to read. Built for thumb-stopping at a glance.
@@ -28,7 +32,6 @@ Expect a **messaging angle** that boils down to 1-3 words, and the hero product.
 5. **Brand mark.**
 
 ## Build rules (priority order)
-
 1. **Pick one short phrase** and repeat it exactly.
 2. **Go huge.** Each line should run nearly edge to edge.
 3. **Let the product overlap the type** so it feels layered, while the phrase still reads.

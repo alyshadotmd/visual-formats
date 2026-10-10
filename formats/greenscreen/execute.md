@@ -9,10 +9,11 @@ For "is this ad a Greenscreen?" naming/classification questions, use `classify.m
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=greenscreen`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=greenscreen`.
+
 - This SOP lives in this folder, so the example videos sit next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=greenscreen`) and watch the examples first** — how the greenscreen opens the hook, what's on the screen behind the creator, and whether they react to it directly or it just adds context (compare the Native Pet context-layer example with the more reactive ones).
+**Whenever this SOP is triggered or referenced, watch the examples first** — how the greenscreen opens the hook, what's on the screen behind the creator, and whether they react to it directly or it just adds context (compare the context-layer examples with the more reactive ones).
 
 ## What this format is
 
@@ -36,7 +37,7 @@ Expect a **messaging angle** (the point), persona and awareness stage, the **bac
 
 If the react version has no real evidence to show, get it. A greenscreen with a fabricated screenshot is a liability, not a format.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The background screen (opens the hook)
 - Full-frame behind the creator from the first beat. This is the anchor: the video opens on it.
@@ -54,8 +55,7 @@ If the react version has no real evidence to show, get it. A greenscreen with a 
 - React version: react first ("okay this is wild"), then the point.
 - Context version: make the point; let the background reinforce it.
 
-## Script / build rules (priority order)
-
+## Build rules (priority order)
 1. **Open on the greenscreen.** The first beat is the composited screen and the line that relates to it. If your hook could play with no greenscreen, it isn't this format.
 2. **Keep the relationship live.** Whatever is on screen relates to what's being said, by direct reference or as a context layer. Never a random backdrop.
 3. **React version: react, don't narrate.** Open on the reaction, then the evidence, then the point. Don't read the screen verbatim — say what it means.
@@ -70,9 +70,8 @@ If the react version has no real evidence to show, get it. A greenscreen with a 
 
 | Element | Cap |
 |---|---|
-| Hook (opens on greenscreen) | ≤3s, ≤10 words |
+| Hook (opens on greenscreen) | ≤10 words |
 | Beats | 3–6, each with its own on-screen background |
-| Total runtime | 15–40s |
 | Spoken lines | short, ≤15 words |
 | Brand mention | 1, as the payoff |
 

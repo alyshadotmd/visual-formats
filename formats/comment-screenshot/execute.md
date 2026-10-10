@@ -5,17 +5,17 @@ description: Implementation SOP for the Comment Screenshot ad format — a real 
 
 For "is this ad a Comment Screenshot?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Comment Screenshot Format — Implementation SOP
 
 ## Reference examples (look here first)
 
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=comment-screenshot`.
+
 Real, live-in-market examples of this format are saved in the brain, in the shared files folder:
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=comment-screenshot`.
 - This SOP lives inside that same `comment-screenshot/` folder, so the example creatives are the image files sitting next to it.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=comment-screenshot`) and study the example images before writing.** Calibrate the comment styling, who is speaking, and whether a reply is captured in the screenshot (as in the harrys example) or the comment stands alone, against what the examples actually do.
+**Whenever this SOP is triggered or referenced, study the example images before writing.** Calibrate the comment styling, who is speaking, and whether a reply is captured in the screenshot or the comment stands alone, against what the examples actually do.
 
 ## What this format is
 
@@ -23,7 +23,7 @@ A static whose hero is a **screenshotted comment left on a social media post** (
 
 Two modes, decided by the brief:
 - **Standing comment (social proof):** one strong comment (or a small stack) carries the whole ad, overlaid on the image doing all the work. No reply needed. Best for warm audiences and testimonial angles.
-- **Comment + reply (objection handling):** a skeptical or curious comment on top, a reply captured in the same screenshot underneath, usually the brand's verified handle (as in the harrys example). Best for a known objection or a feature the angle wants to argue.
+- **Comment + reply (objection handling):** a skeptical or curious comment on top, a reply captured in the same screenshot underneath, usually the brand's verified handle. Best for a known objection or a feature the angle wants to argue.
 
 The one property to protect: **the comment must read like a person typed it in the app**, not like a review the brand curated.
 
@@ -33,7 +33,7 @@ This SOP executes; it doesn't strategize. Expect a **messaging angle** (what the
 
 If no VOC exists, say so and gather real language first. The comment is mined, not invented — a fabricated-sounding comment is worse than no ad.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The comment (hero)
 - Real social comment chrome: username + avatar, the comment text, like count, "Reply", relative timestamp (2d, 1w). Keep it believable, not pristine. Match the platform's comment UI (Instagram, TikTok, or Facebook) to wherever the comment is meant to have come from.
@@ -51,8 +51,7 @@ If no VOC exists, say so and gather real language first. The comment is mined, n
 - Optional product shot, lifestyle image, or flat color behind the comment card. Keep it quiet; the comment is the star.
 - If a product is shown, it's incidental, not staged like a hero render.
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **Mine, don't manufacture.** Build the comment from a real quote near the angle. If no phrase in it was ever actually said by a person, rewrite it.
 2. **Typed register beats written register.** Casual caps, fragments, one emoji, real-handle usernames.
 3. **One idea per comment.** A comment argues one thing (a result, an objection, a surprise), never a feature list.

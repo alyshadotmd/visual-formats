@@ -5,14 +5,13 @@ description: Implementation SOP for the Press ad format — an ad framed as edit
 
 For "is this ad a Press?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and writing one.
 
-
 # Press Format — Implementation SOP
 
 ## Reference examples (look here first)
 
-- **Reference examples:** They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=press`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=press`.
 
-**Whenever this SOP is triggered or referenced, open the shared `../../files/evergreen/` and `../../files/bfcm/` folders (filter for `vf=press`) and study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
+**Whenever this SOP is triggered or referenced, study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
 
 ## What this format is
 
@@ -32,7 +31,7 @@ Expect a **messaging angle** (the claim the press proves), persona and awareness
 
 Two modes: real press (a real outlet's real, attributed coverage) is best. If there's no real coverage, you can still build the press-styled version, but use a **generic, clearly-not-real source** (an invented/generic title and logo) rather than a real publication's identity, and keep any claim inside it honest and substantiable. Never put a real outlet's name/logo on a quote it didn't give.
 
-## Anatomy — the layers
+## Anatomy
 
 ### 1 · The pull-quote (hero)
 - One editorial-styled headline quote, set large like a magazine cover line.
@@ -49,8 +48,7 @@ Two modes: real press (a real outlet's real, attributed coverage) is best. If th
 ### 4 · The claim/benefit line + CTA
 - One line connecting the press to what it means for the buyer, then a quiet CTA.
 
-## Craft rules (priority order)
-
+## Build rules (priority order)
 1. **Real outlet = real, attributable coverage; otherwise use a generic source.** With a real publication, every quote is sourced and every logo earned (no paraphrase presented as a quote). Without real coverage, use a clearly-not-real/generic source for the editorial styling instead of a real outlet's identity — and keep any product claim inside it honest.
 2. **Lead with the most specific line,** not the most flattering adjective. "Cut my CPA in half in 3 weeks" beats "amazing product."
 3. **Editorial restraint.** Serif, grid, whitespace — let the layout signal credibility.

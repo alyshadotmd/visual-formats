@@ -9,7 +9,9 @@ For "is this ad a Bento Grid?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-They sit in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, matched by the `vf=bento-grid` token. **Study one first** — notice how the tiles mix image types (product, lifestyle, text) yet lock to the same alignment, palette, and type.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=bento-grid`.
+
+**Study one first** — notice how the tiles mix image types (product, lifestyle, text) yet lock to the same alignment, palette, and type.
 
 ## What this format is
 
@@ -32,7 +34,6 @@ Expect a **mix of assets** — a hero product shot, macro/detail crops, lifestyl
 5. **Unifiers:** one palette, one type system, consistent gutters tying the tiles together.
 
 ## Build rules (priority order)
-
 1. **Mix image types on purpose.** At least one tile must be lifestyle, in-use, model, macro, or footage; without it, it's a product-grid. Keep alignment and gutters tight.
 2. **Usually include a text tile** carrying the message (title, offer, collection, or bullets).
 3. **Unify with one palette and type system** so the varied tiles read as a single composition.
@@ -41,8 +42,7 @@ Expect a **mix of assets** — a hero product shot, macro/detail crops, lifestyl
 6. **Keep it clean and aligned.** If tiles overlap or scatter, it's a collage, not a bento-grid.
 7. **Honest claims.** Validate any proof points; no absolutes or banned phrases.
 
-## Spec caps
-
+## Length caps
 | Element | Guide |
 |---|---|
 | Tiles | ~3-6 (equal or varied sizes) |

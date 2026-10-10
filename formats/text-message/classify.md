@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the Tex
 
 # Text Message — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=text-message`.
+
 ## Definition
 
 A static built as a **screenshot of a text / iMessage conversation**, where the pitch plays out as a back-and-forth chat — a friend recommending the brand, a funny payment request, a confession.
@@ -28,10 +32,5 @@ Is the ad a phone text thread you "read over their shoulder"? If yes, Text Messa
 ## Signals
 
 Blue/grey iMessage bubbles, contact name header, a payment/Venmo-style request, "just FYI this brand…", a photo shared in-thread.
-
-Examples in the files folder:
-
-- Atlas Coffee Club "$17 Request" stolen-coffee bit
-- Grüns "Elma" recommending methylated vitamins
 
 See `execute.md` for the build rules.

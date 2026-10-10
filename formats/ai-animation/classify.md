@@ -5,6 +5,10 @@ description: How to identify whether an ad should be classified/named as the AI 
 
 # AI Animation — Classification Guide
 
+## Reference examples (look here first)
+
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=ai-animation`.
+
 ## Definition
 
 A **video** ad rendered as **AI-generated animation** — animated characters and scenes (often with a mascot), telling a narrative — rather than live-action footage, static graphics, or screen-recorded UI. The defining trait is the technique: the whole ad is AI-generated animated visuals.
@@ -25,15 +29,10 @@ Is the whole thing an AI-generated animated story, with animated characters stan
 - **Greenscreen:** a live creator composited over a background. AI Animation is fully animated, no real person.
 - **Any other format:** AI Animation is a *technique/render* classification. A static or live-action ad that merely uses one AI-generated image is not this format; the whole ad has to be AI-generated animation. (A specific ad can still carry a secondary structural tag, e.g. the story also being an us-vs-them.)
 
-## What to look for as supporting signals
-
+## Signals
 - A recurring animated character, often plus a mascot (the product as a character)
 - Exaggerated, illustrated problem moments
 - VO narration over an upbeat track
 - A clear story arc ending in a product CTA
-
-Example in the files folder:
-
-- the Honeylove "invisible bra" ad — an animated woman plus a smiling animated bra mascot moving through a problem → discovery → lifestyle arc to the CrossOver Bra CTA
 
 See `execute.md` in this same folder for the full build rules.

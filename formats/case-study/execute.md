@@ -9,7 +9,9 @@ For "is this ad a Case Study?" naming/classification questions, use `classify.md
 
 ## Reference examples (look here first)
 
-They live in the shared `../../files/evergreen/` and `../../files/bfcm/` folders, tagged `vf=case-study`. **Open the folder and study the example first** — how the study framing, result rows, images, and method footnote work together.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=case-study`.
+
+**Open the folder and study the example first** — how the study framing, result rows, images, and method footnote work together.
 
 ## What this format is
 
@@ -31,7 +33,6 @@ Expect a **messaging angle**, the **real study results** (stats + method + citat
 4. **Brand + CTA.**
 
 ## Build rules (priority order)
-
 1. **Frame it as a study** and back it with a real method footnote. Never fake a study.
 2. **Each result pairs a stat with an image** so the proof is shown, not just stated.
 3. **2–4 results** — enough to feel rigorous, not a wall.
