@@ -30,7 +30,7 @@ Mute it. If you still follow the pitch by watching where the hand points on the 
 
 - **Cart screenshot:** a still image of a cart. Point to Screen is filmed and moving, and the cart (if any) is just one beat.
 - **Greenscreen:** the creator is placed in front of a background. In Point to Screen the screen is a real device in frame and the person is usually only a hand.
-- **Graphic anchor:** graphics pop up around a talking creator. In Point to Screen there are no added graphics; the screen itself is the visual.
+- **Graphic yap:** graphics pop up around a talking creator. In Point to Screen there are no added graphics; the screen itself is the visual.
 - **Web search:** a search results page as the hero. If someone is pointing at a filmed search on a real screen, tag Point to Screen first and add Web search as secondary.
 
 ## Signals

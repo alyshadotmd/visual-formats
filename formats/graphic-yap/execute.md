@@ -1,15 +1,15 @@
 ---
-name: graphic-anchor-execution-sop
-description: Implementation SOP for the Graphic Anchor ad format — a creator talking to camera while graphics pop up around them, layered over the same shot, to clarify/emphasize/visualize/extend what they're saying. Always a video. Use whenever ideating, scripting, or briefing a graphic anchor ad. Governs how the video is built and scripted; the messaging angle governs the argument.
+name: graphic-yap-execution-sop
+description: Implementation SOP for the Graphic Yap ad format — a creator talking to camera while graphics pop up around them, layered over the same shot, to clarify/emphasize/visualize/extend what they're saying. Always a video. Use whenever ideating, scripting, or briefing a graphic yap ad. Governs how the video is built and scripted; the messaging angle governs the argument.
 ---
 
-# Graphic Anchor Format — Execution SOP
+# Graphic Yap Format — Execution SOP
 
-For "is this ad a Graphic Anchor?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and scripting one.
+For "is this ad a Graphic Yap?" naming/classification questions, use `classify.md` in this same folder instead. This document is for building and scripting one.
 
 ## Reference examples (look here first)
 
-To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=graphic-anchor`.
+To find examples, look in the shared `../../files/` folder for any file whose name contains `vf=graphic-yap`.
 
 Watch how each graphic enters on the beat it supports and swaps as the point changes.
 

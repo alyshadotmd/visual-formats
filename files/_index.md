@@ -317,7 +317,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=honeylove_s=bfcm_vf=comment-response_vf=ugc-mashup_ot=amount-off.mp4` | bfcm | honeylove | - | comment-response, ugc-mashup | amount-off | Alysha review (Sept 30 2026): comment-response changed to comment-response + ugc-mashup |
 | `b=honeylove_s=bfcm_vf=flatlay_ot=amount-off.jpeg` | bfcm | honeylove | - | flatlay | amount-off | - |
 | `b=honeylove_s=bfcm_vf=flatlay_vf=offer-banner_ot=amount-off.mp4` | bfcm | honeylove | - | flatlay, offer-banner | amount-off | Alysha review (Sept 30 2026): other changed to flatlay + offer-banner |
-| `b=honeylove_s=bfcm_vf=graphic-anchor_ot=amount-off.mp4` | bfcm | honeylove | - | graphic-anchor | amount-off | Alysha review (Sept 30 2026): other changed to graphic-anchor |
+| `b=honeylove_s=bfcm_vf=graphic-yap_ot=amount-off.mp4` | bfcm | honeylove | - | graphic-yap | amount-off | Alysha review (Sept 30 2026): other changed to graphic-yap |
 | `b=honeylove_s=bfcm_vf=letter_ot=free-gift.jpeg` | bfcm | honeylove | - | letter | free-gift | - |
 | `b=honeylove_s=bfcm_vf=offer-banner_ot=amount-off.jpeg` | bfcm | honeylove | - | offer-banner | amount-off | Alysha review (Sept 30 2026): other changed to offer-banner |
 | `b=honeylove_s=bfcm_vf=product-animation_vf=offer-banner_ot=none.mp4` | bfcm | honeylove | - | product-animation, offer-banner | none | Alysha review (Sept 30 2026): offer-banner changed to product-animation + offer-banner |
@@ -430,9 +430,9 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=magic-mind_s=bfcm_vf=product-animation_ot=amount-off_ot=free-gift.mp4` | bfcm | magic-mind | - | product-animation | amount-off, free-gift | Alysha review (Sept 30 2026): other changed to product-animation |
 | `b=magic-mind_s=bfcm_vf=product-animation_ot=amount-off_ot=free-gift_n=2.mp4` | bfcm | magic-mind | - | product-animation | amount-off, free-gift | Alysha review (Sept 30 2026): other changed to product-animation |
 | `b=magic-mind_s=bfcm_vf=ugc-mashup_ot=amount-off_ot=free-gift.mp4` | bfcm | magic-mind | - | ugc-mashup | amount-off, free-gift | Alysha review (Sept 30 2026): other changed to ugc-mashup |
-| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-anchor_ot=amount-off_ot=free-gift.mp4` | bfcm | magic-mind | - | ugc, graphic-anchor | amount-off, free-gift | Alysha review (Sept 30 2026): yapper changed to ugc + graphic-anchor |
-| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-anchor_ot=amount-off_ot=free-gift_n=2.mp4` | bfcm | magic-mind | - | ugc, graphic-anchor | amount-off, free-gift | Alysha review (Sept 30 2026): graphic-anchor changed to ugc + graphic-anchor |
-| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-anchor_ot=amount-off_ot=free-gift_n=3.mp4` | bfcm | magic-mind | - | ugc, graphic-anchor | amount-off, free-gift | Alysha review (Sept 30 2026): testimonial changed to ugc + graphic-anchor |
+| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-yap_ot=amount-off_ot=free-gift.mp4` | bfcm | magic-mind | - | ugc, graphic-yap | amount-off, free-gift | Alysha review (Sept 30 2026): yapper changed to ugc + graphic-yap |
+| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-yap_ot=amount-off_ot=free-gift_n=2.mp4` | bfcm | magic-mind | - | ugc, graphic-yap | amount-off, free-gift | Alysha review (Sept 30 2026): graphic-yap changed to ugc + graphic-yap |
+| `b=magic-mind_s=bfcm_vf=ugc_vf=graphic-yap_ot=amount-off_ot=free-gift_n=3.mp4` | bfcm | magic-mind | - | ugc, graphic-yap | amount-off, free-gift | Alysha review (Sept 30 2026): testimonial changed to ugc + graphic-yap |
 | `b=magic-mind_s=evergreen_vf=sign_ot=none.jpg` | evergreen | magic-mind | - | sign | none | - |
 | `b=marpipe_s=evergreen_vf=letter_ot=none.jpeg` | evergreen | marpipe | - | letter | none | - |
 | `b=mejuri_s=evergreen_vf=product-grid_ot=none.jpeg` | evergreen | mejuri | - | product-grid | none | - |
@@ -528,7 +528,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=seed_s=evergreen_vf=text-echo_ot=amount-off.jpeg` | evergreen | seed | - | text-echo | amount-off | - |
 | `b=seed_s=evergreen_vf=whiteboard_ot=none.mp4` | evergreen | seed | - | whiteboard | none | - |
 | `b=smol_s=evergreen_vf=post-it_ot=none.mp4` | evergreen | smol | - | post-it | none | - |
-| `b=solawave_s=evergreen_vf=yapper_vf=graphic-anchor_ot=none.mp4` | evergreen | solawave | - | yapper, graphic-anchor | none | - |
+| `b=solawave_s=evergreen_vf=yapper_vf=graphic-yap_ot=none.mp4` | evergreen | solawave | - | yapper, graphic-yap | none | - |
 | `b=solderstick_s=evergreen_vf=instagram-text-overlay_ot=none.jpeg` | evergreen | solderstick | - | instagram-text-overlay | none | - |
 | `b=solderstick_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | solderstick | - | us-vs-them | none | - |
 | `b=spacegoods_s=evergreen_vf=instagram-text-overlay_ot=amount-off_n=2.jpg` | evergreen | spacegoods | - | instagram-text-overlay | amount-off | - |

@@ -38,7 +38,7 @@ Mute it, then ask: is the reason this is fun to watch the **editing** — a rele
 
 ## Commonly confused with
 
-- **Graphic-anchor:** a creator holds the frame as the anchor while graphics accent them over the same shot. High-Production Edit cuts away constantly and the built payoffs *are* the ad; there's no held anchor. If graphics merely float around a sustained talking creator, it's graphic-anchor.
+- **Graphic-yap:** a creator holds the frame as the anchor while graphics accent them over the same shot. High-Production Edit cuts away constantly and the built payoffs *are* the ad; there's no held anchor. If graphics merely float around a sustained talking creator, it's graphic-yap.
 - **Yapper:** a fast talking-head monologue with no on-screen evidence. High-Production Edit is wall-to-wall built evidence, stunts, and animation. A VO can narrate, but the visuals are the show.
 - **Demo:** one product being used/shown, sustained, to prove it works. High-Production Edit may contain demo beats but strings many dramatized payoffs together; when a single sustained demo carries the ad, tag demo (or dual-tag).
 - **Asmr:** sound-led, satisfying tactile product sounds with little VO. High-Production Edit is VO-and-visual-led and gag-dense, not sound-led.

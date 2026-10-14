@@ -21,7 +21,7 @@ A **scripted acted-out scene with defined characters and dialogue**, most often 
 
 ### What does NOT count
 
-- **A single talking head, even a lively one** — that's `yapper` or, with graphics popping around them, `graphic-anchor`.
+- **A single talking head, even a lively one** — that's `yapper` or, with graphics popping around them, `graphic-yap`.
 - **A voiceover over b-roll** with no on-camera characters and no scripted exchange.
 - **A user narrating their own story** to the camera — that's `testimonial`.
 - **A comment-reply framing** where the "second voice" is a screenshotted comment, not an acted character — that's `comment-response`.

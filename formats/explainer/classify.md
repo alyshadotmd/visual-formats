@@ -29,7 +29,7 @@ Did you learn something from it even if you skipped the product? If yes, Explain
 
 - **Yapper:** raw, direct-to-camera talk about their life or opinion. Explainer is teaching a topic.
 - **Founder:** the person who built the product. A founder teaching is still Founder first.
-- **Graphic Anchor:** a talker holding the frame while graphics carry the points.
+- **Graphic Yap:** a talker holding the frame while graphics carry the points.
 
 ## Signals
 
