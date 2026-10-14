@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
 <title>Visual Format Library by alysha.md</title>
 <meta name="description" content="Every example ad in the visual formats library, evergreen and Black Friday, filterable by format, brand, and offer.">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232B1250'/%3E%3Crect x='12' y='12' width='17' height='17' rx='3' fill='%23CEFF5B'/%3E%3Crect x='35' y='12' width='17' height='17' rx='3' fill='%23A7A3F5'/%3E%3Crect x='12' y='35' width='17' height='17' rx='3' fill='%235047EB'/%3E%3Crect x='35' y='35' width='17' height='17' rx='3' fill='%23FFFFFF'/%3E%3C/svg%3E">
@@ -146,6 +147,16 @@
     .seasons button { flex: 1; justify-content: center; padding: 10px 6px; font-size: 14px; flex-direction: column; gap: 0; }
         .lede { font-size: 16px; }
   }
+
+  /* Host-proof dropdown styling: inside the Runneth site shell, global button/input rules would
+     otherwise center the text, recolor the buttons, or put a green ring on the search box. These
+     win over those, and change nothing on the standalone/GitHub Pages file. */
+  .filters .field .ms-btn { display: block !important; width: 100% !important; height: 44px !important; padding: 10px 36px 10px 12px !important; text-align: left !important; font-weight: 400 !important; font-size: 16px !important; color: var(--ink) !important; background-color: var(--white) !important; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M2 4l4 4 4-4' fill='none' stroke='%232B1250' stroke-width='1.6' stroke-linecap='round'/%3E%3C/svg%3E") !important; background-repeat: no-repeat !important; background-position: right 12px center !important; border: 1px solid var(--line) !important; border-radius: 6px !important; box-shadow: none !important; white-space: nowrap !important; overflow: hidden !important; text-overflow: ellipsis !important; cursor: pointer !important; appearance: none !important; }
+  .filters .field .ms-btn:hover { border-color: var(--lavender) !important; }
+  .filters .field .ms-btn.active { border-color: var(--indigo) !important; box-shadow: 0 0 0 1px var(--indigo) inset !important; }
+  .filters .field .panel input[type="search"] { display: block !important; width: calc(100% - 20px) !important; margin: 10px !important; padding: 8px 10px !important; border: 1px solid var(--line) !important; border-radius: 6px !important; background: var(--silver) !important; color: var(--ink) !important; font-size: 14px !important; box-shadow: none !important; }
+  .filters .field .panel input[type="search"]:focus, .filters .field .panel input[type="search"]:focus-visible { outline: 2px solid var(--indigo) !important; outline-offset: 0 !important; border-color: var(--indigo) !important; }
+  .filters .field .panel li label { color: var(--ink) !important; }
 </style>
 </head>
 <body>
@@ -174,10 +185,7 @@
     <div class="filter-row">
       <div class="field" data-ms="category"><span class="lbl">🏷️ Product category</span></div>
       <div class="field" data-ms="brand"><span class="lbl">🛍️ Brand</span></div>
-      <div class="field">
-        <label for="media">🎞️ Image or video</label>
-        <select id="media"><option value="">All</option><option value="image">Images</option><option value="video">Videos</option></select>
-      </div>
+      <div class="field" data-ms="media"><span class="lbl">🎞️ Image or video</span></div>
       <div class="field" data-ms="format"><span class="lbl">🧩 Visual format</span></div>
       <div class="field" data-ms="offer"><span class="lbl">💸 What's the offer?</span></div>
     </div>
@@ -262,8 +270,10 @@ const allValues = {
   format: [...new Set(items.flatMap((i) => i.formats))].sort(),
   offer: OFFER_ORDER.filter((o) => items.some((i) => (i.offers || []).includes(o))),
 };
-const optLabel = { category: (v) => v, brand: (v) => brandLabel[v], format: pretty, offer: (v) => OFFER[v] || pretty(v) };
-const placeholder = { category: "All categories", brand: "All brands", format: "All visual formats", offer: "All offer types" };
+const optLabel = { category: (v) => v, brand: (v) => brandLabel[v], format: pretty, offer: (v) => OFFER[v] || pretty(v), media: (v) => v === "image" ? "Images" : v === "video" ? "Videos" : "All" };
+const placeholder = { category: "All categories", brand: "All brands", format: "All visual formats", offer: "All offer types", media: "All" };
+const SINGLE = { media: true };  // single-pick dropdowns: one value, closes on pick, no Clear row
+allValues.media = ["", "image", "video"];
 const EMERGING = new Set(DATA.emerging || []);
 const hints = {};
 const ms = {};
@@ -275,7 +285,8 @@ for (const field of document.querySelectorAll("[data-ms]")) {
   const ul = el("ul");
   const clear = el("button", "clear", "Clear"); clear.type = "button";
   if (allValues[key].length > 8) panel.append(search);
-  panel.append(ul, clear);
+  panel.append(ul);
+  if (!SINGLE[key]) panel.append(clear);
   field.append(btn, panel);
   if (hints[key]) field.append(el("span", "hint", hints[key]));
   const boxes = {};
@@ -285,7 +296,11 @@ for (const field of document.querySelectorAll("[data-ms]")) {
     lab.append(cb, name);
     if (key === "format" && EMERGING.has(v)) lab.append(el("span", "bubble", "Emerging"));
     lab.append(c); li.append(lab); ul.append(li);
-    cb.addEventListener("change", () => { state[key] = allValues[key].filter((x) => boxes[x].cb.checked); update(); });
+    cb.addEventListener("change", () => {
+      if (SINGLE[key]) { state[key] = cb.checked ? v : ""; field.classList.remove("open"); }
+      else state[key] = allValues[key].filter((x) => boxes[x].cb.checked);
+      update();
+    });
     boxes[v] = { cb, c, li, text: optLabel[key](v).toLowerCase() };
   }
   search.addEventListener("input", () => visibility(key));
@@ -305,7 +320,16 @@ function visibility(key) {
 }
 function syncControls() {
   document.querySelectorAll(".seasons button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.season === state.season)));
-  $("#media").value = state.media;
+  { // media is a single-pick dropdown with the same look as the multi-pick ones
+    const { btn, boxes } = ms.media;
+    const pool = items.filter((it) => matches(it, "media"));
+    const counts = { "": pool.length, image: 0, video: 0 };
+    for (const it of pool) counts[it.kind]++;
+    for (const [v, b] of Object.entries(boxes)) { b.cb.checked = state.media === v; b.c.textContent = counts[v] || 0; b.n = counts[v] || 0; b.li.classList.toggle("zero", !counts[v]); }
+    visibility("media");
+    btn.textContent = optLabel.media(state.media);
+    btn.classList.toggle("active", !!state.media);
+  }
   for (const key of MULTI) {
     const { btn, boxes } = ms[key];
     const pool = items.filter((it) => matches(it, key));
@@ -318,9 +342,6 @@ function syncControls() {
   }
   const sc = countSeasons();
   for (const [s, n] of Object.entries(sc)) { const span = document.querySelector(`[data-sn="${s}"]`); if (span) span.textContent = n; }
-  const mediaPool = items.filter((it) => matches(it, "media"));
-  const vids = mediaPool.filter((i) => i.kind === "video").length;
-  const opts = $("#media").options; opts[0].text = `All (${mediaPool.length})`; opts[1].text = `Images (${mediaPool.length - vids})`; opts[2].text = `Videos (${vids})`;
 }
 function countSeasons() {
   const pool = items.filter((it) => matches(it, "season"));
@@ -424,7 +445,6 @@ function render(reset = true) {
 function update() { writeHash(); syncControls(); render(); }
 
 document.querySelectorAll(".seasons button").forEach((b) => b.addEventListener("click", () => { state.season = b.dataset.season; update(); }));
-$("#media").addEventListener("change", (e) => { state.media = e.target.value; update(); });
 $("#reset").addEventListener("click", () => { Object.assign(state, { season: "", media: "", category: [], brand: [], format: [], offer: [] }); update(); });
 $("#more").addEventListener("click", () => { shown += PAGE; render(false); });
 window.addEventListener("hashchange", () => { readHash(); syncControls(); render(); });
