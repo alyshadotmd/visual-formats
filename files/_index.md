@@ -68,7 +68,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=vella-studios_s=evergreen_vf=text-message_vf=cart-screenshot_ot=none_tag=favorite.jpg` | Organic post, not an ad (but she'd run it as one). Dad's "$281.15 for groceries" text matches the Pilates class pack total exactly. The price becomes the punchline and you work out the joke yourself. |
 | `b=portland-leather-goods_c=heather-grace_s=evergreen_vf=comment-response_vf=yapper_ot=none_tag=favorite.mp4` | Replies to a real comment ("What size did you get?"), shows the proof in the first second, then answers each buyer question in order. "I'm really hard on bags" sells the durability. |
 
-## Entries (493)
+## Entries (500)
 
 | File | Season | Brand | Creator | Visual format(s) | Offer type | Tag note |
 |---|---|---|---|---|---|---|
@@ -130,6 +130,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=barkbox_s=evergreen_vf=unexpected-text-placement_ot=none.jpg` | evergreen | barkbox | - | unexpected-text-placement | none | - |
 | `b=barkbox_s=evergreen_vf=whiteboard_ot=none.jpg` | evergreen | barkbox | - | whiteboard | none | - |
 | `b=beis_s=bfcm_vf=greenscreen_ot=amount-off.mp4` | bfcm | beis | - | greenscreen | amount-off | - |
+| `b=belliwelli_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | belliwelli | - | us-vs-them | none | - |
 | `b=betterhelp_s=evergreen_vf=post-it_ot=none.mp4` | evergreen | betterhelp | - | post-it | none | - |
 | `b=billie_s=bfcm_vf=collage_ot=amount-off.jpeg` | bfcm | billie | - | collage | amount-off | - |
 | `b=billie_s=bfcm_vf=comment-response_ot=none.jpeg` | bfcm | billie | - | comment-response | none | - |
@@ -159,6 +160,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=buoy_s=evergreen_vf=podcast_ot=none.mp4` | evergreen | buoy | - | podcast | none | - |
 | `b=buoy_s=evergreen_vf=taste-test_vf=yapper_ot=none.mp4` | evergreen | buoy | - | taste-test, yapper | none | - |
 | `b=buoy_s=evergreen_vf=us-vs-them_ot=amount-off.jpg` | evergreen | buoy | - | us-vs-them | amount-off | - |
+| `b=buoy_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | buoy | - | us-vs-them | none | - |
 | `b=caraway_s=bfcm_vf=founder_ot=none.mp4` | bfcm | caraway | - | founder | none | - |
 | `b=caraway_s=bfcm_vf=interview_ot=amount-off.mp4` | bfcm | caraway | - | interview | amount-off | - |
 | `b=caraway_s=bfcm_vf=offer-banner_ot=amount-off.jpeg` | bfcm | caraway | - | offer-banner | amount-off | Runneth first pass (Sept 30 2026): product-image changed to offer-banner under Alysha's hero test (the offer or sale headline is what you read first). |
@@ -262,6 +264,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=gruns_s=evergreen_vf=text-message_ot=none.jpg` | evergreen | gruns | - | text-message | none | - |
 | `b=gruns_s=evergreen_vf=unexpected-text-placement_ot=none.jpg` | evergreen | gruns | - | unexpected-text-placement | none | - |
 | `b=gruns_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | gruns | - | us-vs-them | none | - |
+| `b=gruns_s=evergreen_vf=us-vs-them_ot=none_n=2.jpeg` | evergreen | gruns | - | us-vs-them | none | - |
 | `b=happy-mammoth_s=evergreen_vf=ai-animation_ot=none.mp4` | evergreen | happy-mammoth | - | ai-animation | none | - |
 | `b=happy-mammoth_s=evergreen_vf=before-and-after_ot=none.jpg` | evergreen | happy-mammoth | - | before-and-after | none | - |
 | `b=happy-mammoth_s=evergreen_vf=letter_ot=none.jpeg` | evergreen | happy-mammoth | - | letter | none | - |
@@ -459,6 +462,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=natural-cycles_s=evergreen_vf=line-chart_ot=none.jpg` | evergreen | natural-cycles | - | line-chart | none | - |
 | `b=nestig_s=evergreen_vf=comment-response_ot=none.jpeg` | evergreen | nestig | - | comment-response | none | - |
 | `b=nutrafol-men_s=evergreen_vf=before-and-after_ot=none.jpg` | evergreen | nutrafol-men | - | before-and-after | none | - |
+| `b=nutrops_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | nutrops | - | us-vs-them | none | - |
 | `b=o-positiv_s=bfcm_vf=instagram-text-overlay_ot=bundle_ot=amount-off.jpeg` | bfcm | o-positiv | - | instagram-text-overlay | bundle, amount-off | - |
 | `b=o-positiv_s=bfcm_vf=offer-banner_ot=amount-off.jpeg` | bfcm | o-positiv | - | offer-banner | amount-off | Alysha review (Sept 30 2026): other changed to offer-banner |
 | `b=o-positiv_s=bfcm_vf=offer-banner_ot=none.mp4` | bfcm | o-positiv | - | offer-banner | none | Alysha review (Sept 30 2026): other changed to offer-banner |
@@ -467,6 +471,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=o-positiv_s=evergreen_vf=feature-benefit-callout_ot=none.jpg` | evergreen | o-positiv | - | feature-benefit-callout | none | - |
 | `b=o-positiv_s=evergreen_vf=post-it_ot=none.jpg` | evergreen | o-positiv | - | post-it | none | - |
 | `b=o-positiv_s=evergreen_vf=review_ot=none.jpg` | evergreen | o-positiv | - | review | none | - |
+| `b=o-positiv_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | o-positiv | - | us-vs-them | none | - |
 | `b=oats-overnight_s=evergreen_vf=founder_ot=none.mp4` | evergreen | oats-overnight | - | founder | none | - |
 | `b=obvi_s=evergreen_vf=whiteboard_ot=none.jpg` | evergreen | obvi | - | whiteboard | none | - |
 | `b=olipop_s=evergreen_vf=asmr_ot=none.mp4` | evergreen | olipop | - | asmr | none | - |
@@ -526,6 +531,7 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=seed_s=bfcm_vf=ugc_ot=amount-off.mp4` | bfcm | seed | - | ugc | amount-off | Alysha review (Sept 30 2026): other changed to ugc |
 | `b=seed_s=evergreen_vf=faq_ot=none.jpeg` | evergreen | seed | - | faq | none | - |
 | `b=seed_s=evergreen_vf=text-echo_ot=amount-off.jpeg` | evergreen | seed | - | text-echo | amount-off | - |
+| `b=seed_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | seed | - | us-vs-them | none | - |
 | `b=seed_s=evergreen_vf=whiteboard_ot=none.mp4` | evergreen | seed | - | whiteboard | none | - |
 | `b=smol_s=evergreen_vf=post-it_ot=none.mp4` | evergreen | smol | - | post-it | none | - |
 | `b=solawave_s=evergreen_vf=yapper_vf=graphic-yap_ot=none.mp4` | evergreen | solawave | - | yapper, graphic-yap | none | - |
@@ -564,4 +570,5 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=winona_s=evergreen_vf=comment-response_ot=none.jpg` | evergreen | winona | - | comment-response | none | - |
 | `b=your-heights_s=evergreen_vf=sign_ot=none.jpg` | evergreen | your-heights | - | sign | none | - |
 | `b=your-heights_s=evergreen_vf=us-vs-them_ot=none.jpeg` | evergreen | your-heights | - | us-vs-them | none | - |
+| `b=your-heights_s=evergreen_vf=us-vs-them_ot=none_n=2.jpeg` | evergreen | your-heights | - | us-vs-them | none | - |
 | `b=your-heights_s=evergreen_vf=yapper_ot=none.mp4` | evergreen | your-heights | - | yapper | none | - |
