@@ -99,6 +99,7 @@ These folders exist in the library but have no `classify.md` or `execute.md` yet
 
 ## How to use this library
 - Naming/classifying an ad: open the format's `classify.md`.
+- Choosing formats for a new ad, hook or video: start at [choosing.md](choosing.md), one row per format.
 - Ideating, writing a concept/script/brief: open the format's `execute.md`.
 - Every video ad, whatever the format: the hook lands in the first 2 to 3 seconds. Each `execute.md` says what that format's hook is; this timing applies to all of them. Total length has no set cap for any video format.
 - Study the example creatives alongside whichever doc you're using, they're calibration references pulled from real in-market ads (competitor and inspo swipe), not assets to copy verbatim. The example media now lives in the shared `../../files/` folder (matched by the format token in the filename), not inside each format folder.
