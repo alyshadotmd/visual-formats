@@ -2,7 +2,7 @@
 
 Every brand in this library, grouped by product category. The **File tag** is how the brand appears in file names (`b=<brand>`).
 
-136 brands.
+135 brands.
 
 ## Hair
 
@@ -27,9 +27,14 @@ Every brand in this library, grouped by product category. The **File tag** is ho
 | Mejuri | `b=mejuri` |  |
 | Meller | `b=meller` |  |
 | Moon Magic | `b=moon-magic` |  |
+| Portland Leather Goods | `b=portland-leather-goods` |  |
+
+## Tech accessories
+
+| Brand | File tag | Note |
+|---|---|---|
 | Mous | `b=mous` |  |
 | Pela Case | `b=pela-case` |  |
-| Portland Leather Goods | `b=portland-leather-goods` |  |
 
 ## Apparel
 
@@ -41,7 +46,6 @@ Every brand in this library, grouped by product category. The **File tag** is ho
 | Honeylove | `b=honeylove` |  |
 | J.Crew | `b=jcrew` |  |
 | Mott & Bow | `b=mott-and-bow` |  |
-| The Oodie | `b=the-oodie` |  |
 | Vuori | `b=vuori` |  |
 
 ## Home
@@ -50,17 +54,23 @@ Every brand in this library, grouped by product category. The **File tag** is ho
 |---|---|---|
 | Boll & Branch | `b=boll-and-branch` |  |
 | Brooklinen | `b=brooklinen` |  |
-| Caraway | `b=caraway` |  |
 | Eight Sleep | `b=eight-sleep` |  |
 | Grove Collaborative | `b=grove-collaborative` |  |
-| HexClad | `b=hexclad` |  |
 | Hommey | `b=hommey` |  |
-| Made In | `b=made-in` |  |
-| Our Place | `b=our-place` |  |
+| The Oodie | `b=the-oodie` |  |
 | Purdy & Figg | `b=purdy-and-figg` |  |
 | Purple | `b=purple` |  |
 | Sans | `b=sans` |  |
 | Smol | `b=smol` |  |
+
+## Kitchen
+
+| Brand | File tag | Note |
+|---|---|---|
+| Caraway | `b=caraway` |  |
+| HexClad | `b=hexclad` |  |
+| Made In | `b=made-in` |  |
+| Our Place | `b=our-place` |  |
 
 ## Beauty
 
@@ -102,54 +112,53 @@ Every brand in this library, grouped by product category. The **File tag** is ho
 | ARMRA | `b=armra` |  |
 | Arrae | `b=arrae` |  |
 | Bonafide | `b=bonafide` |  |
-| Buoy | `b=buoy` |  |
-| Dose | `b=dose` |  |
-| Feel Goods | `b=feel-goods` |  |
 | Grüns | `b=gruns` |  |
 | Happy Mammoth | `b=happy-mammoth` |  |
 | Honour Health | `b=honour-health` |  |
 | HUM Nutrition | `b=hum-nutrition` |  |
 | Lemme | `b=lemme` |  |
-| Magic Mind | `b=magic-mind` |  |
 | Moon Juice | `b=moon-juice` |  |
 | O Positiv | `b=o-positiv` |  |
 | Obvi | `b=obvi` |  |
 | Onnit | `b=onnit` |  |
-| Rheal | `b=rheal` |  |
 | Seed | `b=seed` |  |
 | Timeline Longevity | `b=timeline-longevity` |  |
 | Vitable | `b=vitable` |  |
 | Wild Nutrition | `b=wild-nutrition` |  |
 | Your Heights | `b=your-heights` |  |
 
-## Coffee
+## Functional drinks
 
 | Brand | File tag | Note |
 |---|---|---|
-| Atlas Coffee Club | `b=atlas-coffee-club` |  |
+| Buoy | `b=buoy` |  |
+| Dose | `b=dose` |  |
 | Everyday Dose | `b=everyday-dose` |  |
+| Feel Goods | `b=feel-goods` |  |
+| Hydrant | `b=hydrant` |  |
+| Instant Hydration | `b=instant-hydration` |  |
 | Javvy | `b=javvy` |  |
+| Magic Mind | `b=magic-mind` |  |
+| MoonBrew | `b=moonbrew` |  |
 | MUD\WTR | `b=mud-wtr` |  |
+| OLIPOP | `b=olipop` |  |
+| Rheal | `b=rheal` |  |
 | RYZE | `b=ryze` |  |
 | Spacegoods | `b=spacegoods` |  |
-| Trade | `b=trade` |  |
 
 ## Food & drink
 
 | Brand | File tag | Note |
 |---|---|---|
+| Atlas Coffee Club | `b=atlas-coffee-club` |  |
 | Gousto | `b=gousto` |  |
 | Huel | `b=huel` |  |
-| Hydrant | `b=hydrant` |  |
-| Instant Hydration | `b=instant-hydration` |  |
-| Little Caesars | `b=little-caesars` |  |
 | Misfits Market | `b=misfits-market` |  |
-| MoonBrew | `b=moonbrew` |  |
 | Oats Overnight | `b=oats-overnight` |  |
-| OLIPOP | `b=olipop` |  |
 | Orgain | `b=orgain` |  |
 | Panera Bread | `b=panera-bread` |  |
 | Surreal | `b=surreal` |  |
+| Trade | `b=trade` |  |
 
 ## Health & telehealth
 

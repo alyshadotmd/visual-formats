@@ -409,7 +409,6 @@ Alysha's favorite ads ever, tagged `_tag=favorite`. Each has a same-name `.md` w
 | `b=lemme_s=evergreen_vf=comment-response_ot=none.jpeg` | evergreen | lemme | - | comment-response | none | - |
 | `b=lemme_s=evergreen_vf=comment-screenshot_ot=none.jpeg` | evergreen | lemme | - | comment-screenshot | none | - |
 | `b=lemme_s=evergreen_vf=feature-benefit-callout_ot=none.jpg` | evergreen | lemme | - | feature-benefit-callout | none | - |
-| `b=little-caesars_c=jaredbuccii_s=evergreen_vf=skit_ot=none.mp4` | evergreen | little-caesars | jaredbuccii | skit | none | - |
 | `b=loop_s=evergreen_vf=comment-response_ot=none.jpg` | evergreen | loop | - | comment-response | none | - |
 | `b=loop_s=evergreen_vf=flyer_ot=amount-off.jpg` | evergreen | loop | - | flyer | amount-off | - |
 | `b=loop_s=evergreen_vf=greenscreen_ot=none.mp4` | evergreen | loop | - | greenscreen | none | - |
